@@ -1,0 +1,1626 @@
+[
+  {
+    "slug": "readme",
+    "title": "README",
+    "type": "root",
+    "path": "README.md",
+    "tags": [
+      "home"
+    ],
+    "human_path": "wiki/readme.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "index",
+    "title": "HTML Dashboard",
+    "type": "dashboard",
+    "path": "index.html",
+    "tags": [
+      "dashboard"
+    ],
+    "human_path": "index.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "agents",
+    "title": "AGENTS",
+    "type": "instructions",
+    "path": "AGENTS.md",
+    "tags": [
+      "agents"
+    ],
+    "human_path": "wiki/agents.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "changelog",
+    "title": "CHANGELOG",
+    "type": "log",
+    "path": "CHANGELOG.md",
+    "tags": [
+      "changelog"
+    ],
+    "human_path": "wiki/changelog.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "start-here",
+    "title": "Start Here",
+    "type": "home",
+    "path": "00_Home/start-here.md",
+    "tags": [
+      "home"
+    ],
+    "human_path": "wiki/00-home-start-here.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "weekly-dashboard",
+    "title": "Weekly Dashboard",
+    "type": "dashboard",
+    "path": "00_Home/weekly-dashboard.md",
+    "tags": [
+      "weekly"
+    ],
+    "human_path": "wiki/00-home-weekly-dashboard.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "glossary",
+    "title": "Glossary",
+    "type": "glossary",
+    "path": "00_Home/glossary.md",
+    "tags": [
+      "glossary"
+    ],
+    "human_path": "wiki/00-home-glossary.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "open-questions",
+    "title": "Open Questions",
+    "type": "questions",
+    "path": "00_Home/open-questions.md",
+    "tags": [
+      "questions"
+    ],
+    "human_path": "wiki/00-home-open-questions.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "candidates-to-review",
+    "title": "Candidates To Review",
+    "type": "candidate-queue",
+    "path": "00_Home/candidates-to-review.md",
+    "tags": [
+      "candidates"
+    ],
+    "human_path": "wiki/00-home-candidates-to-review.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "tobias-lutke",
+    "title": "Tobias Lutke",
+    "type": "person",
+    "path": "01_People/tobias-lutke.md",
+    "tags": [
+      "ceo",
+      "ai-adoption",
+      "operations"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-tobias-lutke.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "pieter-levels",
+    "title": "Pieter Levels",
+    "type": "person",
+    "path": "01_People/pieter-levels.md",
+    "tags": [
+      "indie",
+      "shipping",
+      "distribution"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-pieter-levels.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "andrew-ng",
+    "title": "Andrew Ng",
+    "type": "person",
+    "path": "01_People/andrew-ng.md",
+    "tags": [
+      "ai-fundamentals",
+      "education",
+      "applied-ai"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-andrew-ng.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "matt-pocock",
+    "title": "Matt Pocock",
+    "type": "person",
+    "path": "01_People/matt-pocock.md",
+    "tags": [
+      "typescript",
+      "code-quality",
+      "contracts"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-matt-pocock.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "peter-steinberger",
+    "title": "Peter Steinberger",
+    "type": "person",
+    "path": "01_People/peter-steinberger.md",
+    "tags": [
+      "codex",
+      "claude-code",
+      "parallel-agents",
+      "workflow"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-peter-steinberger.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "thariq-shihipar",
+    "title": "Thariq Shihipar",
+    "type": "person",
+    "path": "01_People/thariq-shihipar.md",
+    "tags": [
+      "claude-code",
+      "agent-tools",
+      "context"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/01-people-thariq-shihipar.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "andrej-karpathy",
+    "title": "Andrej Karpathy",
+    "type": "person",
+    "path": "01_People/andrej-karpathy.md",
+    "tags": [
+      "software-2",
+      "software-3",
+      "llms",
+      "programming-models"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-andrej-karpathy.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "jiayuan-zhang",
+    "title": "Jiayuan Zhang",
+    "type": "person",
+    "path": "01_People/jiayuan-zhang.md",
+    "tags": [
+      "agent-management",
+      "human-agent-teams",
+      "agency"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/01-people-jiayuan-zhang.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "mitchell-hashimoto",
+    "title": "Mitchell Hashimoto",
+    "type": "person",
+    "path": "01_People/mitchell-hashimoto.md",
+    "tags": [
+      "engineering-craft",
+      "harnesses",
+      "ghostty",
+      "agents"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-mitchell-hashimoto.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "theo-browne",
+    "title": "Theo Browne",
+    "type": "person",
+    "path": "01_People/theo-browne.md",
+    "tags": [
+      "typescript",
+      "full-stack",
+      "content",
+      "ai-products"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-theo-browne.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "simon-willison",
+    "title": "Simon Willison",
+    "type": "person",
+    "path": "01_People/simon-willison.md",
+    "tags": [
+      "llms",
+      "agentic-engineering",
+      "security",
+      "cli"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-simon-willison.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "agentic-engineering",
+    "title": "Agentic Engineering",
+    "type": "topic",
+    "path": "02_Topics/agentic-engineering.md",
+    "tags": [
+      "agents",
+      "coding",
+      "workflow"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/02-topics-agentic-engineering.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "ai-native-ceo-operating-system",
+    "title": "AI-Native CEO Operating System",
+    "type": "topic",
+    "path": "02_Topics/ai-native-ceo-operating-system.md",
+    "tags": [
+      "ceo",
+      "operations",
+      "leverage"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/02-topics-ai-native-ceo-operating-system.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "solo-founder-product-distribution",
+    "title": "Solo Founder Product And Distribution",
+    "type": "topic",
+    "path": "02_Topics/solo-founder-product-distribution.md",
+    "tags": [
+      "founder",
+      "distribution",
+      "customers"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/02-topics-solo-founder-product-distribution.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "engineering-taste-code-quality",
+    "title": "Engineering Taste And Code Quality",
+    "type": "topic",
+    "path": "02_Topics/engineering-taste-code-quality.md",
+    "tags": [
+      "quality",
+      "taste",
+      "maintenance"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/02-topics-engineering-taste-code-quality.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "evals-observability-feedback-loops",
+    "title": "Evals, Observability, And Feedback Loops",
+    "type": "topic",
+    "path": "02_Topics/evals-observability-feedback-loops.md",
+    "tags": [
+      "evals",
+      "observability",
+      "testing"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/02-topics-evals-observability-feedback-loops.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "security-risk-ai-agents",
+    "title": "Security And Risk For AI Agents",
+    "type": "topic",
+    "path": "02_Topics/security-risk-ai-agents.md",
+    "tags": [
+      "security",
+      "prompt-injection",
+      "risk"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/02-topics-security-risk-ai-agents.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "context-engineering",
+    "title": "Context Engineering",
+    "type": "topic",
+    "path": "02_Topics/context-engineering.md",
+    "tags": [
+      "context",
+      "prompts",
+      "files"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/02-topics-context-engineering.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "prompt-to-product",
+    "title": "Prompt To Product",
+    "type": "topic",
+    "path": "02_Topics/prompt-to-product.md",
+    "tags": [
+      "product",
+      "prototyping",
+      "agents"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/02-topics-prompt-to-product.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "daily-agent-manager-routine",
+    "title": "Daily Agent Manager Routine",
+    "type": "playbook",
+    "path": "03_Playbooks/daily-agent-manager-routine.md",
+    "tags": [
+      "daily",
+      "agents",
+      "management"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/03-playbooks-daily-agent-manager-routine.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "weekly-founder-review",
+    "title": "Weekly Founder Review",
+    "type": "playbook",
+    "path": "03_Playbooks/weekly-founder-review.md",
+    "tags": [
+      "weekly",
+      "ceo",
+      "review"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/03-playbooks-weekly-founder-review.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "planning-before-coding",
+    "title": "Planning Before Coding",
+    "type": "playbook",
+    "path": "03_Playbooks/planning-before-coding.md",
+    "tags": [
+      "planning",
+      "scope",
+      "agents"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/03-playbooks-planning-before-coding.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "parallel-agent-workflow",
+    "title": "Parallel Agent Workflow",
+    "type": "playbook",
+    "path": "03_Playbooks/parallel-agent-workflow.md",
+    "tags": [
+      "parallel",
+      "agents",
+      "delegation"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/03-playbooks-parallel-agent-workflow.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "ai-code-review-checklist",
+    "title": "AI Code Review Checklist",
+    "type": "playbook",
+    "path": "03_Playbooks/ai-code-review-checklist.md",
+    "tags": [
+      "review",
+      "quality",
+      "agents"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/03-playbooks-ai-code-review-checklist.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "shipping-small-products",
+    "title": "Shipping Small Products",
+    "type": "playbook",
+    "path": "03_Playbooks/shipping-small-products.md",
+    "tags": [
+      "shipping",
+      "product",
+      "solo"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/03-playbooks-shipping-small-products.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "customer-discovery-with-ai",
+    "title": "Customer Discovery With AI",
+    "type": "playbook",
+    "path": "03_Playbooks/customer-discovery-with-ai.md",
+    "tags": [
+      "customers",
+      "research",
+      "crm"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/03-playbooks-customer-discovery-with-ai.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "build-in-public-system",
+    "title": "Build In Public System",
+    "type": "playbook",
+    "path": "03_Playbooks/build-in-public-system.md",
+    "tags": [
+      "distribution",
+      "content",
+      "public"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/03-playbooks-build-in-public-system.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "support-sales-ops-agents",
+    "title": "Support, Sales, And Ops Agents",
+    "type": "playbook",
+    "path": "03_Playbooks/support-sales-ops-agents.md",
+    "tags": [
+      "ops",
+      "support",
+      "sales"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/03-playbooks-support-sales-ops-agents.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "candidate-promotion-workflow",
+    "title": "Candidate Promotion Workflow",
+    "type": "playbook",
+    "path": "03_Playbooks/candidate-promotion-workflow.md",
+    "tags": [
+      "knowledge-bank",
+      "candidates",
+      "sources"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/03-playbooks-candidate-promotion-workflow.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "coding-agents",
+    "title": "Coding Agents",
+    "type": "tooling",
+    "path": "04_Tooling/coding-agents.md",
+    "tags": [
+      "codex",
+      "claude-code",
+      "agents"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/04-tooling-coding-agents.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "claude-code-and-codex-workflows",
+    "title": "Claude Code And Codex Workflows",
+    "type": "tooling",
+    "path": "04_Tooling/claude-code-and-codex-workflows.md",
+    "tags": [
+      "claude-code",
+      "codex",
+      "workflow"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/04-tooling-claude-code-and-codex-workflows.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "mcp-and-agent-tools",
+    "title": "MCP And Agent Tools",
+    "type": "tooling",
+    "path": "04_Tooling/mcp-and-agent-tools.md",
+    "tags": [
+      "mcp",
+      "tools",
+      "cli"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/04-tooling-mcp-and-agent-tools.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "typescript-ai-stack",
+    "title": "TypeScript AI Stack",
+    "type": "tooling",
+    "path": "04_Tooling/typescript-ai-stack.md",
+    "tags": [
+      "typescript",
+      "nextjs",
+      "contracts"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/04-tooling-typescript-ai-stack.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "llm-cli-tools",
+    "title": "LLM CLI Tools",
+    "type": "tooling",
+    "path": "04_Tooling/llm-cli-tools.md",
+    "tags": [
+      "cli",
+      "llm",
+      "automation"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/04-tooling-llm-cli-tools.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "evals-and-test-harnesses",
+    "title": "Evals And Test Harnesses",
+    "type": "tooling",
+    "path": "04_Tooling/evals-and-test-harnesses.md",
+    "tags": [
+      "evals",
+      "tests",
+      "harness"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/04-tooling-evals-and-test-harnesses.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "automation-stack",
+    "title": "Automation Stack",
+    "type": "tooling",
+    "path": "04_Tooling/automation-stack.md",
+    "tags": [
+      "automation",
+      "ops",
+      "solo-company"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/04-tooling-automation-stack.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "browser-qa-workflow",
+    "title": "Browser QA Workflow",
+    "type": "tooling",
+    "path": "04_Tooling/browser-qa-workflow.md",
+    "tags": [
+      "browser",
+      "qa",
+      "dashboard"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/04-tooling-browser-qa-workflow.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "90-day-roadmap",
+    "title": "90 Day Roadmap",
+    "type": "roadmap",
+    "path": "05_Roadmaps/90-day-roadmap.md",
+    "tags": [
+      "roadmap"
+    ],
+    "human_path": "wiki/05-roadmaps-90-day-roadmap.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "weekly-review-template",
+    "title": "Weekly Review Template",
+    "type": "template",
+    "path": "05_Roadmaps/weekly-review-template.md",
+    "tags": [
+      "review"
+    ],
+    "human_path": "wiki/05-roadmaps-weekly-review-template.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "monthly-review-template",
+    "title": "Monthly Review Template",
+    "type": "template",
+    "path": "05_Roadmaps/monthly-review-template.md",
+    "tags": [
+      "review"
+    ],
+    "human_path": "wiki/05-roadmaps-monthly-review-template.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "research-prompts",
+    "title": "Research Prompts",
+    "type": "prompts",
+    "path": "06_Prompts/research-prompts.md",
+    "tags": [
+      "prompts"
+    ],
+    "human_path": "wiki/06-prompts-research-prompts.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "planning-prompts",
+    "title": "Planning Prompts",
+    "type": "prompts",
+    "path": "06_Prompts/planning-prompts.md",
+    "tags": [
+      "prompts"
+    ],
+    "human_path": "wiki/06-prompts-planning-prompts.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "code-review-prompts",
+    "title": "Code Review Prompts",
+    "type": "prompts",
+    "path": "06_Prompts/code-review-prompts.md",
+    "tags": [
+      "prompts"
+    ],
+    "human_path": "wiki/06-prompts-code-review-prompts.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "product-strategy-prompts",
+    "title": "Product Strategy Prompts",
+    "type": "prompts",
+    "path": "06_Prompts/product-strategy-prompts.md",
+    "tags": [
+      "prompts"
+    ],
+    "human_path": "wiki/06-prompts-product-strategy-prompts.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "eval-prompts",
+    "title": "Eval Prompts",
+    "type": "prompts",
+    "path": "06_Prompts/eval-prompts.md",
+    "tags": [
+      "prompts"
+    ],
+    "human_path": "wiki/06-prompts-eval-prompts.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "debugging-prompts",
+    "title": "Debugging Prompts",
+    "type": "prompts",
+    "path": "06_Prompts/debugging-prompts.md",
+    "tags": [
+      "prompts"
+    ],
+    "human_path": "wiki/06-prompts-debugging-prompts.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "refactoring-prompts",
+    "title": "Refactoring Prompts",
+    "type": "prompts",
+    "path": "06_Prompts/refactoring-prompts.md",
+    "tags": [
+      "prompts"
+    ],
+    "human_path": "wiki/06-prompts-refactoring-prompts.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "weekly-review-prompts",
+    "title": "Weekly Review Prompts",
+    "type": "prompts",
+    "path": "06_Prompts/weekly-review-prompts.md",
+    "tags": [
+      "prompts"
+    ],
+    "human_path": "wiki/06-prompts-weekly-review-prompts.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "knowledge-bank-maintenance-prompts",
+    "title": "Knowledge Bank Maintenance Prompts",
+    "type": "prompts",
+    "path": "06_Prompts/knowledge-bank-maintenance-prompts.md",
+    "tags": [
+      "prompts"
+    ],
+    "human_path": "wiki/06-prompts-knowledge-bank-maintenance-prompts.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "source-index",
+    "title": "Source Index",
+    "type": "source-index",
+    "path": "07_Sources/source-index.md",
+    "tags": [
+      "sources"
+    ],
+    "human_path": "wiki/07-sources-source-index.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "sources-to-review",
+    "title": "Sources To Review",
+    "type": "source-queue",
+    "path": "07_Sources/sources-to-review.md",
+    "tags": [
+      "sources"
+    ],
+    "human_path": "wiki/07-sources-sources-to-review.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "source-quality-rubric",
+    "title": "Source Quality Rubric",
+    "type": "rubric",
+    "path": "07_Sources/source-quality-rubric.md",
+    "tags": [
+      "sources"
+    ],
+    "human_path": "wiki/07-sources-source-quality-rubric.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "shopify-ai-playground",
+    "title": "Serious results, unserious methods: Shopify AI playground",
+    "type": "source-note",
+    "path": "07_Sources/shopify-ai-playground.md",
+    "tags": [
+      "article",
+      "ai-native-ceo-operating-system",
+      "agentic-engineering"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-shopify-ai-playground.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "tobi-compass-metric",
+    "title": "Pick your compass metric",
+    "type": "source-note",
+    "path": "07_Sources/tobi-compass-metric.md",
+    "tags": [
+      "article",
+      "ai-native-ceo-operating-system",
+      "solo-founder-product-distribution"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-tobi-compass-metric.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "tobi-human-excellence",
+    "title": "The Future Role of Human Excellence",
+    "type": "source-note",
+    "path": "07_Sources/tobi-human-excellence.md",
+    "tags": [
+      "article",
+      "ai-native-ceo-operating-system",
+      "agentic-engineering"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-tobi-human-excellence.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "tobi-apprentice-programmer",
+    "title": "The Apprentice Programmer",
+    "type": "source-note",
+    "path": "07_Sources/tobi-apprentice-programmer.md",
+    "tags": [
+      "article",
+      "engineering-taste-code-quality"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-tobi-apprentice-programmer.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "levelsio-blog",
+    "title": "Pieter Levels personal site and project archive",
+    "type": "source-note",
+    "path": "07_Sources/levelsio-blog.md",
+    "tags": [
+      "site",
+      "solo-founder-product-distribution",
+      "shipping-small-products"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-levelsio-blog.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "levels-projects",
+    "title": "List of all my projects ever",
+    "type": "source-note",
+    "path": "07_Sources/levels-projects.md",
+    "tags": [
+      "article",
+      "solo-founder-product-distribution",
+      "shipping-small-products"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-levels-projects.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "levels-mvp",
+    "title": "How I build my minimum viable products",
+    "type": "source-note",
+    "path": "07_Sources/levels-mvp.md",
+    "tags": [
+      "article",
+      "solo-founder-product-distribution",
+      "shipping-small-products"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-levels-mvp.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "levels-validation",
+    "title": "The only real validation is people paying",
+    "type": "source-note",
+    "path": "07_Sources/levels-validation.md",
+    "tags": [
+      "article",
+      "solo-founder-product-distribution"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-levels-validation.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "levels-diy",
+    "title": "Instead of hiring people, do things yourself",
+    "type": "source-note",
+    "path": "07_Sources/levels-diy.md",
+    "tags": [
+      "article",
+      "solo-founder-product-distribution",
+      "ai-native-ceo-operating-system"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-levels-diy.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "andrew-ng-official",
+    "title": "Andrew Ng official site",
+    "type": "source-note",
+    "path": "07_Sources/andrew-ng-official.md",
+    "tags": [
+      "site",
+      "ai-native-ceo-operating-system",
+      "evals-observability-feedback-loops"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-andrew-ng-official.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "deeplearning-ai-about",
+    "title": "DeepLearning.AI about page",
+    "type": "source-note",
+    "path": "07_Sources/deeplearning-ai-about.md",
+    "tags": [
+      "site",
+      "ai-native-ceo-operating-system"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-deeplearning-ai-about.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "andrew-ai-transformation-playbook",
+    "title": "Introducing the AI Transformation Playbook",
+    "type": "source-note",
+    "path": "07_Sources/andrew-ai-transformation-playbook.md",
+    "tags": [
+      "article",
+      "ai-native-ceo-operating-system",
+      "evals-observability-feedback-loops"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-andrew-ai-transformation-playbook.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "deeplearning-agentic-ai",
+    "title": "Agentic AI course",
+    "type": "source-note",
+    "path": "07_Sources/deeplearning-agentic-ai.md",
+    "tags": [
+      "course",
+      "agentic-engineering",
+      "evals-observability-feedback-loops"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-deeplearning-agentic-ai.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "karpathy-software-2",
+    "title": "Software 2.0",
+    "type": "source-note",
+    "path": "07_Sources/karpathy-software-2.md",
+    "tags": [
+      "article",
+      "agentic-engineering",
+      "context-engineering"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-karpathy-software-2.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "karpathy-software-changing-again",
+    "title": "Software Is Changing Again",
+    "type": "source-note",
+    "path": "07_Sources/karpathy-software-changing-again.md",
+    "tags": [
+      "talk",
+      "agentic-engineering",
+      "prompt-to-product"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/07-sources-karpathy-software-changing-again.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "karpathy-zero-to-hero",
+    "title": "Neural Networks: Zero to Hero",
+    "type": "source-note",
+    "path": "07_Sources/karpathy-zero-to-hero.md",
+    "tags": [
+      "course",
+      "context-engineering",
+      "engineering-taste-code-quality"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-karpathy-zero-to-hero.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "karpathy-micrograd",
+    "title": "micrograd",
+    "type": "source-note",
+    "path": "07_Sources/karpathy-micrograd.md",
+    "tags": [
+      "repo",
+      "engineering-taste-code-quality"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-karpathy-micrograd.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "karpathy-nanogpt",
+    "title": "nanoGPT",
+    "type": "source-note",
+    "path": "07_Sources/karpathy-nanogpt.md",
+    "tags": [
+      "repo",
+      "context-engineering"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-karpathy-nanogpt.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "karpathy-llm-c",
+    "title": "llm.c",
+    "type": "source-note",
+    "path": "07_Sources/karpathy-llm-c.md",
+    "tags": [
+      "repo",
+      "engineering-taste-code-quality"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-karpathy-llm-c.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "simon-agentic-engineering-patterns",
+    "title": "Agentic Engineering Patterns",
+    "type": "source-note",
+    "path": "07_Sources/simon-agentic-engineering-patterns.md",
+    "tags": [
+      "guide",
+      "agentic-engineering",
+      "evals-observability-feedback-loops"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-simon-agentic-engineering-patterns.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "simon-not-all-ai-assisted-programming-is-vibe-coding",
+    "title": "Not all AI-assisted programming is vibe coding",
+    "type": "source-note",
+    "path": "07_Sources/simon-not-all-ai-assisted-programming-is-vibe-coding.md",
+    "tags": [
+      "article",
+      "agentic-engineering",
+      "engineering-taste-code-quality"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-simon-not-all-ai-assisted-programming-is-vibe-coding.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "simon-llm-cli",
+    "title": "LLM command-line tool and ecosystem",
+    "type": "source-note",
+    "path": "07_Sources/simon-llm-cli.md",
+    "tags": [
+      "repo",
+      "llm-cli-tools",
+      "agentic-engineering"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-simon-llm-cli.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "simon-llm-docs",
+    "title": "LLM CLI documentation",
+    "type": "source-note",
+    "path": "07_Sources/simon-llm-docs.md",
+    "tags": [
+      "docs",
+      "llm-cli-tools",
+      "evals-observability-feedback-loops"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-simon-llm-docs.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "simon-lethal-trifecta",
+    "title": "The lethal trifecta for AI agents",
+    "type": "source-note",
+    "path": "07_Sources/simon-lethal-trifecta.md",
+    "tags": [
+      "article",
+      "security-risk-ai-agents",
+      "agentic-engineering"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-simon-lethal-trifecta.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "mitchell-my-ai-adoption-journey",
+    "title": "My AI Adoption Journey",
+    "type": "source-note",
+    "path": "07_Sources/mitchell-my-ai-adoption-journey.md",
+    "tags": [
+      "article",
+      "agentic-engineering",
+      "evals-observability-feedback-loops"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-mitchell-my-ai-adoption-journey.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "mitchell-building-large-technical-projects",
+    "title": "My Approach to Building Large Technical Projects",
+    "type": "source-note",
+    "path": "07_Sources/mitchell-building-large-technical-projects.md",
+    "tags": [
+      "article",
+      "engineering-taste-code-quality",
+      "shipping-small-products"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-mitchell-building-large-technical-projects.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "mitchell-non-trivial-vibing",
+    "title": "Vibing a Non-Trivial Ghostty Feature",
+    "type": "source-note",
+    "path": "07_Sources/mitchell-non-trivial-vibing.md",
+    "tags": [
+      "article",
+      "agentic-engineering",
+      "engineering-taste-code-quality"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-mitchell-non-trivial-vibing.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "steipete-just-talk-to-it",
+    "title": "Just Talk To It - the no-bs Way of Agentic Engineering",
+    "type": "source-note",
+    "path": "07_Sources/steipete-just-talk-to-it.md",
+    "tags": [
+      "article",
+      "agentic-engineering",
+      "parallel-agent-workflow"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-steipete-just-talk-to-it.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "steipete-current-ai-dev-workflow",
+    "title": "My Current AI Dev Workflow",
+    "type": "source-note",
+    "path": "07_Sources/steipete-current-ai-dev-workflow.md",
+    "tags": [
+      "article",
+      "agentic-engineering",
+      "claude-code-and-codex-workflows"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-steipete-current-ai-dev-workflow.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "steipete-openclaw-openai",
+    "title": "OpenClaw, OpenAI and the future",
+    "type": "source-note",
+    "path": "07_Sources/steipete-openclaw-openai.md",
+    "tags": [
+      "article",
+      "mcp-and-agent-tools",
+      "agentic-engineering"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-steipete-openclaw-openai.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "steipete-agent-rules",
+    "title": "agent-rules",
+    "type": "source-note",
+    "path": "07_Sources/steipete-agent-rules.md",
+    "tags": [
+      "repo",
+      "agentic-engineering",
+      "context-engineering"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-steipete-agent-rules.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "matt-typescript-ai-era",
+    "title": "The Case for TypeScript In The AI Coding Era",
+    "type": "source-note",
+    "path": "07_Sources/matt-typescript-ai-era.md",
+    "tags": [
+      "article",
+      "engineering-taste-code-quality",
+      "typescript-ai-stack"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-matt-typescript-ai-era.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "matt-total-typescript",
+    "title": "Total TypeScript",
+    "type": "source-note",
+    "path": "07_Sources/matt-total-typescript.md",
+    "tags": [
+      "site",
+      "typescript-ai-stack",
+      "engineering-taste-code-quality"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-matt-total-typescript.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "matt-github",
+    "title": "Matt Pocock GitHub profile",
+    "type": "source-note",
+    "path": "07_Sources/matt-github.md",
+    "tags": [
+      "repo",
+      "typescript-ai-stack",
+      "engineering-taste-code-quality"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-matt-github.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "matt-ts-reset",
+    "title": "ts-reset",
+    "type": "source-note",
+    "path": "07_Sources/matt-ts-reset.md",
+    "tags": [
+      "repo",
+      "typescript-ai-stack"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-matt-ts-reset.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "theo-t3-site",
+    "title": "Theo Browne / t3.gg",
+    "type": "source-note",
+    "path": "07_Sources/theo-t3-site.md",
+    "tags": [
+      "site",
+      "typescript-ai-stack",
+      "solo-founder-product-distribution"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-theo-t3-site.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "theo-github",
+    "title": "Theo Browne GitHub profile",
+    "type": "source-note",
+    "path": "07_Sources/theo-github.md",
+    "tags": [
+      "repo",
+      "typescript-ai-stack",
+      "shipping-small-products"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-theo-github.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "create-t3-app",
+    "title": "create-t3-app",
+    "type": "source-note",
+    "path": "07_Sources/create-t3-app.md",
+    "tags": [
+      "repo",
+      "typescript-ai-stack",
+      "shipping-small-products"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-create-t3-app.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "thariq-site",
+    "title": "Thariq Shihipar personal site",
+    "type": "source-note",
+    "path": "07_Sources/thariq-site.md",
+    "tags": [
+      "site",
+      "agentic-engineering"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-thariq-site.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "thariq-agent-design-space",
+    "title": "Think like an agent / Claude Code agent design notes",
+    "type": "source-note",
+    "path": "07_Sources/thariq-agent-design-space.md",
+    "tags": [
+      "thread",
+      "agentic-engineering",
+      "mcp-and-agent-tools"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/07-sources-thariq-agent-design-space.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "thariq-workshop-recap",
+    "title": "How We Claude Code - Thariq workshop recap",
+    "type": "source-note",
+    "path": "07_Sources/thariq-workshop-recap.md",
+    "tags": [
+      "workshop-recap",
+      "claude-code-and-codex-workflows",
+      "parallel-agent-workflow"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/07-sources-thariq-workshop-recap.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "thariq-code-with-claude",
+    "title": "Code with Claude session: How we Claude Code",
+    "type": "source-note",
+    "path": "07_Sources/thariq-code-with-claude.md",
+    "tags": [
+      "talk",
+      "claude-code-and-codex-workflows",
+      "parallel-agent-workflow"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-thariq-code-with-claude.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "anthropic-teams-claude-code",
+    "title": "How teams use Claude Code",
+    "type": "source-note",
+    "path": "07_Sources/anthropic-teams-claude-code.md",
+    "tags": [
+      "pdf",
+      "claude-code-and-codex-workflows",
+      "parallel-agent-workflow"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-anthropic-teams-claude-code.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "anthropic-claude-code-overview",
+    "title": "Claude Code overview",
+    "type": "source-note",
+    "path": "07_Sources/anthropic-claude-code-overview.md",
+    "tags": [
+      "docs",
+      "claude-code-and-codex-workflows",
+      "mcp-and-agent-tools"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-anthropic-claude-code-overview.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "anthropic-claude-subagents",
+    "title": "Claude Code subagents",
+    "type": "source-note",
+    "path": "07_Sources/anthropic-claude-subagents.md",
+    "tags": [
+      "docs",
+      "parallel-agent-workflow",
+      "mcp-and-agent-tools"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-anthropic-claude-subagents.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "anthropic-building-effective-agents",
+    "title": "Building Effective Agents",
+    "type": "source-note",
+    "path": "07_Sources/anthropic-building-effective-agents.md",
+    "tags": [
+      "article",
+      "agentic-engineering",
+      "mcp-and-agent-tools"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-anthropic-building-effective-agents.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "openai-codex",
+    "title": "Codex",
+    "type": "source-note",
+    "path": "07_Sources/openai-codex.md",
+    "tags": [
+      "product-page",
+      "claude-code-and-codex-workflows",
+      "agentic-engineering"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-openai-codex.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "openai-codex-app",
+    "title": "Introducing the Codex app",
+    "type": "source-note",
+    "path": "07_Sources/openai-codex-app.md",
+    "tags": [
+      "article",
+      "parallel-agent-workflow",
+      "claude-code-and-codex-workflows"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-openai-codex-app.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "jiayuan-github",
+    "title": "Jiayuan Zhang GitHub profile",
+    "type": "source-note",
+    "path": "07_Sources/jiayuan-github.md",
+    "tags": [
+      "repo",
+      "parallel-agent-workflow",
+      "agentic-engineering"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-jiayuan-github.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "multica-github",
+    "title": "Multica GitHub repository",
+    "type": "source-note",
+    "path": "07_Sources/multica-github.md",
+    "tags": [
+      "repo",
+      "parallel-agent-workflow",
+      "mcp-and-agent-tools"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/07-sources-multica-github.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "multica-docs",
+    "title": "Multica documentation",
+    "type": "source-note",
+    "path": "07_Sources/multica-docs.md",
+    "tags": [
+      "docs",
+      "parallel-agent-workflow",
+      "mcp-and-agent-tools"
+    ],
+    "confidence": "Medium",
+    "human_path": "wiki/07-sources-multica-docs.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "hamel-evals",
+    "title": "Hamel Husain blog",
+    "type": "source-note",
+    "path": "07_Sources/hamel-evals.md",
+    "tags": [
+      "site",
+      "evals-observability-feedback-loops"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-hamel-evals.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "shreya-hamel-evals-course",
+    "title": "AI Evals for Engineers and PMs",
+    "type": "source-note",
+    "path": "07_Sources/shreya-hamel-evals-course.md",
+    "tags": [
+      "course",
+      "evals-observability-feedback-loops"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-shreya-hamel-evals-course.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "eugene-yan",
+    "title": "Eugene Yan writing",
+    "type": "source-note",
+    "path": "07_Sources/eugene-yan.md",
+    "tags": [
+      "site",
+      "evals-observability-feedback-loops",
+      "ai-native-ceo-operating-system"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-eugene-yan.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "chip-huyen-ai-engineering",
+    "title": "AI Engineering",
+    "type": "source-note",
+    "path": "07_Sources/chip-huyen-ai-engineering.md",
+    "tags": [
+      "book",
+      "evals-observability-feedback-loops",
+      "mcp-and-agent-tools"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/07-sources-chip-huyen-ai-engineering.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "person-template",
+    "title": "Person Template",
+    "type": "template",
+    "path": "08_Templates/person-template.md",
+    "tags": [
+      "template"
+    ],
+    "human_path": "wiki/08-templates-person-template.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "topic-template",
+    "title": "Topic Template",
+    "type": "template",
+    "path": "08_Templates/topic-template.md",
+    "tags": [
+      "template"
+    ],
+    "human_path": "wiki/08-templates-topic-template.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "playbook-template",
+    "title": "Playbook Template",
+    "type": "template",
+    "path": "08_Templates/playbook-template.md",
+    "tags": [
+      "template"
+    ],
+    "human_path": "wiki/08-templates-playbook-template.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "tool-template",
+    "title": "Tool Template",
+    "type": "template",
+    "path": "08_Templates/tool-template.md",
+    "tags": [
+      "template"
+    ],
+    "human_path": "wiki/08-templates-tool-template.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "source-note-template",
+    "title": "Source Note Template",
+    "type": "template",
+    "path": "08_Templates/source-note-template.md",
+    "tags": [
+      "template"
+    ],
+    "human_path": "wiki/08-templates-source-note-template.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "codex-update-template",
+    "title": "Codex Update Template",
+    "type": "template",
+    "path": "08_Templates/codex-update-template.md",
+    "tags": [
+      "template"
+    ],
+    "human_path": "wiki/08-templates-codex-update-template.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "inbox-readme",
+    "title": "Inbox README",
+    "type": "inbox",
+    "path": "09_Inbox/README.md",
+    "tags": [
+      "inbox"
+    ],
+    "human_path": "wiki/09-inbox-readme.html",
+    "last_updated": "2026-05-23"
+  }
+]

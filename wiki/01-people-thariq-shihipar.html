@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Thariq Shihipar - AI Founder Knowledge Bank</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231f6f5b'/%3E%3Cpath d='M8 21h16M8 16h16M8 11h16' stroke='white' stroke-width='2.5' stroke-linecap='round'/%3E%3C/svg%3E">
+  <style>
+    :root { --bg:#f7f8f5; --panel:#fff; --ink:#18211c; --muted:#667169; --line:#d8ded7; --accent:#1f6f5b; --radius:8px; --sans:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; --mono:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans); line-height:1.55; }
+    main { max-width:980px; margin:0 auto; padding:28px 18px 56px; }
+    .top { display:flex; justify-content:space-between; gap:14px; align-items:center; margin-bottom:20px; border-bottom:1px solid var(--line); padding-bottom:14px; }
+    .top a { font-weight:700; }
+    .path { color:var(--muted); font:12px var(--mono); overflow-wrap:anywhere; }
+    h1 { font-size:34px; line-height:1.1; letter-spacing:0; margin:18px 0; }
+    h2 { font-size:22px; margin:28px 0 10px; border-top:1px solid var(--line); padding-top:18px; }
+    h3 { font-size:16px; margin:20px 0 8px; }
+    p, li, td, th { font-size:15px; }
+    a { color:var(--accent); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    code { font-family:var(--mono); font-size:.9em; background:#eef3ef; padding:1px 4px; border-radius:4px; }
+    pre { overflow:auto; background:#18211c; color:#f7f8f5; border-radius:var(--radius); padding:14px; }
+    ul, ol { padding-left:22px; }
+    li { margin:5px 0; }
+    .table-wrap { overflow:auto; border:1px solid var(--line); border-radius:var(--radius); margin:12px 0; }
+    table { width:100%; border-collapse:collapse; min-width:620px; background:var(--panel); }
+    th, td { border-bottom:1px solid var(--line); padding:9px 10px; text-align:left; vertical-align:top; }
+    th { background:#eef3ef; }
+    @media (max-width:640px) { main { padding:18px 12px 40px; } h1 { font-size:28px; } .top { align-items:flex-start; flex-direction:column; } table { min-width:560px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="top">
+      <a href="../index.html">AI Founder Knowledge Bank</a>
+      <div class="path">01_People/thariq-shihipar.md</div>
+    </div>
+    <h1>Thariq Shihipar</h1>
+<p>**Handle:** @trq212</p>
+<p>**Mentor role:** Claude Code and agent action-space mentor</p>
+<h2>Why This Was Added</h2>
+<p>Core mentor named by the builder. Useful for understanding Claude Code from someone associated with its design and public workflow guidance.</p>
+<h2>Referred By / Mention Evidence</h2>
+<p>User-curated seed list.</p>
+<h2>Why This Person Matters</h2>
+<p>Thariq is a mentor for thinking like an agent designer: action space, context, tools, and feedback loops.</p>
+<h2>Best Lessons For The Builder</h2>
+<ul><li>Agent capability is shaped by the action space you expose.</li><li>Tool design should be discovered empirically through model behavior.</li><li>Context management is a real engineering discipline.</li></ul>
+<h2>Concrete Practices To Adopt</h2>
+<ul><li>When an agent fails, inspect whether the tool/action space was wrong before blaming the model.</li><li>Prefer progressive discovery over dumping every tool and doc into context.</li><li>Use subagents for bounded research or log-heavy side work.</li></ul>
+<h2>What Not To Over-Copy</h2>
+<ul><li>Do not assume every X thread is stable documentation.</li><li>Do not create too many tools before observing what the model needs.</li></ul>
+<h2>Tools, Repos, Articles, Talks To Study</h2>
+<p><a href="07-sources-thariq-site.html">Thariq Shihipar personal site</a>, <a href="07-sources-thariq-agent-design-space.html">Think like an agent / Claude Code agent design notes</a>, <a href="07-sources-thariq-workshop-recap.html">How We Claude Code - Thariq workshop recap</a>, <a href="07-sources-thariq-code-with-claude.html">Code with Claude session: How we Claude Code</a>, <a href="07-sources-anthropic-teams-claude-code.html">How teams use Claude Code</a>, <a href="07-sources-anthropic-claude-code-overview.html">Claude Code overview</a>, <a href="07-sources-anthropic-claude-subagents.html">Claude Code subagents</a></p>
+<h2>Related Topics</h2>
+<ul><li><a href="02-topics-agentic-engineering.html">Agentic Engineering</a></li><li><a href="03-playbooks-parallel-agent-workflow.html">Parallel Agent Workflow</a></li><li><a href="04-tooling-mcp-and-agent-tools.html">MCP And Agent Tools</a></li></ul>
+<h2>Related Playbooks</h2>
+<ul><li><a href="03-playbooks-parallel-agent-workflow.html">Parallel Agent Workflow</a></li><li><a href="03-playbooks-planning-before-coding.html">Planning Before Coding</a></li></ul>
+<h2>Related Tools</h2>
+<ul><li><a href="04-tooling-claude-code-and-codex-workflows.html">Claude Code And Codex Workflows</a></li><li><a href="04-tooling-mcp-and-agent-tools.html">MCP And Agent Tools</a></li></ul>
+<h2>Exercises</h2>
+<ul><li>Take one failed agent task and classify the failure: context, tool, instruction, model, or verification.</li><li>Design a minimal tool/action set for a business support-agent workflow.</li><li>Compare one subagent workflow against a single-context workflow.</li></ul>
+<h2>Prompts Inspired By This Person</h2>
+<ul><li>Analyze this failed agent run as an action-space design problem.</li><li>Given this task, what tools and context should the agent see initially, and what should be discovered later?</li><li>Design a subagent for this bounded side task with narrow inputs and a compact report format.</li></ul>
+<h2>Sources</h2>
+<p><a href="https://www.thariq.io/">Thariq Shihipar personal site</a>, <a href="https://x.com/trq212/article/2027463795355095314">Think like an agent / Claude Code agent design notes</a>, <a href="https://howborisusesclaudecode.com/recap">How We Claude Code - Thariq workshop recap</a>, <a href="https://claude.com/code-with-claude/session/sf-ext-how-we-claude-code">Code with Claude session: How we Claude Code</a>, <a href="https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf">How teams use Claude Code</a>, <a href="https://docs.anthropic.com/en/docs/claude-code/overview">Claude Code overview</a>, <a href="https://docs.anthropic.com/en/docs/claude-code/sub-agents">Claude Code subagents</a></p>
+<h2>Confidence Notes</h2>
+<p>Some sources are X/community recaps. Keep Thariq-specific claims medium confidence unless backed by official Anthropic docs.</p>
+<h2>Related</h2>
+<ul><li><a href="02-topics-agentic-engineering.html">Agentic Engineering</a></li><li><a href="03-playbooks-parallel-agent-workflow.html">Parallel Agent Workflow</a></li><li><a href="04-tooling-mcp-and-agent-tools.html">Mcp And Agent Tools</a></li><li><a href="03-playbooks-planning-before-coding.html">Planning Before Coding</a></li><li><a href="04-tooling-claude-code-and-codex-workflows.html">Claude Code And Codex Workflows</a></li></ul>
+  </main>
+</body>
+</html>

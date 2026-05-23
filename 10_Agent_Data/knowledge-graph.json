@@ -1,0 +1,1366 @@
+{
+  "generated_at": "2026-05-23",
+  "nodes": [
+    {
+      "id": "tobias-lutke",
+      "label": "Tobias Lutke",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "pieter-levels",
+      "label": "Pieter Levels",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "andrew-ng",
+      "label": "Andrew Ng",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "matt-pocock",
+      "label": "Matt Pocock",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "peter-steinberger",
+      "label": "Peter Steinberger",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "thariq-shihipar",
+      "label": "Thariq Shihipar",
+      "type": "person",
+      "confidence": "Medium"
+    },
+    {
+      "id": "andrej-karpathy",
+      "label": "Andrej Karpathy",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "jiayuan-zhang",
+      "label": "Jiayuan Zhang",
+      "type": "person",
+      "confidence": "Medium"
+    },
+    {
+      "id": "mitchell-hashimoto",
+      "label": "Mitchell Hashimoto",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "theo-browne",
+      "label": "Theo Browne",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "simon-willison",
+      "label": "Simon Willison",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "agentic-engineering",
+      "label": "Agentic Engineering",
+      "type": "topic",
+      "confidence": "High"
+    },
+    {
+      "id": "ai-native-ceo-operating-system",
+      "label": "AI-Native CEO Operating System",
+      "type": "topic",
+      "confidence": "High"
+    },
+    {
+      "id": "solo-founder-product-distribution",
+      "label": "Solo Founder Product And Distribution",
+      "type": "topic",
+      "confidence": "High"
+    },
+    {
+      "id": "engineering-taste-code-quality",
+      "label": "Engineering Taste And Code Quality",
+      "type": "topic",
+      "confidence": "High"
+    },
+    {
+      "id": "evals-observability-feedback-loops",
+      "label": "Evals, Observability, And Feedback Loops",
+      "type": "topic",
+      "confidence": "High"
+    },
+    {
+      "id": "security-risk-ai-agents",
+      "label": "Security And Risk For AI Agents",
+      "type": "topic",
+      "confidence": "High"
+    },
+    {
+      "id": "context-engineering",
+      "label": "Context Engineering",
+      "type": "topic",
+      "confidence": "Medium"
+    },
+    {
+      "id": "prompt-to-product",
+      "label": "Prompt To Product",
+      "type": "topic",
+      "confidence": "Medium"
+    },
+    {
+      "id": "daily-agent-manager-routine",
+      "label": "Daily Agent Manager Routine",
+      "type": "playbook",
+      "confidence": "High"
+    },
+    {
+      "id": "weekly-founder-review",
+      "label": "Weekly Founder Review",
+      "type": "playbook",
+      "confidence": "High"
+    },
+    {
+      "id": "planning-before-coding",
+      "label": "Planning Before Coding",
+      "type": "playbook",
+      "confidence": "High"
+    },
+    {
+      "id": "parallel-agent-workflow",
+      "label": "Parallel Agent Workflow",
+      "type": "playbook",
+      "confidence": "High"
+    },
+    {
+      "id": "ai-code-review-checklist",
+      "label": "AI Code Review Checklist",
+      "type": "playbook",
+      "confidence": "High"
+    },
+    {
+      "id": "shipping-small-products",
+      "label": "Shipping Small Products",
+      "type": "playbook",
+      "confidence": "High"
+    },
+    {
+      "id": "customer-discovery-with-ai",
+      "label": "Customer Discovery With AI",
+      "type": "playbook",
+      "confidence": "Medium"
+    },
+    {
+      "id": "build-in-public-system",
+      "label": "Build In Public System",
+      "type": "playbook",
+      "confidence": "Medium"
+    },
+    {
+      "id": "support-sales-ops-agents",
+      "label": "Support, Sales, And Ops Agents",
+      "type": "playbook",
+      "confidence": "Medium"
+    },
+    {
+      "id": "candidate-promotion-workflow",
+      "label": "Candidate Promotion Workflow",
+      "type": "playbook",
+      "confidence": "High"
+    },
+    {
+      "id": "coding-agents",
+      "label": "Coding Agents",
+      "type": "tooling",
+      "confidence": "High"
+    },
+    {
+      "id": "claude-code-and-codex-workflows",
+      "label": "Claude Code And Codex Workflows",
+      "type": "tooling",
+      "confidence": "High"
+    },
+    {
+      "id": "mcp-and-agent-tools",
+      "label": "MCP And Agent Tools",
+      "type": "tooling",
+      "confidence": "Medium"
+    },
+    {
+      "id": "typescript-ai-stack",
+      "label": "TypeScript AI Stack",
+      "type": "tooling",
+      "confidence": "High"
+    },
+    {
+      "id": "llm-cli-tools",
+      "label": "LLM CLI Tools",
+      "type": "tooling",
+      "confidence": "High"
+    },
+    {
+      "id": "evals-and-test-harnesses",
+      "label": "Evals And Test Harnesses",
+      "type": "tooling",
+      "confidence": "High"
+    },
+    {
+      "id": "automation-stack",
+      "label": "Automation Stack",
+      "type": "tooling",
+      "confidence": "Medium"
+    },
+    {
+      "id": "browser-qa-workflow",
+      "label": "Browser QA Workflow",
+      "type": "tooling",
+      "confidence": "High"
+    },
+    {
+      "id": "shopify-ai-playground",
+      "label": "Serious results, unserious methods: Shopify AI playground",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "tobi-compass-metric",
+      "label": "Pick your compass metric",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "tobi-human-excellence",
+      "label": "The Future Role of Human Excellence",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "tobi-apprentice-programmer",
+      "label": "The Apprentice Programmer",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "levelsio-blog",
+      "label": "Pieter Levels personal site and project archive",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "levels-projects",
+      "label": "List of all my projects ever",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "levels-mvp",
+      "label": "How I build my minimum viable products",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "levels-validation",
+      "label": "The only real validation is people paying",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "levels-diy",
+      "label": "Instead of hiring people, do things yourself",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "andrew-ng-official",
+      "label": "Andrew Ng official site",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "deeplearning-ai-about",
+      "label": "DeepLearning.AI about page",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "andrew-ai-transformation-playbook",
+      "label": "Introducing the AI Transformation Playbook",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "deeplearning-agentic-ai",
+      "label": "Agentic AI course",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "karpathy-software-2",
+      "label": "Software 2.0",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "karpathy-software-changing",
+      "label": "Software Is Changing Again",
+      "type": "source",
+      "confidence": "Medium"
+    },
+    {
+      "id": "karpathy-zero-to-hero",
+      "label": "Neural Networks: Zero to Hero",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "karpathy-micrograd",
+      "label": "micrograd",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "karpathy-nanogpt",
+      "label": "nanoGPT",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "karpathy-llm-c",
+      "label": "llm.c",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "simon-agentic-patterns",
+      "label": "Agentic Engineering Patterns",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "simon-vibe-coding",
+      "label": "Not all AI-assisted programming is vibe coding",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "simon-llm-cli",
+      "label": "LLM command-line tool and ecosystem",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "simon-llm-docs",
+      "label": "LLM CLI documentation",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "simon-lethal-trifecta",
+      "label": "The lethal trifecta for AI agents",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "mitchell-ai-adoption",
+      "label": "My AI Adoption Journey",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "mitchell-large-projects",
+      "label": "My Approach to Building Large Technical Projects",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "mitchell-non-trivial-vibing",
+      "label": "Vibing a Non-Trivial Ghostty Feature",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "steipete-just-talk",
+      "label": "Just Talk To It - the no-bs Way of Agentic Engineering",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "steipete-workflow",
+      "label": "My Current AI Dev Workflow",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "steipete-openclaw",
+      "label": "OpenClaw, OpenAI and the future",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "steipete-agent-rules",
+      "label": "agent-rules",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "matt-typescript-ai-era",
+      "label": "The Case for TypeScript In The AI Coding Era",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "matt-total-typescript",
+      "label": "Total TypeScript",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "matt-github",
+      "label": "Matt Pocock GitHub profile",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "matt-ts-reset",
+      "label": "ts-reset",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "theo-site",
+      "label": "Theo Browne / t3.gg",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "theo-github",
+      "label": "Theo Browne GitHub profile",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "create-t3-app",
+      "label": "create-t3-app",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "thariq-site",
+      "label": "Thariq Shihipar personal site",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "thariq-agent-design",
+      "label": "Think like an agent / Claude Code agent design notes",
+      "type": "source",
+      "confidence": "Medium"
+    },
+    {
+      "id": "thariq-workshop-recap",
+      "label": "How We Claude Code - Thariq workshop recap",
+      "type": "source",
+      "confidence": "Medium"
+    },
+    {
+      "id": "thariq-code-with-claude",
+      "label": "Code with Claude session: How we Claude Code",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "anthropic-teams-claude-code",
+      "label": "How teams use Claude Code",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "claude-code-docs",
+      "label": "Claude Code overview",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "claude-subagents-docs",
+      "label": "Claude Code subagents",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "anthropic-effective-agents",
+      "label": "Building Effective Agents",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "openai-codex",
+      "label": "Codex",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "openai-codex-app",
+      "label": "Introducing the Codex app",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "jiayuan-github",
+      "label": "Jiayuan Zhang GitHub profile",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "multica-github",
+      "label": "Multica GitHub repository",
+      "type": "source",
+      "confidence": "Medium"
+    },
+    {
+      "id": "multica-docs",
+      "label": "Multica documentation",
+      "type": "source",
+      "confidence": "Medium"
+    },
+    {
+      "id": "hamel-evals",
+      "label": "Hamel Husain blog",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "shreya-hamel-evals",
+      "label": "AI Evals for Engineers and PMs",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "eugene-yan",
+      "label": "Eugene Yan writing",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "chip-huyen-ai-engineering",
+      "label": "AI Engineering",
+      "type": "source",
+      "confidence": "High"
+    },
+    {
+      "id": "hamel-husain",
+      "label": "Hamel Husain",
+      "type": "candidate",
+      "confidence": "High"
+    },
+    {
+      "id": "shreya-shankar",
+      "label": "Shreya Shankar",
+      "type": "candidate",
+      "confidence": "High"
+    },
+    {
+      "id": "eugene-yan",
+      "label": "Eugene Yan",
+      "type": "candidate",
+      "confidence": "High"
+    },
+    {
+      "id": "chip-huyen",
+      "label": "Chip Huyen",
+      "type": "candidate",
+      "confidence": "High"
+    },
+    {
+      "id": "boris-cherny",
+      "label": "Boris Cherny",
+      "type": "candidate",
+      "confidence": "Medium"
+    },
+    {
+      "id": "addy-osmani",
+      "label": "Addy Osmani",
+      "type": "candidate",
+      "confidence": "Medium"
+    },
+    {
+      "id": "lenny-rachitsky",
+      "label": "Lenny Rachitsky",
+      "type": "candidate",
+      "confidence": "Medium"
+    }
+  ],
+  "edges": [
+    {
+      "from": "tobias-lutke",
+      "to": "ai-native-ceo-operating-system",
+      "relation": "teaches"
+    },
+    {
+      "from": "tobias-lutke",
+      "to": "agentic-engineering",
+      "relation": "teaches"
+    },
+    {
+      "from": "tobias-lutke",
+      "to": "weekly-founder-review",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "tobias-lutke",
+      "to": "daily-agent-manager-routine",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "tobias-lutke",
+      "to": "automation-stack",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "tobias-lutke",
+      "to": "shopify-ai-playground",
+      "relation": "supported-by"
+    },
+    {
+      "from": "tobias-lutke",
+      "to": "tobi-compass-metric",
+      "relation": "supported-by"
+    },
+    {
+      "from": "tobias-lutke",
+      "to": "tobi-human-excellence",
+      "relation": "supported-by"
+    },
+    {
+      "from": "tobias-lutke",
+      "to": "tobi-apprentice-programmer",
+      "relation": "supported-by"
+    },
+    {
+      "from": "pieter-levels",
+      "to": "solo-founder-product-distribution",
+      "relation": "teaches"
+    },
+    {
+      "from": "pieter-levels",
+      "to": "shipping-small-products",
+      "relation": "teaches"
+    },
+    {
+      "from": "pieter-levels",
+      "to": "shipping-small-products",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "pieter-levels",
+      "to": "build-in-public-system",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "pieter-levels",
+      "to": "automation-stack",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "pieter-levels",
+      "to": "levelsio-blog",
+      "relation": "supported-by"
+    },
+    {
+      "from": "pieter-levels",
+      "to": "levels-projects",
+      "relation": "supported-by"
+    },
+    {
+      "from": "pieter-levels",
+      "to": "levels-mvp",
+      "relation": "supported-by"
+    },
+    {
+      "from": "pieter-levels",
+      "to": "levels-validation",
+      "relation": "supported-by"
+    },
+    {
+      "from": "pieter-levels",
+      "to": "levels-diy",
+      "relation": "supported-by"
+    },
+    {
+      "from": "andrew-ng",
+      "to": "ai-native-ceo-operating-system",
+      "relation": "teaches"
+    },
+    {
+      "from": "andrew-ng",
+      "to": "evals-observability-feedback-loops",
+      "relation": "teaches"
+    },
+    {
+      "from": "andrew-ng",
+      "to": "customer-discovery-with-ai",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "andrew-ng",
+      "to": "weekly-founder-review",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "andrew-ng",
+      "to": "evals-and-test-harnesses",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "andrew-ng",
+      "to": "andrew-ng-official",
+      "relation": "supported-by"
+    },
+    {
+      "from": "andrew-ng",
+      "to": "deeplearning-ai-about",
+      "relation": "supported-by"
+    },
+    {
+      "from": "andrew-ng",
+      "to": "andrew-ai-transformation-playbook",
+      "relation": "supported-by"
+    },
+    {
+      "from": "andrew-ng",
+      "to": "deeplearning-agentic-ai",
+      "relation": "supported-by"
+    },
+    {
+      "from": "matt-pocock",
+      "to": "typescript-ai-stack",
+      "relation": "teaches"
+    },
+    {
+      "from": "matt-pocock",
+      "to": "engineering-taste-code-quality",
+      "relation": "teaches"
+    },
+    {
+      "from": "matt-pocock",
+      "to": "ai-code-review-checklist",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "matt-pocock",
+      "to": "refactoring-prompts",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "matt-pocock",
+      "to": "typescript-ai-stack",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "matt-pocock",
+      "to": "matt-typescript-ai-era",
+      "relation": "supported-by"
+    },
+    {
+      "from": "matt-pocock",
+      "to": "matt-total-typescript",
+      "relation": "supported-by"
+    },
+    {
+      "from": "matt-pocock",
+      "to": "matt-github",
+      "relation": "supported-by"
+    },
+    {
+      "from": "matt-pocock",
+      "to": "matt-ts-reset",
+      "relation": "supported-by"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "agentic-engineering",
+      "relation": "teaches"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "parallel-agent-workflow",
+      "relation": "teaches"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "mcp-and-agent-tools",
+      "relation": "teaches"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "parallel-agent-workflow",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "daily-agent-manager-routine",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "ai-code-review-checklist",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "claude-code-and-codex-workflows",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "mcp-and-agent-tools",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "llm-cli-tools",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "steipete-just-talk",
+      "relation": "supported-by"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "steipete-workflow",
+      "relation": "supported-by"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "steipete-openclaw",
+      "relation": "supported-by"
+    },
+    {
+      "from": "peter-steinberger",
+      "to": "steipete-agent-rules",
+      "relation": "supported-by"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "agentic-engineering",
+      "relation": "teaches"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "parallel-agent-workflow",
+      "relation": "teaches"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "mcp-and-agent-tools",
+      "relation": "teaches"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "parallel-agent-workflow",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "planning-before-coding",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "claude-code-and-codex-workflows",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "mcp-and-agent-tools",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "thariq-site",
+      "relation": "supported-by"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "thariq-agent-design",
+      "relation": "supported-by"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "thariq-workshop-recap",
+      "relation": "supported-by"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "thariq-code-with-claude",
+      "relation": "supported-by"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "anthropic-teams-claude-code",
+      "relation": "supported-by"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "claude-code-docs",
+      "relation": "supported-by"
+    },
+    {
+      "from": "thariq-shihipar",
+      "to": "claude-subagents-docs",
+      "relation": "supported-by"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "agentic-engineering",
+      "relation": "teaches"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "context-engineering",
+      "relation": "teaches"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "prompt-to-product",
+      "relation": "teaches"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "planning-before-coding",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "eval-prompts",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "coding-agents",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "evals-and-test-harnesses",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "karpathy-software-2",
+      "relation": "supported-by"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "karpathy-software-changing",
+      "relation": "supported-by"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "karpathy-zero-to-hero",
+      "relation": "supported-by"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "karpathy-micrograd",
+      "relation": "supported-by"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "karpathy-nanogpt",
+      "relation": "supported-by"
+    },
+    {
+      "from": "andrej-karpathy",
+      "to": "karpathy-llm-c",
+      "relation": "supported-by"
+    },
+    {
+      "from": "jiayuan-zhang",
+      "to": "parallel-agent-workflow",
+      "relation": "teaches"
+    },
+    {
+      "from": "jiayuan-zhang",
+      "to": "agentic-engineering",
+      "relation": "teaches"
+    },
+    {
+      "from": "jiayuan-zhang",
+      "to": "parallel-agent-workflow",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "jiayuan-zhang",
+      "to": "daily-agent-manager-routine",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "jiayuan-zhang",
+      "to": "coding-agents",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "jiayuan-zhang",
+      "to": "automation-stack",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "jiayuan-zhang",
+      "to": "jiayuan-github",
+      "relation": "supported-by"
+    },
+    {
+      "from": "jiayuan-zhang",
+      "to": "multica-github",
+      "relation": "supported-by"
+    },
+    {
+      "from": "jiayuan-zhang",
+      "to": "multica-docs",
+      "relation": "supported-by"
+    },
+    {
+      "from": "mitchell-hashimoto",
+      "to": "engineering-taste-code-quality",
+      "relation": "teaches"
+    },
+    {
+      "from": "mitchell-hashimoto",
+      "to": "agentic-engineering",
+      "relation": "teaches"
+    },
+    {
+      "from": "mitchell-hashimoto",
+      "to": "evals-observability-feedback-loops",
+      "relation": "teaches"
+    },
+    {
+      "from": "mitchell-hashimoto",
+      "to": "planning-before-coding",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "mitchell-hashimoto",
+      "to": "ai-code-review-checklist",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "mitchell-hashimoto",
+      "to": "weekly-founder-review",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "mitchell-hashimoto",
+      "to": "evals-and-test-harnesses",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "mitchell-hashimoto",
+      "to": "coding-agents",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "mitchell-hashimoto",
+      "to": "mitchell-ai-adoption",
+      "relation": "supported-by"
+    },
+    {
+      "from": "mitchell-hashimoto",
+      "to": "mitchell-large-projects",
+      "relation": "supported-by"
+    },
+    {
+      "from": "mitchell-hashimoto",
+      "to": "mitchell-non-trivial-vibing",
+      "relation": "supported-by"
+    },
+    {
+      "from": "theo-browne",
+      "to": "typescript-ai-stack",
+      "relation": "teaches"
+    },
+    {
+      "from": "theo-browne",
+      "to": "solo-founder-product-distribution",
+      "relation": "teaches"
+    },
+    {
+      "from": "theo-browne",
+      "to": "shipping-small-products",
+      "relation": "teaches"
+    },
+    {
+      "from": "theo-browne",
+      "to": "shipping-small-products",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "theo-browne",
+      "to": "build-in-public-system",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "theo-browne",
+      "to": "typescript-ai-stack",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "theo-browne",
+      "to": "coding-agents",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "theo-browne",
+      "to": "theo-site",
+      "relation": "supported-by"
+    },
+    {
+      "from": "theo-browne",
+      "to": "theo-github",
+      "relation": "supported-by"
+    },
+    {
+      "from": "theo-browne",
+      "to": "create-t3-app",
+      "relation": "supported-by"
+    },
+    {
+      "from": "simon-willison",
+      "to": "agentic-engineering",
+      "relation": "teaches"
+    },
+    {
+      "from": "simon-willison",
+      "to": "security-risk-ai-agents",
+      "relation": "teaches"
+    },
+    {
+      "from": "simon-willison",
+      "to": "llm-cli-tools",
+      "relation": "teaches"
+    },
+    {
+      "from": "simon-willison",
+      "to": "evals-observability-feedback-loops",
+      "relation": "teaches"
+    },
+    {
+      "from": "simon-willison",
+      "to": "ai-code-review-checklist",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "simon-willison",
+      "to": "daily-agent-manager-routine",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "simon-willison",
+      "to": "llm-cli-tools",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "simon-willison",
+      "to": "evals-and-test-harnesses",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "simon-willison",
+      "to": "simon-agentic-patterns",
+      "relation": "supported-by"
+    },
+    {
+      "from": "simon-willison",
+      "to": "simon-vibe-coding",
+      "relation": "supported-by"
+    },
+    {
+      "from": "simon-willison",
+      "to": "simon-llm-cli",
+      "relation": "supported-by"
+    },
+    {
+      "from": "simon-willison",
+      "to": "simon-llm-docs",
+      "relation": "supported-by"
+    },
+    {
+      "from": "simon-willison",
+      "to": "simon-lethal-trifecta",
+      "relation": "supported-by"
+    },
+    {
+      "from": "agentic-engineering",
+      "to": "simon-agentic-patterns",
+      "relation": "supported-by"
+    },
+    {
+      "from": "agentic-engineering",
+      "to": "steipete-just-talk",
+      "relation": "supported-by"
+    },
+    {
+      "from": "agentic-engineering",
+      "to": "mitchell-ai-adoption",
+      "relation": "supported-by"
+    },
+    {
+      "from": "agentic-engineering",
+      "to": "anthropic-effective-agents",
+      "relation": "supported-by"
+    },
+    {
+      "from": "ai-native-ceo-operating-system",
+      "to": "shopify-ai-playground",
+      "relation": "supported-by"
+    },
+    {
+      "from": "ai-native-ceo-operating-system",
+      "to": "andrew-ng-official",
+      "relation": "supported-by"
+    },
+    {
+      "from": "ai-native-ceo-operating-system",
+      "to": "deeplearning-ai-about",
+      "relation": "supported-by"
+    },
+    {
+      "from": "solo-founder-product-distribution",
+      "to": "levelsio-blog",
+      "relation": "supported-by"
+    },
+    {
+      "from": "solo-founder-product-distribution",
+      "to": "theo-site",
+      "relation": "supported-by"
+    },
+    {
+      "from": "solo-founder-product-distribution",
+      "to": "theo-github",
+      "relation": "supported-by"
+    },
+    {
+      "from": "engineering-taste-code-quality",
+      "to": "matt-typescript-ai-era",
+      "relation": "supported-by"
+    },
+    {
+      "from": "engineering-taste-code-quality",
+      "to": "mitchell-large-projects",
+      "relation": "supported-by"
+    },
+    {
+      "from": "engineering-taste-code-quality",
+      "to": "simon-vibe-coding",
+      "relation": "supported-by"
+    },
+    {
+      "from": "evals-observability-feedback-loops",
+      "to": "hamel-evals",
+      "relation": "supported-by"
+    },
+    {
+      "from": "evals-observability-feedback-loops",
+      "to": "shreya-hamel-evals",
+      "relation": "supported-by"
+    },
+    {
+      "from": "evals-observability-feedback-loops",
+      "to": "eugene-yan",
+      "relation": "supported-by"
+    },
+    {
+      "from": "evals-observability-feedback-loops",
+      "to": "mitchell-ai-adoption",
+      "relation": "supported-by"
+    },
+    {
+      "from": "evals-observability-feedback-loops",
+      "to": "simon-agentic-patterns",
+      "relation": "supported-by"
+    },
+    {
+      "from": "security-risk-ai-agents",
+      "to": "simon-vibe-coding",
+      "relation": "supported-by"
+    },
+    {
+      "from": "security-risk-ai-agents",
+      "to": "simon-agentic-patterns",
+      "relation": "supported-by"
+    },
+    {
+      "from": "security-risk-ai-agents",
+      "to": "anthropic-effective-agents",
+      "relation": "supported-by"
+    },
+    {
+      "from": "context-engineering",
+      "to": "karpathy-software-changing",
+      "relation": "supported-by"
+    },
+    {
+      "from": "context-engineering",
+      "to": "thariq-agent-design",
+      "relation": "supported-by"
+    },
+    {
+      "from": "context-engineering",
+      "to": "simon-agentic-patterns",
+      "relation": "supported-by"
+    },
+    {
+      "from": "prompt-to-product",
+      "to": "karpathy-software-changing",
+      "relation": "supported-by"
+    },
+    {
+      "from": "prompt-to-product",
+      "to": "levelsio-blog",
+      "relation": "supported-by"
+    },
+    {
+      "from": "prompt-to-product",
+      "to": "openai-codex-app",
+      "relation": "supported-by"
+    },
+    {
+      "from": "hamel-husain",
+      "to": "hamel-evals",
+      "relation": "candidate-evidence"
+    },
+    {
+      "from": "hamel-husain",
+      "to": "shreya-hamel-evals",
+      "relation": "candidate-evidence"
+    },
+    {
+      "from": "shreya-shankar",
+      "to": "shreya-hamel-evals",
+      "relation": "candidate-evidence"
+    },
+    {
+      "from": "eugene-yan",
+      "to": "eugene-yan",
+      "relation": "candidate-evidence"
+    },
+    {
+      "from": "chip-huyen",
+      "to": "chip-huyen-ai-engineering",
+      "relation": "candidate-evidence"
+    },
+    {
+      "from": "boris-cherny",
+      "to": "thariq-workshop-recap",
+      "relation": "candidate-evidence"
+    }
+  ]
+}

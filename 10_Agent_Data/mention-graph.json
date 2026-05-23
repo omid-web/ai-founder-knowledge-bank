@@ -1,0 +1,1867 @@
+{
+  "generated_at": "2026-05-23",
+  "mentions": [
+    {
+      "slug": "claude-code",
+      "label": "Claude Code",
+      "mentioned_by_sources": [
+        "simon-agentic-patterns",
+        "mitchell-ai-adoption",
+        "steipete-just-talk",
+        "steipete-workflow",
+        "steipete-agent-rules",
+        "thariq-agent-design",
+        "thariq-workshop-recap",
+        "thariq-code-with-claude",
+        "anthropic-teams-claude-code",
+        "claude-code-docs"
+      ],
+      "mention_count": 10,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "typescript",
+      "label": "TypeScript",
+      "mentioned_by_sources": [
+        "matt-typescript-ai-era",
+        "matt-github",
+        "matt-ts-reset",
+        "theo-site",
+        "theo-github",
+        "create-t3-app"
+      ],
+      "mention_count": 6,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "codex",
+      "label": "Codex",
+      "mentioned_by_sources": [
+        "mitchell-ai-adoption",
+        "steipete-just-talk",
+        "steipete-agent-rules",
+        "openai-codex"
+      ],
+      "mention_count": 4,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "agents",
+      "label": "agents",
+      "mentioned_by_sources": [
+        "karpathy-software-changing",
+        "steipete-openclaw",
+        "anthropic-effective-agents"
+      ],
+      "mention_count": 3,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ghostty",
+      "label": "Ghostty",
+      "mentioned_by_sources": [
+        "mitchell-large-projects",
+        "mitchell-non-trivial-vibing",
+        "steipete-workflow"
+      ],
+      "mention_count": 3,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "neural-networks",
+      "label": "neural networks",
+      "mentioned_by_sources": [
+        "karpathy-software-2",
+        "karpathy-zero-to-hero",
+        "karpathy-micrograd"
+      ],
+      "mention_count": 3,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "context",
+      "label": "context",
+      "mentioned_by_sources": [
+        "thariq-code-with-claude",
+        "anthropic-teams-claude-code"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "context-management",
+      "label": "context management",
+      "mentioned_by_sources": [
+        "thariq-workshop-recap",
+        "claude-subagents-docs"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "create-t3-app",
+      "label": "create-t3-app",
+      "mentioned_by_sources": [
+        "theo-site",
+        "theo-github"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "evals",
+      "label": "evals",
+      "mentioned_by_sources": [
+        "deeplearning-agentic-ai",
+        "hamel-evals"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "hamel-husain",
+      "label": "Hamel Husain",
+      "mentioned_by_sources": [
+        "hamel-evals",
+        "shreya-hamel-evals"
+      ],
+      "mention_count": 2,
+      "confidence": "High",
+      "promotion_status": "candidate",
+      "reason": "Strong gap-fill candidate for evals and AI product debugging. Mentioned in eval sources, but not yet repeatedly referenced by core mentors in this first pass."
+    },
+    {
+      "slug": "human-agent-engineering-teams",
+      "label": "human-agent engineering teams",
+      "mentioned_by_sources": [
+        "jiayuan-github",
+        "multica-docs"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "llm-cli",
+      "label": "LLM CLI",
+      "mentioned_by_sources": [
+        "simon-llm-cli",
+        "simon-llm-docs"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "managed-agents",
+      "label": "managed agents",
+      "mentioned_by_sources": [
+        "multica-github",
+        "multica-docs"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "mcp",
+      "label": "MCP",
+      "mentioned_by_sources": [
+        "steipete-just-talk",
+        "claude-code-docs"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "nomad-list",
+      "label": "Nomad List",
+      "mentioned_by_sources": [
+        "levelsio-blog",
+        "levels-projects"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "plugins",
+      "label": "plugins",
+      "mentioned_by_sources": [
+        "simon-llm-cli",
+        "simon-llm-docs"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "remote-ok",
+      "label": "Remote OK",
+      "mentioned_by_sources": [
+        "levelsio-blog",
+        "levels-projects"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "subagents",
+      "label": "subagents",
+      "mentioned_by_sources": [
+        "simon-agentic-patterns",
+        "claude-subagents-docs"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "tools",
+      "label": "tools",
+      "mentioned_by_sources": [
+        "thariq-agent-design",
+        "anthropic-effective-agents"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "training",
+      "label": "training",
+      "mentioned_by_sources": [
+        "andrew-ai-transformation-playbook",
+        "karpathy-nanogpt"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "verification",
+      "label": "verification",
+      "mentioned_by_sources": [
+        "thariq-code-with-claude",
+        "anthropic-teams-claude-code"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "12-startups-in-12-months",
+      "label": "12 startups in 12 months",
+      "mentioned_by_sources": [
+        "levelsio-blog"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "accountability",
+      "label": "accountability",
+      "mentioned_by_sources": [
+        "simon-vibe-coding"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "agent-action-space",
+      "label": "agent action space",
+      "mentioned_by_sources": [
+        "thariq-agent-design"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "agent-rules",
+      "label": "agent rules",
+      "mentioned_by_sources": [
+        "steipete-agent-rules"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "agent-workflows",
+      "label": "agent workflows",
+      "mentioned_by_sources": [
+        "steipete-workflow"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-coding",
+      "label": "AI coding",
+      "mentioned_by_sources": [
+        "matt-typescript-ai-era"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-education",
+      "label": "AI education",
+      "mentioned_by_sources": [
+        "deeplearning-ai-about"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-engineering",
+      "label": "AI engineering",
+      "mentioned_by_sources": [
+        "chip-huyen-ai-engineering"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-fund",
+      "label": "AI Fund",
+      "mentioned_by_sources": [
+        "andrew-ng-official"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-product-debugging",
+      "label": "AI product debugging",
+      "mentioned_by_sources": [
+        "hamel-evals"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-stack",
+      "label": "AI stack",
+      "mentioned_by_sources": [
+        "chip-huyen-ai-engineering"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-systems",
+      "label": "AI systems",
+      "mentioned_by_sources": [
+        "thariq-site"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-transformation",
+      "label": "AI transformation",
+      "mentioned_by_sources": [
+        "andrew-ai-transformation-playbook"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-usage-baseline",
+      "label": "AI usage baseline",
+      "mentioned_by_sources": [
+        "shopify-ai-playground"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-workflows",
+      "label": "AI workflows",
+      "mentioned_by_sources": [
+        "eugene-yan"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-assisted-development",
+      "label": "AI-assisted development",
+      "mentioned_by_sources": [
+        "mitchell-non-trivial-vibing"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ai-native-builder",
+      "label": "AI-native builder",
+      "mentioned_by_sources": [
+        "jiayuan-github"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "andrej-karpathy-skills",
+      "label": "Andrej Karpathy skills",
+      "mentioned_by_sources": [
+        "jiayuan-github"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "applied-ai",
+      "label": "applied AI",
+      "mentioned_by_sources": [
+        "deeplearning-ai-about"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "apprenticeship",
+      "label": "apprenticeship",
+      "mentioned_by_sources": [
+        "tobi-apprentice-programmer"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "autograd",
+      "label": "autograd",
+      "mentioned_by_sources": [
+        "karpathy-micrograd"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "automation",
+      "label": "automation",
+      "mentioned_by_sources": [
+        "levels-diy"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "bessemer-metrics",
+      "label": "Bessemer metrics",
+      "mentioned_by_sources": [
+        "tobi-compass-metric"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "blast-radius",
+      "label": "blast radius",
+      "mentioned_by_sources": [
+        "steipete-just-talk"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "boris-cherny",
+      "label": "Boris Cherny",
+      "mentioned_by_sources": [
+        "thariq-workshop-recap"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "candidate",
+      "reason": "Appears in Claude Code workflow ecosystem and Thariq-related recaps. Needs primary-source review before promotion."
+    },
+    {
+      "slug": "build-in-public",
+      "label": "build in public",
+      "mentioned_by_sources": [
+        "levelsio-blog"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "c",
+      "label": "C",
+      "mentioned_by_sources": [
+        "karpathy-llm-c"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "chip-huyen",
+      "label": "Chip Huyen",
+      "mentioned_by_sources": [
+        "chip-huyen-ai-engineering"
+      ],
+      "mention_count": 1,
+      "confidence": "High",
+      "promotion_status": "candidate",
+      "reason": "Strong AI engineering fundamentals candidate. Keep as candidate until the knowledge bank adds a dedicated AI engineering learning track."
+    },
+    {
+      "slug": "cmrr",
+      "label": "CMRR",
+      "mentioned_by_sources": [
+        "tobi-compass-metric"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "code-review",
+      "label": "code review",
+      "mentioned_by_sources": [
+        "tobi-apprentice-programmer"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "codex-app",
+      "label": "Codex app",
+      "mentioned_by_sources": [
+        "openai-codex-app"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "coding-agent",
+      "label": "coding agent",
+      "mentioned_by_sources": [
+        "openai-codex"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "coding-agents",
+      "label": "coding agents",
+      "mentioned_by_sources": [
+        "multica-github"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "communication",
+      "label": "communication",
+      "mentioned_by_sources": [
+        "andrew-ai-transformation-playbook"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "contracts",
+      "label": "contracts",
+      "mentioned_by_sources": [
+        "matt-typescript-ai-era"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "coordinated-teams-of-agents",
+      "label": "coordinated teams of agents",
+      "mentioned_by_sources": [
+        "openai-codex-app"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "coursera",
+      "label": "Coursera",
+      "mentioned_by_sources": [
+        "andrew-ng-official"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "courses",
+      "label": "courses",
+      "mentioned_by_sources": [
+        "deeplearning-ai-about"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "cuda",
+      "label": "CUDA",
+      "mentioned_by_sources": [
+        "karpathy-llm-c"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "datasets",
+      "label": "datasets",
+      "mentioned_by_sources": [
+        "karpathy-software-2"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "deep-blue",
+      "label": "Deep Blue",
+      "mentioned_by_sources": [
+        "tobi-human-excellence"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "deeplearning-ai",
+      "label": "DeepLearning.AI",
+      "mentioned_by_sources": [
+        "andrew-ng-official"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "demos",
+      "label": "demos",
+      "mentioned_by_sources": [
+        "mitchell-large-projects"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "design",
+      "label": "design",
+      "mentioned_by_sources": [
+        "thariq-site"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "desktop",
+      "label": "desktop",
+      "mentioned_by_sources": [
+        "openai-codex-app"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "diy",
+      "label": "DIY",
+      "mentioned_by_sources": [
+        "levels-diy"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "education",
+      "label": "education",
+      "mentioned_by_sources": [
+        "matt-github"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "end-of-day-agents",
+      "label": "end-of-day agents",
+      "mentioned_by_sources": [
+        "mitchell-ai-adoption"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "eugene-yan",
+      "label": "Eugene Yan",
+      "mentioned_by_sources": [
+        "eugene-yan"
+      ],
+      "mention_count": 1,
+      "confidence": "High",
+      "promotion_status": "candidate",
+      "reason": "Strong production AI/evals candidate. Useful gap-fill if production LLM systems become a major branch."
+    },
+    {
+      "slug": "evaluation",
+      "label": "evaluation",
+      "mentioned_by_sources": [
+        "chip-huyen-ai-engineering"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "evaluator-optimizer",
+      "label": "evaluator-optimizer",
+      "mentioned_by_sources": [
+        "anthropic-effective-agents"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "examples",
+      "label": "examples",
+      "mentioned_by_sources": [
+        "matt-github"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "exercises",
+      "label": "exercises",
+      "mentioned_by_sources": [
+        "matt-total-typescript"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "external-communication",
+      "label": "external communication",
+      "mentioned_by_sources": [
+        "simon-lethal-trifecta"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "failure-rate",
+      "label": "failure rate",
+      "mentioned_by_sources": [
+        "levels-projects"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "fast-feedback",
+      "label": "fast feedback",
+      "mentioned_by_sources": [
+        "tobi-apprentice-programmer"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "focus",
+      "label": "focus",
+      "mentioned_by_sources": [
+        "tobi-compass-metric"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "foundation-models",
+      "label": "foundation models",
+      "mentioned_by_sources": [
+        "chip-huyen-ai-engineering"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "from-scratch",
+      "label": "from scratch",
+      "mentioned_by_sources": [
+        "karpathy-zero-to-hero"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "github",
+      "label": "GitHub",
+      "mentioned_by_sources": [
+        "claude-code-docs"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "gpt",
+      "label": "GPT",
+      "mentioned_by_sources": [
+        "karpathy-nanogpt"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "harness",
+      "label": "harness",
+      "mentioned_by_sources": [
+        "mitchell-ai-adoption"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "human-plus-machine",
+      "label": "human plus machine",
+      "mentioned_by_sources": [
+        "tobi-human-excellence"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "human-agent-teams",
+      "label": "human-agent teams",
+      "mentioned_by_sources": [
+        "multica-github"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "inspect-ai",
+      "label": "Inspect AI",
+      "mentioned_by_sources": [
+        "hamel-evals"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "john-carmack",
+      "label": "John Carmack",
+      "mentioned_by_sources": [
+        "levels-diy"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "judgment",
+      "label": "judgment",
+      "mentioned_by_sources": [
+        "tobi-human-excellence"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "kasparov",
+      "label": "Kasparov",
+      "mentioned_by_sources": [
+        "tobi-human-excellence"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "landingai",
+      "label": "LandingAI",
+      "mentioned_by_sources": [
+        "andrew-ng-official"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "linode",
+      "label": "Linode",
+      "mentioned_by_sources": [
+        "levels-mvp"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "llm-evals",
+      "label": "LLM evals",
+      "mentioned_by_sources": [
+        "eugene-yan"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "llm-training",
+      "label": "LLM training",
+      "mentioned_by_sources": [
+        "karpathy-llm-c"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "llms",
+      "label": "LLMs",
+      "mentioned_by_sources": [
+        "karpathy-software-changing"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "local-models",
+      "label": "local models",
+      "mentioned_by_sources": [
+        "simon-llm-cli"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "manual-testing",
+      "label": "manual testing",
+      "mentioned_by_sources": [
+        "simon-agentic-patterns"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "micrograd",
+      "label": "micrograd",
+      "mentioned_by_sources": [
+        "karpathy-zero-to-hero"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "model-experimentation",
+      "label": "model experimentation",
+      "mentioned_by_sources": [
+        "simon-llm-cli"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "models",
+      "label": "models",
+      "mentioned_by_sources": [
+        "simon-llm-docs"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "multi-agent-workflows",
+      "label": "multi-agent workflows",
+      "mentioned_by_sources": [
+        "deeplearning-agentic-ai"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "multica",
+      "label": "Multica",
+      "mentioned_by_sources": [
+        "jiayuan-github"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "mvp",
+      "label": "MVP",
+      "mentioned_by_sources": [
+        "levels-mvp"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "nanogpt",
+      "label": "nanoGPT",
+      "mentioned_by_sources": [
+        "karpathy-zero-to-hero"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "natural-language-programming",
+      "label": "natural language programming",
+      "mentioned_by_sources": [
+        "karpathy-software-changing"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "next-js",
+      "label": "Next.js",
+      "mentioned_by_sources": [
+        "create-t3-app"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "nginx",
+      "label": "Nginx",
+      "mentioned_by_sources": [
+        "levels-mvp"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "non-trivial-feature",
+      "label": "non-trivial feature",
+      "mentioned_by_sources": [
+        "mitchell-non-trivial-vibing"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "openai",
+      "label": "OpenAI",
+      "mentioned_by_sources": [
+        "steipete-openclaw"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "openai-codex",
+      "label": "OpenAI Codex",
+      "mentioned_by_sources": [
+        "simon-agentic-patterns"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "openclaw",
+      "label": "OpenClaw",
+      "mentioned_by_sources": [
+        "steipete-openclaw"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "operations",
+      "label": "operations",
+      "mentioned_by_sources": [
+        "levels-diy"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "paid-validation",
+      "label": "paid validation",
+      "mentioned_by_sources": [
+        "levels-validation"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "parallel-agents",
+      "label": "parallel agents",
+      "mentioned_by_sources": [
+        "steipete-just-talk"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "parallel-sessions",
+      "label": "parallel sessions",
+      "mentioned_by_sources": [
+        "thariq-workshop-recap"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "patterns",
+      "label": "patterns",
+      "mentioned_by_sources": [
+        "matt-total-typescript"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "performance",
+      "label": "performance",
+      "mentioned_by_sources": [
+        "karpathy-llm-c"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "photo-ai",
+      "label": "Photo AI",
+      "mentioned_by_sources": [
+        "levels-projects"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "php",
+      "label": "PHP",
+      "mentioned_by_sources": [
+        "levels-mvp"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "pilot-projects",
+      "label": "pilot projects",
+      "mentioned_by_sources": [
+        "andrew-ai-transformation-playbook"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "planning",
+      "label": "planning",
+      "mentioned_by_sources": [
+        "deeplearning-agentic-ai"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "preorders",
+      "label": "preorders",
+      "mentioned_by_sources": [
+        "levels-validation"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "prisma",
+      "label": "Prisma",
+      "mentioned_by_sources": [
+        "create-t3-app"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "private-data",
+      "label": "private data",
+      "mentioned_by_sources": [
+        "simon-lethal-trifecta"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "product-evals",
+      "label": "product evals",
+      "mentioned_by_sources": [
+        "eugene-yan"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "product-specific-evals",
+      "label": "product-specific evals",
+      "mentioned_by_sources": [
+        "shreya-hamel-evals"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "production-ai",
+      "label": "production AI",
+      "mentioned_by_sources": [
+        "eugene-yan"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "programming-paradigms",
+      "label": "programming paradigms",
+      "mentioned_by_sources": [
+        "karpathy-software-2"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "progressive-discovery",
+      "label": "progressive discovery",
+      "mentioned_by_sources": [
+        "thariq-agent-design"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "project-ledger",
+      "label": "project ledger",
+      "mentioned_by_sources": [
+        "levels-projects"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "prompt-injection",
+      "label": "prompt injection",
+      "mentioned_by_sources": [
+        "simon-lethal-trifecta"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "prototyping",
+      "label": "prototyping",
+      "mentioned_by_sources": [
+        "shopify-ai-playground"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "pull-requests",
+      "label": "pull requests",
+      "mentioned_by_sources": [
+        "openai-codex"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "pytorch",
+      "label": "PyTorch",
+      "mentioned_by_sources": [
+        "karpathy-nanogpt"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "raw-js",
+      "label": "raw JS",
+      "mentioned_by_sources": [
+        "levels-mvp"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "red-green-tdd",
+      "label": "Red/green TDD",
+      "mentioned_by_sources": [
+        "simon-agentic-patterns"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "refactors",
+      "label": "refactors",
+      "mentioned_by_sources": [
+        "openai-codex"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "reflection",
+      "label": "reflection",
+      "mentioned_by_sources": [
+        "deeplearning-agentic-ai"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "research",
+      "label": "research",
+      "mentioned_by_sources": [
+        "thariq-site"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "responsible-ai-assisted-programming",
+      "label": "responsible AI-assisted programming",
+      "mentioned_by_sources": [
+        "simon-vibe-coding"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "routing",
+      "label": "routing",
+      "mentioned_by_sources": [
+        "anthropic-effective-agents"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "shopify",
+      "label": "Shopify",
+      "mentioned_by_sources": [
+        "shopify-ai-playground"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "shreya-shankar",
+      "label": "Shreya Shankar",
+      "mentioned_by_sources": [
+        "shreya-hamel-evals"
+      ],
+      "mention_count": 1,
+      "confidence": "High",
+      "promotion_status": "candidate",
+      "reason": "Strong candidate for evals, data quality, and production ML/AI observability. Needs a dedicated promotion review before full mentor page."
+    },
+    {
+      "slug": "simple-stack",
+      "label": "simple stack",
+      "mentioned_by_sources": [
+        "levels-mvp"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "skills",
+      "label": "skills",
+      "mentioned_by_sources": [
+        "openai-codex-app"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "slam-dunks",
+      "label": "slam dunks",
+      "mentioned_by_sources": [
+        "mitchell-ai-adoption"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "small-implementation",
+      "label": "small implementation",
+      "mentioned_by_sources": [
+        "karpathy-micrograd"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "software-3-0",
+      "label": "Software 3.0",
+      "mentioned_by_sources": [
+        "karpathy-software-changing"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "specialized-assistants",
+      "label": "specialized assistants",
+      "mentioned_by_sources": [
+        "claude-subagents-docs"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "standard-library-types",
+      "label": "standard library types",
+      "mentioned_by_sources": [
+        "matt-ts-reset"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "status",
+      "label": "status",
+      "mentioned_by_sources": [
+        "multica-docs"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "strategy",
+      "label": "strategy",
+      "mentioned_by_sources": [
+        "andrew-ai-transformation-playbook"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "stripe",
+      "label": "Stripe",
+      "mentioned_by_sources": [
+        "levels-validation"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "support",
+      "label": "support",
+      "mentioned_by_sources": [
+        "levels-diy"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "t3-chat",
+      "label": "T3 Chat",
+      "mentioned_by_sources": [
+        "theo-site"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "t3-code",
+      "label": "T3 Code",
+      "mentioned_by_sources": [
+        "theo-site"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "tailwind",
+      "label": "Tailwind",
+      "mentioned_by_sources": [
+        "create-t3-app"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "tasks",
+      "label": "tasks",
+      "mentioned_by_sources": [
+        "multica-docs"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "team-workflows",
+      "label": "team workflows",
+      "mentioned_by_sources": [
+        "anthropic-teams-claude-code"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "technical-projects",
+      "label": "technical projects",
+      "mentioned_by_sources": [
+        "mitchell-large-projects"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "templates",
+      "label": "templates",
+      "mentioned_by_sources": [
+        "simon-llm-docs"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "terminal",
+      "label": "terminal",
+      "mentioned_by_sources": [
+        "claude-code-docs"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "tests",
+      "label": "tests",
+      "mentioned_by_sources": [
+        "mitchell-large-projects"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "tinyshakespeare",
+      "label": "TinyShakespeare",
+      "mentioned_by_sources": [
+        "karpathy-nanogpt"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "tmux",
+      "label": "tmux",
+      "mentioned_by_sources": [
+        "steipete-just-talk"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "tool-use",
+      "label": "tool use",
+      "mentioned_by_sources": [
+        "deeplearning-agentic-ai"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "trpc",
+      "label": "tRPC",
+      "mentioned_by_sources": [
+        "create-t3-app"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "ts-reset",
+      "label": "ts-reset",
+      "mentioned_by_sources": [
+        "matt-github"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "type-safety",
+      "label": "type safety",
+      "mentioned_by_sources": [
+        "matt-ts-reset"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "types",
+      "label": "types",
+      "mentioned_by_sources": [
+        "matt-typescript-ai-era"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "typescript-education",
+      "label": "TypeScript education",
+      "mentioned_by_sources": [
+        "matt-total-typescript"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "unduck",
+      "label": "unduck",
+      "mentioned_by_sources": [
+        "theo-github"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "untrusted-content",
+      "label": "untrusted content",
+      "mentioned_by_sources": [
+        "simon-lethal-trifecta"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "uploadthing",
+      "label": "uploadthing",
+      "mentioned_by_sources": [
+        "theo-github"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "vibe-coding",
+      "label": "vibe coding",
+      "mentioned_by_sources": [
+        "simon-vibe-coding"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "vs-code",
+      "label": "VS Code",
+      "mentioned_by_sources": [
+        "steipete-workflow"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "weekly-cadence",
+      "label": "weekly cadence",
+      "mentioned_by_sources": [
+        "tobi-compass-metric"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "workflow",
+      "label": "workflow",
+      "mentioned_by_sources": [
+        "thariq-code-with-claude"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "workflow-docs",
+      "label": "workflow docs",
+      "mentioned_by_sources": [
+        "steipete-agent-rules"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "workflows",
+      "label": "workflows",
+      "mentioned_by_sources": [
+        "anthropic-effective-agents"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "addy-osmani",
+      "label": "Addy Osmani",
+      "mentioned_by_sources": [],
+      "mention_count": 0,
+      "confidence": "Medium",
+      "promotion_status": "candidate",
+      "reason": "Potential gap-fill for frontend/product quality and AI-assisted engineering. Not enough evidence from core mentor graph in this pass."
+    },
+    {
+      "slug": "lenny-rachitsky",
+      "label": "Lenny Rachitsky",
+      "mentioned_by_sources": [],
+      "mention_count": 0,
+      "confidence": "Medium",
+      "promotion_status": "candidate",
+      "reason": "Potential gap-fill for product and growth. Not enough evidence from core mentor graph in this pass."
+    }
+  ]
+}

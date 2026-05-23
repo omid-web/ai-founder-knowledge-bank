@@ -1,0 +1,1758 @@
+{
+  "generated_at": "2026-05-23",
+  "people": [
+    {
+      "slug": "tobias-lutke",
+      "name": "Tobias Lutke",
+      "handle": "@tobi",
+      "role": "AI-native CEO and operating-system mentor",
+      "confidence": "High",
+      "tags": [
+        "ceo",
+        "ai-adoption",
+        "operations"
+      ],
+      "path": "wiki/01-people-tobias-lutke.html",
+      "agent_path": "01_People/tobias-lutke.md",
+      "topics": [
+        "ai-native-ceo-operating-system",
+        "agentic-engineering"
+      ],
+      "sourceIds": [
+        "shopify-ai-playground",
+        "tobi-compass-metric",
+        "tobi-human-excellence",
+        "tobi-apprentice-programmer"
+      ]
+    },
+    {
+      "slug": "pieter-levels",
+      "name": "Pieter Levels",
+      "handle": "@levelsio",
+      "role": "Solo product, distribution, and shipping mentor",
+      "confidence": "High",
+      "tags": [
+        "indie",
+        "shipping",
+        "distribution"
+      ],
+      "path": "wiki/01-people-pieter-levels.html",
+      "agent_path": "01_People/pieter-levels.md",
+      "topics": [
+        "solo-founder-product-distribution",
+        "shipping-small-products"
+      ],
+      "sourceIds": [
+        "levelsio-blog",
+        "levels-projects",
+        "levels-mvp",
+        "levels-validation",
+        "levels-diy"
+      ]
+    },
+    {
+      "slug": "andrew-ng",
+      "name": "Andrew Ng",
+      "handle": "@AndrewYNg",
+      "role": "Applied AI fundamentals and opportunity-selection mentor",
+      "confidence": "High",
+      "tags": [
+        "ai-fundamentals",
+        "education",
+        "applied-ai"
+      ],
+      "path": "wiki/01-people-andrew-ng.html",
+      "agent_path": "01_People/andrew-ng.md",
+      "topics": [
+        "ai-native-ceo-operating-system",
+        "evals-observability-feedback-loops"
+      ],
+      "sourceIds": [
+        "andrew-ng-official",
+        "deeplearning-ai-about",
+        "andrew-ai-transformation-playbook",
+        "deeplearning-agentic-ai"
+      ]
+    },
+    {
+      "slug": "matt-pocock",
+      "name": "Matt Pocock",
+      "handle": "@mattpocockuk",
+      "role": "TypeScript clarity, contracts, and code-quality mentor",
+      "confidence": "High",
+      "tags": [
+        "typescript",
+        "code-quality",
+        "contracts"
+      ],
+      "path": "wiki/01-people-matt-pocock.html",
+      "agent_path": "01_People/matt-pocock.md",
+      "topics": [
+        "typescript-ai-stack",
+        "engineering-taste-code-quality"
+      ],
+      "sourceIds": [
+        "matt-typescript-ai-era",
+        "matt-total-typescript",
+        "matt-github",
+        "matt-ts-reset"
+      ]
+    },
+    {
+      "slug": "peter-steinberger",
+      "name": "Peter Steinberger",
+      "handle": "@steipete",
+      "role": "Agentic engineering workflow and high-throughput supervision mentor",
+      "confidence": "High",
+      "tags": [
+        "codex",
+        "claude-code",
+        "parallel-agents",
+        "workflow"
+      ],
+      "path": "wiki/01-people-peter-steinberger.html",
+      "agent_path": "01_People/peter-steinberger.md",
+      "topics": [
+        "agentic-engineering",
+        "parallel-agent-workflow",
+        "mcp-and-agent-tools"
+      ],
+      "sourceIds": [
+        "steipete-just-talk",
+        "steipete-workflow",
+        "steipete-openclaw",
+        "steipete-agent-rules"
+      ]
+    },
+    {
+      "slug": "thariq-shihipar",
+      "name": "Thariq Shihipar",
+      "handle": "@trq212",
+      "role": "Claude Code and agent action-space mentor",
+      "confidence": "Medium",
+      "tags": [
+        "claude-code",
+        "agent-tools",
+        "context"
+      ],
+      "path": "wiki/01-people-thariq-shihipar.html",
+      "agent_path": "01_People/thariq-shihipar.md",
+      "topics": [
+        "agentic-engineering",
+        "parallel-agent-workflow",
+        "mcp-and-agent-tools"
+      ],
+      "sourceIds": [
+        "thariq-site",
+        "thariq-agent-design",
+        "thariq-workshop-recap",
+        "thariq-code-with-claude",
+        "anthropic-teams-claude-code",
+        "claude-code-docs",
+        "claude-subagents-docs"
+      ]
+    },
+    {
+      "slug": "andrej-karpathy",
+      "name": "Andrej Karpathy",
+      "handle": "@karpathy",
+      "role": "Software paradigm and AI-native programming mentor",
+      "confidence": "High",
+      "tags": [
+        "software-2",
+        "software-3",
+        "llms",
+        "programming-models"
+      ],
+      "path": "wiki/01-people-andrej-karpathy.html",
+      "agent_path": "01_People/andrej-karpathy.md",
+      "topics": [
+        "agentic-engineering",
+        "context-engineering",
+        "prompt-to-product"
+      ],
+      "sourceIds": [
+        "karpathy-software-2",
+        "karpathy-software-changing",
+        "karpathy-zero-to-hero",
+        "karpathy-micrograd",
+        "karpathy-nanogpt",
+        "karpathy-llm-c"
+      ]
+    },
+    {
+      "slug": "jiayuan-zhang",
+      "name": "Jiayuan Zhang",
+      "handle": "@jiayuan_jy",
+      "role": "Human-agent team and agency mentor",
+      "confidence": "Medium",
+      "tags": [
+        "agent-management",
+        "human-agent-teams",
+        "agency"
+      ],
+      "path": "wiki/01-people-jiayuan-zhang.html",
+      "agent_path": "01_People/jiayuan-zhang.md",
+      "topics": [
+        "parallel-agent-workflow",
+        "agentic-engineering"
+      ],
+      "sourceIds": [
+        "jiayuan-github",
+        "multica-github",
+        "multica-docs"
+      ]
+    },
+    {
+      "slug": "mitchell-hashimoto",
+      "name": "Mitchell Hashimoto",
+      "handle": "@mitchellh",
+      "role": "Engineering craft, harness, and adoption-discipline mentor",
+      "confidence": "High",
+      "tags": [
+        "engineering-craft",
+        "harnesses",
+        "ghostty",
+        "agents"
+      ],
+      "path": "wiki/01-people-mitchell-hashimoto.html",
+      "agent_path": "01_People/mitchell-hashimoto.md",
+      "topics": [
+        "engineering-taste-code-quality",
+        "agentic-engineering",
+        "evals-observability-feedback-loops"
+      ],
+      "sourceIds": [
+        "mitchell-ai-adoption",
+        "mitchell-large-projects",
+        "mitchell-non-trivial-vibing"
+      ]
+    },
+    {
+      "slug": "theo-browne",
+      "name": "Theo Browne",
+      "handle": "@theo",
+      "role": "Modern full-stack, productized tooling, and developer-audience mentor",
+      "confidence": "High",
+      "tags": [
+        "typescript",
+        "full-stack",
+        "content",
+        "ai-products"
+      ],
+      "path": "wiki/01-people-theo-browne.html",
+      "agent_path": "01_People/theo-browne.md",
+      "topics": [
+        "typescript-ai-stack",
+        "solo-founder-product-distribution",
+        "shipping-small-products"
+      ],
+      "sourceIds": [
+        "theo-site",
+        "theo-github",
+        "create-t3-app"
+      ]
+    },
+    {
+      "slug": "simon-willison",
+      "name": "Simon Willison",
+      "handle": "GitHub: simonw",
+      "role": "LLM pragmatism, security, tools, and responsible agentic engineering mentor",
+      "confidence": "High",
+      "tags": [
+        "llms",
+        "agentic-engineering",
+        "security",
+        "cli"
+      ],
+      "path": "wiki/01-people-simon-willison.html",
+      "agent_path": "01_People/simon-willison.md",
+      "topics": [
+        "agentic-engineering",
+        "security-risk-ai-agents",
+        "llm-cli-tools",
+        "evals-observability-feedback-loops"
+      ],
+      "sourceIds": [
+        "simon-agentic-patterns",
+        "simon-vibe-coding",
+        "simon-llm-cli",
+        "simon-llm-docs",
+        "simon-lethal-trifecta"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "slug": "agentic-engineering",
+      "title": "Agentic Engineering",
+      "confidence": "High",
+      "tags": [
+        "agents",
+        "coding",
+        "workflow"
+      ],
+      "path": "wiki/02-topics-agentic-engineering.html",
+      "agent_path": "02_Topics/agentic-engineering.md",
+      "people": [
+        "simon-willison",
+        "peter-steinberger",
+        "mitchell-hashimoto",
+        "andrej-karpathy",
+        "thariq-shihipar"
+      ],
+      "sourceIds": [
+        "simon-agentic-patterns",
+        "steipete-just-talk",
+        "mitchell-ai-adoption",
+        "anthropic-effective-agents"
+      ]
+    },
+    {
+      "slug": "ai-native-ceo-operating-system",
+      "title": "AI-Native CEO Operating System",
+      "confidence": "High",
+      "tags": [
+        "ceo",
+        "operations",
+        "leverage"
+      ],
+      "path": "wiki/02-topics-ai-native-ceo-operating-system.html",
+      "agent_path": "02_Topics/ai-native-ceo-operating-system.md",
+      "people": [
+        "tobias-lutke",
+        "andrew-ng"
+      ],
+      "sourceIds": [
+        "shopify-ai-playground",
+        "andrew-ng-official",
+        "deeplearning-ai-about"
+      ]
+    },
+    {
+      "slug": "solo-founder-product-distribution",
+      "title": "Solo Founder Product And Distribution",
+      "confidence": "High",
+      "tags": [
+        "founder",
+        "distribution",
+        "customers"
+      ],
+      "path": "wiki/02-topics-solo-founder-product-distribution.html",
+      "agent_path": "02_Topics/solo-founder-product-distribution.md",
+      "people": [
+        "pieter-levels",
+        "theo-browne"
+      ],
+      "sourceIds": [
+        "levelsio-blog",
+        "theo-site",
+        "theo-github"
+      ]
+    },
+    {
+      "slug": "engineering-taste-code-quality",
+      "title": "Engineering Taste And Code Quality",
+      "confidence": "High",
+      "tags": [
+        "quality",
+        "taste",
+        "maintenance"
+      ],
+      "path": "wiki/02-topics-engineering-taste-code-quality.html",
+      "agent_path": "02_Topics/engineering-taste-code-quality.md",
+      "people": [
+        "matt-pocock",
+        "mitchell-hashimoto",
+        "simon-willison"
+      ],
+      "sourceIds": [
+        "matt-typescript-ai-era",
+        "mitchell-large-projects",
+        "simon-vibe-coding"
+      ]
+    },
+    {
+      "slug": "evals-observability-feedback-loops",
+      "title": "Evals, Observability, And Feedback Loops",
+      "confidence": "High",
+      "tags": [
+        "evals",
+        "observability",
+        "testing"
+      ],
+      "path": "wiki/02-topics-evals-observability-feedback-loops.html",
+      "agent_path": "02_Topics/evals-observability-feedback-loops.md",
+      "people": [
+        "andrew-ng",
+        "mitchell-hashimoto",
+        "simon-willison"
+      ],
+      "sourceIds": [
+        "hamel-evals",
+        "shreya-hamel-evals",
+        "eugene-yan",
+        "mitchell-ai-adoption",
+        "simon-agentic-patterns"
+      ]
+    },
+    {
+      "slug": "security-risk-ai-agents",
+      "title": "Security And Risk For AI Agents",
+      "confidence": "High",
+      "tags": [
+        "security",
+        "prompt-injection",
+        "risk"
+      ],
+      "path": "wiki/02-topics-security-risk-ai-agents.html",
+      "agent_path": "02_Topics/security-risk-ai-agents.md",
+      "people": [
+        "simon-willison"
+      ],
+      "sourceIds": [
+        "simon-vibe-coding",
+        "simon-agentic-patterns",
+        "anthropic-effective-agents"
+      ]
+    },
+    {
+      "slug": "context-engineering",
+      "title": "Context Engineering",
+      "confidence": "Medium",
+      "tags": [
+        "context",
+        "prompts",
+        "files"
+      ],
+      "path": "wiki/02-topics-context-engineering.html",
+      "agent_path": "02_Topics/context-engineering.md",
+      "people": [
+        "andrej-karpathy",
+        "thariq-shihipar",
+        "simon-willison"
+      ],
+      "sourceIds": [
+        "karpathy-software-changing",
+        "thariq-agent-design",
+        "simon-agentic-patterns"
+      ]
+    },
+    {
+      "slug": "prompt-to-product",
+      "title": "Prompt To Product",
+      "confidence": "Medium",
+      "tags": [
+        "product",
+        "prototyping",
+        "agents"
+      ],
+      "path": "wiki/02-topics-prompt-to-product.html",
+      "agent_path": "02_Topics/prompt-to-product.md",
+      "people": [
+        "andrej-karpathy",
+        "pieter-levels",
+        "theo-browne"
+      ],
+      "sourceIds": [
+        "karpathy-software-changing",
+        "levelsio-blog",
+        "openai-codex-app"
+      ]
+    }
+  ],
+  "playbooks": [
+    {
+      "slug": "daily-agent-manager-routine",
+      "title": "Daily Agent Manager Routine",
+      "confidence": "High",
+      "tags": [
+        "daily",
+        "agents",
+        "management"
+      ],
+      "path": "wiki/03-playbooks-daily-agent-manager-routine.html",
+      "agent_path": "03_Playbooks/daily-agent-manager-routine.md"
+    },
+    {
+      "slug": "weekly-founder-review",
+      "title": "Weekly Founder Review",
+      "confidence": "High",
+      "tags": [
+        "weekly",
+        "ceo",
+        "review"
+      ],
+      "path": "wiki/03-playbooks-weekly-founder-review.html",
+      "agent_path": "03_Playbooks/weekly-founder-review.md"
+    },
+    {
+      "slug": "planning-before-coding",
+      "title": "Planning Before Coding",
+      "confidence": "High",
+      "tags": [
+        "planning",
+        "scope",
+        "agents"
+      ],
+      "path": "wiki/03-playbooks-planning-before-coding.html",
+      "agent_path": "03_Playbooks/planning-before-coding.md"
+    },
+    {
+      "slug": "parallel-agent-workflow",
+      "title": "Parallel Agent Workflow",
+      "confidence": "High",
+      "tags": [
+        "parallel",
+        "agents",
+        "delegation"
+      ],
+      "path": "wiki/03-playbooks-parallel-agent-workflow.html",
+      "agent_path": "03_Playbooks/parallel-agent-workflow.md"
+    },
+    {
+      "slug": "ai-code-review-checklist",
+      "title": "AI Code Review Checklist",
+      "confidence": "High",
+      "tags": [
+        "review",
+        "quality",
+        "agents"
+      ],
+      "path": "wiki/03-playbooks-ai-code-review-checklist.html",
+      "agent_path": "03_Playbooks/ai-code-review-checklist.md"
+    },
+    {
+      "slug": "shipping-small-products",
+      "title": "Shipping Small Products",
+      "confidence": "High",
+      "tags": [
+        "shipping",
+        "product",
+        "solo"
+      ],
+      "path": "wiki/03-playbooks-shipping-small-products.html",
+      "agent_path": "03_Playbooks/shipping-small-products.md"
+    },
+    {
+      "slug": "customer-discovery-with-ai",
+      "title": "Customer Discovery With AI",
+      "confidence": "Medium",
+      "tags": [
+        "customers",
+        "research",
+        "crm"
+      ],
+      "path": "wiki/03-playbooks-customer-discovery-with-ai.html",
+      "agent_path": "03_Playbooks/customer-discovery-with-ai.md"
+    },
+    {
+      "slug": "build-in-public-system",
+      "title": "Build In Public System",
+      "confidence": "Medium",
+      "tags": [
+        "distribution",
+        "content",
+        "public"
+      ],
+      "path": "wiki/03-playbooks-build-in-public-system.html",
+      "agent_path": "03_Playbooks/build-in-public-system.md"
+    },
+    {
+      "slug": "support-sales-ops-agents",
+      "title": "Support, Sales, And Ops Agents",
+      "confidence": "Medium",
+      "tags": [
+        "ops",
+        "support",
+        "sales"
+      ],
+      "path": "wiki/03-playbooks-support-sales-ops-agents.html",
+      "agent_path": "03_Playbooks/support-sales-ops-agents.md"
+    },
+    {
+      "slug": "candidate-promotion-workflow",
+      "title": "Candidate Promotion Workflow",
+      "confidence": "High",
+      "tags": [
+        "knowledge-bank",
+        "candidates",
+        "sources"
+      ],
+      "path": "wiki/03-playbooks-candidate-promotion-workflow.html",
+      "agent_path": "03_Playbooks/candidate-promotion-workflow.md"
+    }
+  ],
+  "tools": [
+    {
+      "slug": "coding-agents",
+      "title": "Coding Agents",
+      "confidence": "High",
+      "tags": [
+        "codex",
+        "claude-code",
+        "agents"
+      ],
+      "path": "wiki/04-tooling-coding-agents.html",
+      "agent_path": "04_Tooling/coding-agents.md"
+    },
+    {
+      "slug": "claude-code-and-codex-workflows",
+      "title": "Claude Code And Codex Workflows",
+      "confidence": "High",
+      "tags": [
+        "claude-code",
+        "codex",
+        "workflow"
+      ],
+      "path": "wiki/04-tooling-claude-code-and-codex-workflows.html",
+      "agent_path": "04_Tooling/claude-code-and-codex-workflows.md"
+    },
+    {
+      "slug": "mcp-and-agent-tools",
+      "title": "MCP And Agent Tools",
+      "confidence": "Medium",
+      "tags": [
+        "mcp",
+        "tools",
+        "cli"
+      ],
+      "path": "wiki/04-tooling-mcp-and-agent-tools.html",
+      "agent_path": "04_Tooling/mcp-and-agent-tools.md"
+    },
+    {
+      "slug": "typescript-ai-stack",
+      "title": "TypeScript AI Stack",
+      "confidence": "High",
+      "tags": [
+        "typescript",
+        "nextjs",
+        "contracts"
+      ],
+      "path": "wiki/04-tooling-typescript-ai-stack.html",
+      "agent_path": "04_Tooling/typescript-ai-stack.md"
+    },
+    {
+      "slug": "llm-cli-tools",
+      "title": "LLM CLI Tools",
+      "confidence": "High",
+      "tags": [
+        "cli",
+        "llm",
+        "automation"
+      ],
+      "path": "wiki/04-tooling-llm-cli-tools.html",
+      "agent_path": "04_Tooling/llm-cli-tools.md"
+    },
+    {
+      "slug": "evals-and-test-harnesses",
+      "title": "Evals And Test Harnesses",
+      "confidence": "High",
+      "tags": [
+        "evals",
+        "tests",
+        "harness"
+      ],
+      "path": "wiki/04-tooling-evals-and-test-harnesses.html",
+      "agent_path": "04_Tooling/evals-and-test-harnesses.md"
+    },
+    {
+      "slug": "automation-stack",
+      "title": "Automation Stack",
+      "confidence": "Medium",
+      "tags": [
+        "automation",
+        "ops",
+        "solo-company"
+      ],
+      "path": "wiki/04-tooling-automation-stack.html",
+      "agent_path": "04_Tooling/automation-stack.md"
+    },
+    {
+      "slug": "browser-qa-workflow",
+      "title": "Browser QA Workflow",
+      "confidence": "High",
+      "tags": [
+        "browser",
+        "qa",
+        "dashboard"
+      ],
+      "path": "wiki/04-tooling-browser-qa-workflow.html",
+      "agent_path": "04_Tooling/browser-qa-workflow.md"
+    }
+  ],
+  "candidates": [
+    {
+      "slug": "hamel-husain",
+      "name": "Hamel Husain",
+      "type": "person",
+      "status": "candidate",
+      "confidence": "High",
+      "reason": "Strong gap-fill candidate for evals and AI product debugging. Mentioned in eval sources, but not yet repeatedly referenced by core mentors in this first pass.",
+      "evidence": [
+        "hamel-evals",
+        "shreya-hamel-evals"
+      ],
+      "relatedTopics": [
+        "evals-observability-feedback-loops"
+      ]
+    },
+    {
+      "slug": "shreya-shankar",
+      "name": "Shreya Shankar",
+      "type": "person",
+      "status": "candidate",
+      "confidence": "High",
+      "reason": "Strong candidate for evals, data quality, and production ML/AI observability. Needs a dedicated promotion review before full mentor page.",
+      "evidence": [
+        "shreya-hamel-evals"
+      ],
+      "relatedTopics": [
+        "evals-observability-feedback-loops"
+      ]
+    },
+    {
+      "slug": "eugene-yan",
+      "name": "Eugene Yan",
+      "type": "person",
+      "status": "candidate",
+      "confidence": "High",
+      "reason": "Strong production AI/evals candidate. Useful gap-fill if production LLM systems become a major branch.",
+      "evidence": [
+        "eugene-yan"
+      ],
+      "relatedTopics": [
+        "evals-observability-feedback-loops",
+        "ai-native-ceo-operating-system"
+      ]
+    },
+    {
+      "slug": "chip-huyen",
+      "name": "Chip Huyen",
+      "type": "person",
+      "status": "candidate",
+      "confidence": "High",
+      "reason": "Strong AI engineering fundamentals candidate. Keep as candidate until the knowledge bank adds a dedicated AI engineering learning track.",
+      "evidence": [
+        "chip-huyen-ai-engineering"
+      ],
+      "relatedTopics": [
+        "evals-observability-feedback-loops"
+      ]
+    },
+    {
+      "slug": "boris-cherny",
+      "name": "Boris Cherny",
+      "type": "person",
+      "status": "candidate",
+      "confidence": "Medium",
+      "reason": "Appears in Claude Code workflow ecosystem and Thariq-related recaps. Needs primary-source review before promotion.",
+      "evidence": [
+        "thariq-workshop-recap"
+      ],
+      "relatedTopics": [
+        "claude-code-and-codex-workflows",
+        "parallel-agent-workflow"
+      ]
+    },
+    {
+      "slug": "addy-osmani",
+      "name": "Addy Osmani",
+      "type": "person",
+      "status": "candidate",
+      "confidence": "Medium",
+      "reason": "Potential gap-fill for frontend/product quality and AI-assisted engineering. Not enough evidence from core mentor graph in this pass.",
+      "evidence": [],
+      "relatedTopics": [
+        "engineering-taste-code-quality"
+      ]
+    },
+    {
+      "slug": "lenny-rachitsky",
+      "name": "Lenny Rachitsky",
+      "type": "person",
+      "status": "candidate",
+      "confidence": "Medium",
+      "reason": "Potential gap-fill for product and growth. Not enough evidence from core mentor graph in this pass.",
+      "evidence": [],
+      "relatedTopics": [
+        "solo-founder-product-distribution"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "shopify-ai-playground",
+      "slug": "shopify-ai-playground",
+      "title": "Serious results, unserious methods: Shopify AI playground",
+      "type": "article",
+      "author": "Shopify / Tobias Lutke memo excerpt",
+      "url": "https://www.shopify.com/news/unserious-exploration",
+      "confidence": "High",
+      "path": "wiki/07-sources-shopify-ai-playground.html",
+      "agent_path": "07_Sources/shopify-ai-playground.md",
+      "relatedPeople": [
+        "tobias-lutke"
+      ],
+      "relatedTopics": [
+        "ai-native-ceo-operating-system",
+        "agentic-engineering"
+      ]
+    },
+    {
+      "id": "tobi-compass-metric",
+      "slug": "tobi-compass-metric",
+      "title": "Pick your compass metric",
+      "type": "article",
+      "author": "Tobias Lutke",
+      "url": "https://tobi.lutke.com/blogs/news/11280913-pick-your-compass-metric",
+      "confidence": "High",
+      "path": "wiki/07-sources-tobi-compass-metric.html",
+      "agent_path": "07_Sources/tobi-compass-metric.md",
+      "relatedPeople": [
+        "tobias-lutke"
+      ],
+      "relatedTopics": [
+        "ai-native-ceo-operating-system",
+        "solo-founder-product-distribution"
+      ]
+    },
+    {
+      "id": "tobi-human-excellence",
+      "slug": "tobi-human-excellence",
+      "title": "The Future Role of Human Excellence",
+      "type": "article",
+      "author": "Tobias Lutke",
+      "url": "https://tobi.lutke.com/blogs/news/the-future-role-of-human-excellence",
+      "confidence": "High",
+      "path": "wiki/07-sources-tobi-human-excellence.html",
+      "agent_path": "07_Sources/tobi-human-excellence.md",
+      "relatedPeople": [
+        "tobias-lutke"
+      ],
+      "relatedTopics": [
+        "ai-native-ceo-operating-system",
+        "agentic-engineering"
+      ]
+    },
+    {
+      "id": "tobi-apprentice-programmer",
+      "slug": "tobi-apprentice-programmer",
+      "title": "The Apprentice Programmer",
+      "type": "article",
+      "author": "Tobias Lutke",
+      "url": "https://tobi.lutke.com/blogs/news/11280301-the-apprentice-programmer",
+      "confidence": "High",
+      "path": "wiki/07-sources-tobi-apprentice-programmer.html",
+      "agent_path": "07_Sources/tobi-apprentice-programmer.md",
+      "relatedPeople": [
+        "tobias-lutke"
+      ],
+      "relatedTopics": [
+        "engineering-taste-code-quality"
+      ]
+    },
+    {
+      "id": "levelsio-blog",
+      "slug": "levelsio-blog",
+      "title": "Pieter Levels personal site and project archive",
+      "type": "site",
+      "author": "Pieter Levels",
+      "url": "https://levels.io/",
+      "confidence": "High",
+      "path": "wiki/07-sources-levelsio-blog.html",
+      "agent_path": "07_Sources/levelsio-blog.md",
+      "relatedPeople": [
+        "pieter-levels"
+      ],
+      "relatedTopics": [
+        "solo-founder-product-distribution",
+        "shipping-small-products"
+      ]
+    },
+    {
+      "id": "levels-projects",
+      "slug": "levels-projects",
+      "title": "List of all my projects ever",
+      "type": "article",
+      "author": "Pieter Levels",
+      "url": "https://levels.io/projects/",
+      "confidence": "High",
+      "path": "wiki/07-sources-levels-projects.html",
+      "agent_path": "07_Sources/levels-projects.md",
+      "relatedPeople": [
+        "pieter-levels"
+      ],
+      "relatedTopics": [
+        "solo-founder-product-distribution",
+        "shipping-small-products"
+      ]
+    },
+    {
+      "id": "levels-mvp",
+      "slug": "levels-mvp",
+      "title": "How I build my minimum viable products",
+      "type": "article",
+      "author": "Pieter Levels",
+      "url": "https://levels.io/how-i-build-my-minimum-viable-products/",
+      "confidence": "High",
+      "path": "wiki/07-sources-levels-mvp.html",
+      "agent_path": "07_Sources/levels-mvp.md",
+      "relatedPeople": [
+        "pieter-levels"
+      ],
+      "relatedTopics": [
+        "solo-founder-product-distribution",
+        "shipping-small-products"
+      ]
+    },
+    {
+      "id": "levels-validation",
+      "slug": "levels-validation",
+      "title": "The only real validation is people paying",
+      "type": "article",
+      "author": "Pieter Levels",
+      "url": "https://levels.io/idea-validation/",
+      "confidence": "High",
+      "path": "wiki/07-sources-levels-validation.html",
+      "agent_path": "07_Sources/levels-validation.md",
+      "relatedPeople": [
+        "pieter-levels"
+      ],
+      "relatedTopics": [
+        "solo-founder-product-distribution"
+      ]
+    },
+    {
+      "id": "levels-diy",
+      "slug": "levels-diy",
+      "title": "Instead of hiring people, do things yourself",
+      "type": "article",
+      "author": "Pieter Levels",
+      "url": "https://levels.io/diy/",
+      "confidence": "High",
+      "path": "wiki/07-sources-levels-diy.html",
+      "agent_path": "07_Sources/levels-diy.md",
+      "relatedPeople": [
+        "pieter-levels"
+      ],
+      "relatedTopics": [
+        "solo-founder-product-distribution",
+        "ai-native-ceo-operating-system"
+      ]
+    },
+    {
+      "id": "andrew-ng-official",
+      "slug": "andrew-ng-official",
+      "title": "Andrew Ng official site",
+      "type": "site",
+      "author": "Andrew Ng",
+      "url": "https://www.andrewng.org/",
+      "confidence": "High",
+      "path": "wiki/07-sources-andrew-ng-official.html",
+      "agent_path": "07_Sources/andrew-ng-official.md",
+      "relatedPeople": [
+        "andrew-ng"
+      ],
+      "relatedTopics": [
+        "ai-native-ceo-operating-system",
+        "evals-observability-feedback-loops"
+      ]
+    },
+    {
+      "id": "deeplearning-ai-about",
+      "slug": "deeplearning-ai-about",
+      "title": "DeepLearning.AI about page",
+      "type": "site",
+      "author": "DeepLearning.AI",
+      "url": "https://www.deeplearning.ai/about",
+      "confidence": "High",
+      "path": "wiki/07-sources-deeplearning-ai-about.html",
+      "agent_path": "07_Sources/deeplearning-ai-about.md",
+      "relatedPeople": [
+        "andrew-ng"
+      ],
+      "relatedTopics": [
+        "ai-native-ceo-operating-system"
+      ]
+    },
+    {
+      "id": "andrew-ai-transformation-playbook",
+      "slug": "andrew-ai-transformation-playbook",
+      "title": "Introducing the AI Transformation Playbook",
+      "type": "article",
+      "author": "Andrew Ng",
+      "url": "https://medium.com/@andrewng/introducing-the-ai-transformation-playbook-58ccad4393e9",
+      "confidence": "High",
+      "path": "wiki/07-sources-andrew-ai-transformation-playbook.html",
+      "agent_path": "07_Sources/andrew-ai-transformation-playbook.md",
+      "relatedPeople": [
+        "andrew-ng"
+      ],
+      "relatedTopics": [
+        "ai-native-ceo-operating-system",
+        "evals-observability-feedback-loops"
+      ]
+    },
+    {
+      "id": "deeplearning-agentic-ai",
+      "slug": "deeplearning-agentic-ai",
+      "title": "Agentic AI course",
+      "type": "course",
+      "author": "DeepLearning.AI",
+      "url": "https://www.deeplearning.ai/courses/agentic-ai",
+      "confidence": "High",
+      "path": "wiki/07-sources-deeplearning-agentic-ai.html",
+      "agent_path": "07_Sources/deeplearning-agentic-ai.md",
+      "relatedPeople": [
+        "andrew-ng"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "evals-observability-feedback-loops"
+      ]
+    },
+    {
+      "id": "karpathy-software-2",
+      "slug": "karpathy-software-2",
+      "title": "Software 2.0",
+      "type": "article",
+      "author": "Andrej Karpathy",
+      "url": "https://karpathy.medium.com/software-2-0-a64152b37c35",
+      "confidence": "High",
+      "path": "wiki/07-sources-karpathy-software-2.html",
+      "agent_path": "07_Sources/karpathy-software-2.md",
+      "relatedPeople": [
+        "andrej-karpathy"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "context-engineering"
+      ]
+    },
+    {
+      "id": "karpathy-software-changing",
+      "slug": "karpathy-software-changing-again",
+      "title": "Software Is Changing Again",
+      "type": "talk",
+      "author": "Andrej Karpathy",
+      "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "confidence": "Medium",
+      "path": "wiki/07-sources-karpathy-software-changing-again.html",
+      "agent_path": "07_Sources/karpathy-software-changing-again.md",
+      "relatedPeople": [
+        "andrej-karpathy"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "prompt-to-product"
+      ]
+    },
+    {
+      "id": "karpathy-zero-to-hero",
+      "slug": "karpathy-zero-to-hero",
+      "title": "Neural Networks: Zero to Hero",
+      "type": "course",
+      "author": "Andrej Karpathy",
+      "url": "https://karpathy.ai/zero-to-hero.html",
+      "confidence": "High",
+      "path": "wiki/07-sources-karpathy-zero-to-hero.html",
+      "agent_path": "07_Sources/karpathy-zero-to-hero.md",
+      "relatedPeople": [
+        "andrej-karpathy"
+      ],
+      "relatedTopics": [
+        "context-engineering",
+        "engineering-taste-code-quality"
+      ]
+    },
+    {
+      "id": "karpathy-micrograd",
+      "slug": "karpathy-micrograd",
+      "title": "micrograd",
+      "type": "repo",
+      "author": "Andrej Karpathy",
+      "url": "https://github.com/karpathy/micrograd",
+      "confidence": "High",
+      "path": "wiki/07-sources-karpathy-micrograd.html",
+      "agent_path": "07_Sources/karpathy-micrograd.md",
+      "relatedPeople": [
+        "andrej-karpathy"
+      ],
+      "relatedTopics": [
+        "engineering-taste-code-quality"
+      ]
+    },
+    {
+      "id": "karpathy-nanogpt",
+      "slug": "karpathy-nanogpt",
+      "title": "nanoGPT",
+      "type": "repo",
+      "author": "Andrej Karpathy",
+      "url": "https://github.com/karpathy/nanoGPT",
+      "confidence": "High",
+      "path": "wiki/07-sources-karpathy-nanogpt.html",
+      "agent_path": "07_Sources/karpathy-nanogpt.md",
+      "relatedPeople": [
+        "andrej-karpathy"
+      ],
+      "relatedTopics": [
+        "context-engineering"
+      ]
+    },
+    {
+      "id": "karpathy-llm-c",
+      "slug": "karpathy-llm-c",
+      "title": "llm.c",
+      "type": "repo",
+      "author": "Andrej Karpathy",
+      "url": "https://github.com/karpathy/llm.c",
+      "confidence": "High",
+      "path": "wiki/07-sources-karpathy-llm-c.html",
+      "agent_path": "07_Sources/karpathy-llm-c.md",
+      "relatedPeople": [
+        "andrej-karpathy"
+      ],
+      "relatedTopics": [
+        "engineering-taste-code-quality"
+      ]
+    },
+    {
+      "id": "simon-agentic-patterns",
+      "slug": "simon-agentic-engineering-patterns",
+      "title": "Agentic Engineering Patterns",
+      "type": "guide",
+      "author": "Simon Willison",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+      "confidence": "High",
+      "path": "wiki/07-sources-simon-agentic-engineering-patterns.html",
+      "agent_path": "07_Sources/simon-agentic-engineering-patterns.md",
+      "relatedPeople": [
+        "simon-willison"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "evals-observability-feedback-loops"
+      ]
+    },
+    {
+      "id": "simon-vibe-coding",
+      "slug": "simon-not-all-ai-assisted-programming-is-vibe-coding",
+      "title": "Not all AI-assisted programming is vibe coding",
+      "type": "article",
+      "author": "Simon Willison",
+      "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
+      "confidence": "High",
+      "path": "wiki/07-sources-simon-not-all-ai-assisted-programming-is-vibe-coding.html",
+      "agent_path": "07_Sources/simon-not-all-ai-assisted-programming-is-vibe-coding.md",
+      "relatedPeople": [
+        "simon-willison",
+        "andrej-karpathy"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "engineering-taste-code-quality"
+      ]
+    },
+    {
+      "id": "simon-llm-cli",
+      "slug": "simon-llm-cli",
+      "title": "LLM command-line tool and ecosystem",
+      "type": "repo",
+      "author": "Simon Willison",
+      "url": "https://github.com/simonw/llm",
+      "confidence": "High",
+      "path": "wiki/07-sources-simon-llm-cli.html",
+      "agent_path": "07_Sources/simon-llm-cli.md",
+      "relatedPeople": [
+        "simon-willison"
+      ],
+      "relatedTopics": [
+        "llm-cli-tools",
+        "agentic-engineering"
+      ]
+    },
+    {
+      "id": "simon-llm-docs",
+      "slug": "simon-llm-docs",
+      "title": "LLM CLI documentation",
+      "type": "docs",
+      "author": "Simon Willison",
+      "url": "https://llm.datasette.io/",
+      "confidence": "High",
+      "path": "wiki/07-sources-simon-llm-docs.html",
+      "agent_path": "07_Sources/simon-llm-docs.md",
+      "relatedPeople": [
+        "simon-willison"
+      ],
+      "relatedTopics": [
+        "llm-cli-tools",
+        "evals-observability-feedback-loops"
+      ]
+    },
+    {
+      "id": "simon-lethal-trifecta",
+      "slug": "simon-lethal-trifecta",
+      "title": "The lethal trifecta for AI agents",
+      "type": "article",
+      "author": "Simon Willison",
+      "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+      "confidence": "High",
+      "path": "wiki/07-sources-simon-lethal-trifecta.html",
+      "agent_path": "07_Sources/simon-lethal-trifecta.md",
+      "relatedPeople": [
+        "simon-willison"
+      ],
+      "relatedTopics": [
+        "security-risk-ai-agents",
+        "agentic-engineering"
+      ]
+    },
+    {
+      "id": "mitchell-ai-adoption",
+      "slug": "mitchell-my-ai-adoption-journey",
+      "title": "My AI Adoption Journey",
+      "type": "article",
+      "author": "Mitchell Hashimoto",
+      "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "confidence": "High",
+      "path": "wiki/07-sources-mitchell-my-ai-adoption-journey.html",
+      "agent_path": "07_Sources/mitchell-my-ai-adoption-journey.md",
+      "relatedPeople": [
+        "mitchell-hashimoto"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "evals-observability-feedback-loops"
+      ]
+    },
+    {
+      "id": "mitchell-large-projects",
+      "slug": "mitchell-building-large-technical-projects",
+      "title": "My Approach to Building Large Technical Projects",
+      "type": "article",
+      "author": "Mitchell Hashimoto",
+      "url": "https://mitchellh.com/writing/building-large-technical-projects",
+      "confidence": "High",
+      "path": "wiki/07-sources-mitchell-building-large-technical-projects.html",
+      "agent_path": "07_Sources/mitchell-building-large-technical-projects.md",
+      "relatedPeople": [
+        "mitchell-hashimoto"
+      ],
+      "relatedTopics": [
+        "engineering-taste-code-quality",
+        "shipping-small-products"
+      ]
+    },
+    {
+      "id": "mitchell-non-trivial-vibing",
+      "slug": "mitchell-non-trivial-vibing",
+      "title": "Vibing a Non-Trivial Ghostty Feature",
+      "type": "article",
+      "author": "Mitchell Hashimoto",
+      "url": "https://mitchellh.com/writing/non-trivial-vibing",
+      "confidence": "High",
+      "path": "wiki/07-sources-mitchell-non-trivial-vibing.html",
+      "agent_path": "07_Sources/mitchell-non-trivial-vibing.md",
+      "relatedPeople": [
+        "mitchell-hashimoto"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "engineering-taste-code-quality"
+      ]
+    },
+    {
+      "id": "steipete-just-talk",
+      "slug": "steipete-just-talk-to-it",
+      "title": "Just Talk To It - the no-bs Way of Agentic Engineering",
+      "type": "article",
+      "author": "Peter Steinberger",
+      "url": "https://steipete.me/posts/just-talk-to-it",
+      "confidence": "High",
+      "path": "wiki/07-sources-steipete-just-talk-to-it.html",
+      "agent_path": "07_Sources/steipete-just-talk-to-it.md",
+      "relatedPeople": [
+        "peter-steinberger"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "parallel-agent-workflow"
+      ]
+    },
+    {
+      "id": "steipete-workflow",
+      "slug": "steipete-current-ai-dev-workflow",
+      "title": "My Current AI Dev Workflow",
+      "type": "article",
+      "author": "Peter Steinberger",
+      "url": "https://steipete.me/posts/2025/optimal-ai-development-workflow",
+      "confidence": "High",
+      "path": "wiki/07-sources-steipete-current-ai-dev-workflow.html",
+      "agent_path": "07_Sources/steipete-current-ai-dev-workflow.md",
+      "relatedPeople": [
+        "peter-steinberger"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "claude-code-and-codex-workflows"
+      ]
+    },
+    {
+      "id": "steipete-openclaw",
+      "slug": "steipete-openclaw-openai",
+      "title": "OpenClaw, OpenAI and the future",
+      "type": "article",
+      "author": "Peter Steinberger",
+      "url": "https://steipete.me/posts/2026/openclaw",
+      "confidence": "High",
+      "path": "wiki/07-sources-steipete-openclaw-openai.html",
+      "agent_path": "07_Sources/steipete-openclaw-openai.md",
+      "relatedPeople": [
+        "peter-steinberger"
+      ],
+      "relatedTopics": [
+        "mcp-and-agent-tools",
+        "agentic-engineering"
+      ]
+    },
+    {
+      "id": "steipete-agent-rules",
+      "slug": "steipete-agent-rules",
+      "title": "agent-rules",
+      "type": "repo",
+      "author": "Peter Steinberger",
+      "url": "https://github.com/steipete/agent-rules",
+      "confidence": "High",
+      "path": "wiki/07-sources-steipete-agent-rules.html",
+      "agent_path": "07_Sources/steipete-agent-rules.md",
+      "relatedPeople": [
+        "peter-steinberger"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "context-engineering"
+      ]
+    },
+    {
+      "id": "matt-typescript-ai-era",
+      "slug": "matt-typescript-ai-era",
+      "title": "The Case for TypeScript In The AI Coding Era",
+      "type": "article",
+      "author": "Matt Pocock",
+      "url": "https://www.totaltypescript.com/the-case-for-typescript-in-the-ai-coding-era",
+      "confidence": "High",
+      "path": "wiki/07-sources-matt-typescript-ai-era.html",
+      "agent_path": "07_Sources/matt-typescript-ai-era.md",
+      "relatedPeople": [
+        "matt-pocock"
+      ],
+      "relatedTopics": [
+        "engineering-taste-code-quality",
+        "typescript-ai-stack"
+      ]
+    },
+    {
+      "id": "matt-total-typescript",
+      "slug": "matt-total-typescript",
+      "title": "Total TypeScript",
+      "type": "site",
+      "author": "Matt Pocock",
+      "url": "https://www.totaltypescript.com/",
+      "confidence": "High",
+      "path": "wiki/07-sources-matt-total-typescript.html",
+      "agent_path": "07_Sources/matt-total-typescript.md",
+      "relatedPeople": [
+        "matt-pocock"
+      ],
+      "relatedTopics": [
+        "typescript-ai-stack",
+        "engineering-taste-code-quality"
+      ]
+    },
+    {
+      "id": "matt-github",
+      "slug": "matt-github",
+      "title": "Matt Pocock GitHub profile",
+      "type": "repo",
+      "author": "Matt Pocock",
+      "url": "https://github.com/mattpocock",
+      "confidence": "High",
+      "path": "wiki/07-sources-matt-github.html",
+      "agent_path": "07_Sources/matt-github.md",
+      "relatedPeople": [
+        "matt-pocock"
+      ],
+      "relatedTopics": [
+        "typescript-ai-stack",
+        "engineering-taste-code-quality"
+      ]
+    },
+    {
+      "id": "matt-ts-reset",
+      "slug": "matt-ts-reset",
+      "title": "ts-reset",
+      "type": "repo",
+      "author": "Matt Pocock",
+      "url": "https://github.com/mattpocock/ts-reset",
+      "confidence": "High",
+      "path": "wiki/07-sources-matt-ts-reset.html",
+      "agent_path": "07_Sources/matt-ts-reset.md",
+      "relatedPeople": [
+        "matt-pocock"
+      ],
+      "relatedTopics": [
+        "typescript-ai-stack"
+      ]
+    },
+    {
+      "id": "theo-site",
+      "slug": "theo-t3-site",
+      "title": "Theo Browne / t3.gg",
+      "type": "site",
+      "author": "Theo Browne",
+      "url": "https://t3.gg/",
+      "confidence": "High",
+      "path": "wiki/07-sources-theo-t3-site.html",
+      "agent_path": "07_Sources/theo-t3-site.md",
+      "relatedPeople": [
+        "theo-browne"
+      ],
+      "relatedTopics": [
+        "typescript-ai-stack",
+        "solo-founder-product-distribution"
+      ]
+    },
+    {
+      "id": "theo-github",
+      "slug": "theo-github",
+      "title": "Theo Browne GitHub profile",
+      "type": "repo",
+      "author": "Theo Browne",
+      "url": "https://github.com/t3dotgg",
+      "confidence": "High",
+      "path": "wiki/07-sources-theo-github.html",
+      "agent_path": "07_Sources/theo-github.md",
+      "relatedPeople": [
+        "theo-browne"
+      ],
+      "relatedTopics": [
+        "typescript-ai-stack",
+        "shipping-small-products"
+      ]
+    },
+    {
+      "id": "create-t3-app",
+      "slug": "create-t3-app",
+      "title": "create-t3-app",
+      "type": "repo",
+      "author": "T3 OSS",
+      "url": "https://github.com/t3-oss/create-t3-app",
+      "confidence": "High",
+      "path": "wiki/07-sources-create-t3-app.html",
+      "agent_path": "07_Sources/create-t3-app.md",
+      "relatedPeople": [
+        "theo-browne"
+      ],
+      "relatedTopics": [
+        "typescript-ai-stack",
+        "shipping-small-products"
+      ]
+    },
+    {
+      "id": "thariq-site",
+      "slug": "thariq-site",
+      "title": "Thariq Shihipar personal site",
+      "type": "site",
+      "author": "Thariq Shihipar",
+      "url": "https://www.thariq.io/",
+      "confidence": "High",
+      "path": "wiki/07-sources-thariq-site.html",
+      "agent_path": "07_Sources/thariq-site.md",
+      "relatedPeople": [
+        "thariq-shihipar"
+      ],
+      "relatedTopics": [
+        "agentic-engineering"
+      ]
+    },
+    {
+      "id": "thariq-agent-design",
+      "slug": "thariq-agent-design-space",
+      "title": "Think like an agent / Claude Code agent design notes",
+      "type": "thread",
+      "author": "Thariq Shihipar",
+      "url": "https://x.com/trq212/article/2027463795355095314",
+      "confidence": "Medium",
+      "path": "wiki/07-sources-thariq-agent-design-space.html",
+      "agent_path": "07_Sources/thariq-agent-design-space.md",
+      "relatedPeople": [
+        "thariq-shihipar"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "mcp-and-agent-tools"
+      ]
+    },
+    {
+      "id": "thariq-workshop-recap",
+      "slug": "thariq-workshop-recap",
+      "title": "How We Claude Code - Thariq workshop recap",
+      "type": "workshop-recap",
+      "author": "Thariq Shihipar / community recap",
+      "url": "https://howborisusesclaudecode.com/recap",
+      "confidence": "Medium",
+      "path": "wiki/07-sources-thariq-workshop-recap.html",
+      "agent_path": "07_Sources/thariq-workshop-recap.md",
+      "relatedPeople": [
+        "thariq-shihipar"
+      ],
+      "relatedTopics": [
+        "claude-code-and-codex-workflows",
+        "parallel-agent-workflow"
+      ]
+    },
+    {
+      "id": "thariq-code-with-claude",
+      "slug": "thariq-code-with-claude",
+      "title": "Code with Claude session: How we Claude Code",
+      "type": "talk",
+      "author": "Anthropic / Thariq Shihipar",
+      "url": "https://claude.com/code-with-claude/session/sf-ext-how-we-claude-code",
+      "confidence": "High",
+      "path": "wiki/07-sources-thariq-code-with-claude.html",
+      "agent_path": "07_Sources/thariq-code-with-claude.md",
+      "relatedPeople": [
+        "thariq-shihipar"
+      ],
+      "relatedTopics": [
+        "claude-code-and-codex-workflows",
+        "parallel-agent-workflow"
+      ]
+    },
+    {
+      "id": "anthropic-teams-claude-code",
+      "slug": "anthropic-teams-claude-code",
+      "title": "How teams use Claude Code",
+      "type": "pdf",
+      "author": "Anthropic",
+      "url": "https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf",
+      "confidence": "High",
+      "path": "wiki/07-sources-anthropic-teams-claude-code.html",
+      "agent_path": "07_Sources/anthropic-teams-claude-code.md",
+      "relatedPeople": [
+        "thariq-shihipar"
+      ],
+      "relatedTopics": [
+        "claude-code-and-codex-workflows",
+        "parallel-agent-workflow"
+      ]
+    },
+    {
+      "id": "claude-code-docs",
+      "slug": "anthropic-claude-code-overview",
+      "title": "Claude Code overview",
+      "type": "docs",
+      "author": "Anthropic",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/overview",
+      "confidence": "High",
+      "path": "wiki/07-sources-anthropic-claude-code-overview.html",
+      "agent_path": "07_Sources/anthropic-claude-code-overview.md",
+      "relatedPeople": [
+        "thariq-shihipar"
+      ],
+      "relatedTopics": [
+        "claude-code-and-codex-workflows",
+        "mcp-and-agent-tools"
+      ]
+    },
+    {
+      "id": "claude-subagents-docs",
+      "slug": "anthropic-claude-subagents",
+      "title": "Claude Code subagents",
+      "type": "docs",
+      "author": "Anthropic",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/sub-agents",
+      "confidence": "High",
+      "path": "wiki/07-sources-anthropic-claude-subagents.html",
+      "agent_path": "07_Sources/anthropic-claude-subagents.md",
+      "relatedPeople": [
+        "thariq-shihipar"
+      ],
+      "relatedTopics": [
+        "parallel-agent-workflow",
+        "mcp-and-agent-tools"
+      ]
+    },
+    {
+      "id": "anthropic-effective-agents",
+      "slug": "anthropic-building-effective-agents",
+      "title": "Building Effective Agents",
+      "type": "article",
+      "author": "Anthropic",
+      "url": "https://www.anthropic.com/research/building-effective-agents/",
+      "confidence": "High",
+      "path": "wiki/07-sources-anthropic-building-effective-agents.html",
+      "agent_path": "07_Sources/anthropic-building-effective-agents.md",
+      "relatedPeople": [
+        "thariq-shihipar"
+      ],
+      "relatedTopics": [
+        "agentic-engineering",
+        "mcp-and-agent-tools"
+      ]
+    },
+    {
+      "id": "openai-codex",
+      "slug": "openai-codex",
+      "title": "Codex",
+      "type": "product-page",
+      "author": "OpenAI",
+      "url": "https://openai.com/codex/",
+      "confidence": "High",
+      "path": "wiki/07-sources-openai-codex.html",
+      "agent_path": "07_Sources/openai-codex.md",
+      "relatedPeople": [
+        "peter-steinberger"
+      ],
+      "relatedTopics": [
+        "claude-code-and-codex-workflows",
+        "agentic-engineering"
+      ]
+    },
+    {
+      "id": "openai-codex-app",
+      "slug": "openai-codex-app",
+      "title": "Introducing the Codex app",
+      "type": "article",
+      "author": "OpenAI",
+      "url": "https://openai.com/index/introducing-the-codex-app",
+      "confidence": "High",
+      "path": "wiki/07-sources-openai-codex-app.html",
+      "agent_path": "07_Sources/openai-codex-app.md",
+      "relatedPeople": [
+        "peter-steinberger"
+      ],
+      "relatedTopics": [
+        "parallel-agent-workflow",
+        "claude-code-and-codex-workflows"
+      ]
+    },
+    {
+      "id": "jiayuan-github",
+      "slug": "jiayuan-github",
+      "title": "Jiayuan Zhang GitHub profile",
+      "type": "repo",
+      "author": "Jiayuan Zhang",
+      "url": "https://github.com/forrestchang",
+      "confidence": "High",
+      "path": "wiki/07-sources-jiayuan-github.html",
+      "agent_path": "07_Sources/jiayuan-github.md",
+      "relatedPeople": [
+        "jiayuan-zhang"
+      ],
+      "relatedTopics": [
+        "parallel-agent-workflow",
+        "agentic-engineering"
+      ]
+    },
+    {
+      "id": "multica-github",
+      "slug": "multica-github",
+      "title": "Multica GitHub repository",
+      "type": "repo",
+      "author": "Jiayuan Zhang / Multica",
+      "url": "https://github.com/multica-ai/multica",
+      "confidence": "Medium",
+      "path": "wiki/07-sources-multica-github.html",
+      "agent_path": "07_Sources/multica-github.md",
+      "relatedPeople": [
+        "jiayuan-zhang"
+      ],
+      "relatedTopics": [
+        "parallel-agent-workflow",
+        "mcp-and-agent-tools"
+      ]
+    },
+    {
+      "id": "multica-docs",
+      "slug": "multica-docs",
+      "title": "Multica documentation",
+      "type": "docs",
+      "author": "Multica",
+      "url": "https://multica.ai/docs",
+      "confidence": "Medium",
+      "path": "wiki/07-sources-multica-docs.html",
+      "agent_path": "07_Sources/multica-docs.md",
+      "relatedPeople": [
+        "jiayuan-zhang"
+      ],
+      "relatedTopics": [
+        "parallel-agent-workflow",
+        "mcp-and-agent-tools"
+      ]
+    },
+    {
+      "id": "hamel-evals",
+      "slug": "hamel-evals",
+      "title": "Hamel Husain blog",
+      "type": "site",
+      "author": "Hamel Husain",
+      "url": "https://hamel.dev/",
+      "confidence": "High",
+      "path": "wiki/07-sources-hamel-evals.html",
+      "agent_path": "07_Sources/hamel-evals.md",
+      "relatedPeople": [],
+      "relatedTopics": [
+        "evals-observability-feedback-loops"
+      ]
+    },
+    {
+      "id": "shreya-hamel-evals",
+      "slug": "shreya-hamel-evals-course",
+      "title": "AI Evals for Engineers and PMs",
+      "type": "course",
+      "author": "Hamel Husain and Shreya Shankar",
+      "url": "https://maven.com/parlance-labs/evals",
+      "confidence": "High",
+      "path": "wiki/07-sources-shreya-hamel-evals-course.html",
+      "agent_path": "07_Sources/shreya-hamel-evals-course.md",
+      "relatedPeople": [],
+      "relatedTopics": [
+        "evals-observability-feedback-loops"
+      ]
+    },
+    {
+      "id": "eugene-yan",
+      "slug": "eugene-yan",
+      "title": "Eugene Yan writing",
+      "type": "site",
+      "author": "Eugene Yan",
+      "url": "https://eugeneyan.com/",
+      "confidence": "High",
+      "path": "wiki/07-sources-eugene-yan.html",
+      "agent_path": "07_Sources/eugene-yan.md",
+      "relatedPeople": [],
+      "relatedTopics": [
+        "evals-observability-feedback-loops",
+        "ai-native-ceo-operating-system"
+      ]
+    },
+    {
+      "id": "chip-huyen-ai-engineering",
+      "slug": "chip-huyen-ai-engineering",
+      "title": "AI Engineering",
+      "type": "book",
+      "author": "Chip Huyen",
+      "url": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/",
+      "confidence": "High",
+      "path": "wiki/07-sources-chip-huyen-ai-engineering.html",
+      "agent_path": "07_Sources/chip-huyen-ai-engineering.md",
+      "relatedPeople": [],
+      "relatedTopics": [
+        "evals-observability-feedback-loops",
+        "mcp-and-agent-tools"
+      ]
+    }
+  ]
+}
