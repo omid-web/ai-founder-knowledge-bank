@@ -2,64 +2,6 @@
   "generated_at": "2026-05-23",
   "candidates": [
     {
-      "slug": "hamel-husain",
-      "name": "Hamel Husain",
-      "type": "person",
-      "status": "candidate",
-      "confidence": "High",
-      "reason": "Strong gap-fill candidate for evals and AI product debugging. Mentioned in eval sources, but not yet repeatedly referenced by core mentors in this first pass.",
-      "evidence": [
-        "hamel-evals",
-        "shreya-hamel-evals"
-      ],
-      "relatedTopics": [
-        "evals-observability-feedback-loops"
-      ]
-    },
-    {
-      "slug": "shreya-shankar",
-      "name": "Shreya Shankar",
-      "type": "person",
-      "status": "candidate",
-      "confidence": "High",
-      "reason": "Strong candidate for evals, data quality, and production ML/AI observability. Needs a dedicated promotion review before full mentor page.",
-      "evidence": [
-        "shreya-hamel-evals"
-      ],
-      "relatedTopics": [
-        "evals-observability-feedback-loops"
-      ]
-    },
-    {
-      "slug": "eugene-yan",
-      "name": "Eugene Yan",
-      "type": "person",
-      "status": "candidate",
-      "confidence": "High",
-      "reason": "Strong production AI/evals candidate. Useful gap-fill if production LLM systems become a major branch.",
-      "evidence": [
-        "eugene-yan"
-      ],
-      "relatedTopics": [
-        "evals-observability-feedback-loops",
-        "ai-native-ceo-operating-system"
-      ]
-    },
-    {
-      "slug": "chip-huyen",
-      "name": "Chip Huyen",
-      "type": "person",
-      "status": "candidate",
-      "confidence": "High",
-      "reason": "Strong AI engineering fundamentals candidate. Keep as candidate until the knowledge bank adds a dedicated AI engineering learning track.",
-      "evidence": [
-        "chip-huyen-ai-engineering"
-      ],
-      "relatedTopics": [
-        "evals-observability-feedback-loops"
-      ]
-    },
-    {
       "slug": "boris-cherny",
       "name": "Boris Cherny",
       "type": "person",

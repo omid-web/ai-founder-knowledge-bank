@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "coding-agents",
+    "title": "Coding Agents",
+    "confidence": "High",
+    "tags": [
+      "codex",
+      "claude-code",
+      "agents"
+    ],
+    "sourceIds": [
+      "openai-codex",
+      "claude-code-docs",
+      "simon-agentic-patterns"
+    ],
+    "principles": [
+      "Coding agents are execution partners, not autonomous owners.",
+      "Best results come from task design, context, verification, and review.",
+      "Use agents for bounded slices, research, refactors, tests, and prototypes."
+    ],
+    "practices": [
+      "Always define acceptance criteria.",
+      "Keep an agent-ready backlog.",
+      "Track rejected agent work and why."
+    ]
+  },
+  {
+    "slug": "claude-code-and-codex-workflows",
+    "title": "Claude Code And Codex Workflows",
+    "confidence": "High",
+    "tags": [
+      "claude-code",
+      "codex",
+      "workflow"
+    ],
+    "sourceIds": [
+      "claude-code-docs",
+      "openai-codex",
+      "openai-codex-app",
+      "steipete-just-talk"
+    ],
+    "principles": [
+      "Use official docs for capabilities and community reports for workflow experiments.",
+      "Keep agent tasks scoped and reviewable.",
+      "Use Browser checks for UI output and tests for logic."
+    ],
+    "practices": [
+      "Use subagents for noisy side research.",
+      "Use Codex/Claude for implementation with verification gates.",
+      "Record which model/tool performs well for which task."
+    ]
+  },
+  {
+    "slug": "mcp-and-agent-tools",
+    "title": "MCP And Agent Tools",
+    "confidence": "Medium",
+    "tags": [
+      "mcp",
+      "tools",
+      "cli"
+    ],
+    "sourceIds": [
+      "anthropic-effective-agents",
+      "steipete-just-talk",
+      "claude-code-docs"
+    ],
+    "principles": [
+      "Tools expand agent capability and risk.",
+      "Prefer simple CLIs when they provide the same capability with less context overhead.",
+      "Expose only the tools required for the task."
+    ],
+    "practices": [
+      "Compare CLI vs MCP context cost.",
+      "Use least privilege.",
+      "Document tool assumptions in AGENTS.md."
+    ]
+  },
+  {
+    "slug": "typescript-ai-stack",
+    "title": "TypeScript AI Stack",
+    "confidence": "High",
+    "tags": [
+      "typescript",
+      "nextjs",
+      "contracts"
+    ],
+    "sourceIds": [
+      "matt-typescript-ai-era",
+      "matt-total-typescript",
+      "theo-github"
+    ],
+    "principles": [
+      "TypeScript gives agents contracts and fast feedback.",
+      "Use types to encode domain intent at boundaries.",
+      "Prefer boring, well-known stack defaults for solo products."
+    ],
+    "practices": [
+      "Keep strict type checks on.",
+      "Avoid broad casts.",
+      "Use schema validation at external boundaries."
+    ]
+  },
+  {
+    "slug": "llm-cli-tools",
+    "title": "LLM CLI Tools",
+    "confidence": "High",
+    "tags": [
+      "cli",
+      "llm",
+      "automation"
+    ],
+    "sourceIds": [
+      "simon-llm-cli",
+      "steipete-just-talk"
+    ],
+    "principles": [
+      "CLI workflows are composable and inspectable.",
+      "Agents can use command help and shell output as feedback.",
+      "Small CLIs can beat large integrations for repeatability."
+    ],
+    "practices": [
+      "Keep scripts idempotent.",
+      "Prefer commands with clear dry-run and help output.",
+      "Capture outputs in source notes when they inform decisions."
+    ]
+  },
+  {
+    "slug": "evals-and-test-harnesses",
+    "title": "Evals And Test Harnesses",
+    "confidence": "High",
+    "tags": [
+      "evals",
+      "tests",
+      "harness"
+    ],
+    "sourceIds": [
+      "hamel-evals",
+      "shreya-hamel-evals",
+      "mitchell-ai-adoption",
+      "simon-agentic-patterns"
+    ],
+    "principles": [
+      "A harness is what lets agents iterate without guessing.",
+      "Evals should be built from real failures and product goals.",
+      "Tests, Browser checks, golden examples, and manual reviews all count when matched to the requirement."
+    ],
+    "practices": [
+      "Start with 10 to 20 high-value examples.",
+      "Record expected behavior explicitly.",
+      "Run evals before and after model/prompt/tool changes."
+    ]
+  },
+  {
+    "slug": "automation-stack",
+    "title": "Automation Stack",
+    "confidence": "Medium",
+    "tags": [
+      "automation",
+      "ops",
+      "solo-company"
+    ],
+    "sourceIds": [
+      "shopify-ai-playground",
+      "anthropic-effective-agents"
+    ],
+    "principles": [
+      "Automate repeatable work after you understand the workflow.",
+      "Keep human approval for high-risk side effects.",
+      "Use logs and review queues to prevent silent failures."
+    ],
+    "practices": [
+      "Start with draft, then approval, then partial autonomy.",
+      "Automate source ingestion and weekly review prep.",
+      "Keep secrets local and out of notes."
+    ]
+  },
+  {
+    "slug": "browser-qa-workflow",
+    "title": "Browser QA Workflow",
+    "confidence": "High",
+    "tags": [
+      "browser",
+      "qa",
+      "dashboard"
+    ],
+    "sourceIds": [
+      "simon-agentic-patterns"
+    ],
+    "principles": [
+      "Human-facing artifacts need human-facing verification.",
+      "A static dashboard is not done until it is readable in a browser.",
+      "Desktop and mobile checks catch layout failures agents often miss."
+    ],
+    "practices": [
+      "Open index.html with Browser.",
+      "Verify search, links, text wrapping, and useful next actions.",
+      "Fix and re-run Browser checks before claiming done."
+    ]
+  }
+]

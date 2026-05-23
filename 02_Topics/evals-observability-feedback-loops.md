@@ -5,7 +5,7 @@ status: active
 confidence: High
 last_updated: 2026-05-23
 tags: [evals, observability, testing]
-related: [../01_People/andrew-ng.md, ../01_People/mitchell-hashimoto.md, ../01_People/simon-willison.md]
+related: [../01_People/andrew-ng.md, ../01_People/mitchell-hashimoto.md, ../01_People/simon-willison.md, ../01_People/hamel-husain.md, ../01_People/shreya-shankar.md, ../01_People/eugene-yan.md, ../01_People/chip-huyen.md]
 sources: [hamel-evals, shreya-hamel-evals, eugene-yan, mitchell-ai-adoption, simon-agentic-patterns]
 ---
 
@@ -27,6 +27,10 @@ AI-native products and agent workflows need proof loops. Without evals, you are 
 - [Andrew Ng](../01_People/andrew-ng.md)
 - [Mitchell Hashimoto](../01_People/mitchell-hashimoto.md)
 - [Simon Willison](../01_People/simon-willison.md)
+- [Hamel Husain](../01_People/hamel-husain.md)
+- [Shreya Shankar](../01_People/shreya-shankar.md)
+- [Eugene Yan](../01_People/eugene-yan.md)
+- [Chip Huyen](../01_People/chip-huyen.md)
 
 ## Tools And Practices
 
@@ -62,3 +66,7 @@ AI-native products and agent workflows need proof loops. Without evals, you are 
 - [Andrew Ng](../01_People/andrew-ng.md)
 - [Mitchell Hashimoto](../01_People/mitchell-hashimoto.md)
 - [Simon Willison](../01_People/simon-willison.md)
+- [Hamel Husain](../01_People/hamel-husain.md)
+- [Shreya Shankar](../01_People/shreya-shankar.md)
+- [Eugene Yan](../01_People/eugene-yan.md)
+- [Chip Huyen](../01_People/chip-huyen.md)

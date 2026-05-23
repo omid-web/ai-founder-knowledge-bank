@@ -1,0 +1,309 @@
+[
+  {
+    "slug": "agentic-engineering",
+    "title": "Agentic Engineering",
+    "confidence": "High",
+    "tags": [
+      "agents",
+      "coding",
+      "workflow"
+    ],
+    "sourceIds": [
+      "simon-agentic-patterns",
+      "steipete-just-talk",
+      "mitchell-ai-adoption",
+      "anthropic-effective-agents"
+    ],
+    "people": [
+      "simon-willison",
+      "peter-steinberger",
+      "mitchell-hashimoto",
+      "andrej-karpathy",
+      "thariq-shihipar"
+    ],
+    "why": "This is the core practice of using coding agents as professional engineering amplifiers.",
+    "principles": [
+      "Give agents bounded tasks with explicit acceptance criteria.",
+      "Design feedback loops before implementation: tests, browser checks, screenshots, logs, or golden examples.",
+      "Review generated work as if it came from a fast junior teammate with uneven judgment.",
+      "Keep the distinction between prototypes and production explicit."
+    ],
+    "practices": [
+      "Use red/green TDD when behavior is objective.",
+      "Use Browser/manual QA for UI and human-facing workflows.",
+      "Track blast radius: files touched, permissions, data exposure, rollback path.",
+      "Record lessons from every failed agent run."
+    ],
+    "failureModes": [
+      "Generated code volume hides bad architecture.",
+      "The agent solves the wrong problem because context was underspecified.",
+      "The human accepts output without being able to explain it.",
+      "A prototype becomes production without security, tests, or ownership."
+    ]
+  },
+  {
+    "slug": "ai-native-ceo-operating-system",
+    "title": "AI-Native CEO Operating System",
+    "confidence": "High",
+    "tags": [
+      "ceo",
+      "operations",
+      "leverage"
+    ],
+    "sourceIds": [
+      "shopify-ai-playground",
+      "andrew-ng-official",
+      "deeplearning-ai-about"
+    ],
+    "people": [
+      "tobias-lutke",
+      "andrew-ng",
+      "eugene-yan"
+    ],
+    "why": "A one-person company needs operating rituals that convert AI capability into better decisions and faster execution.",
+    "principles": [
+      "Default to AI-assisted attempts before asking for more time, help, or process.",
+      "Measure accepted outcomes, not generated artifacts.",
+      "Keep a management dashboard for leverage, bottlenecks, risk, and customer learning.",
+      "Use AI to increase judgment surface area, not to outsource judgment."
+    ],
+    "practices": [
+      "Weekly CEO review: product, distribution, engineering, cash, learning, agent leverage.",
+      "Maintain a decision log for major product and tooling calls.",
+      "Ask agents to prepare options and evidence; humans make the call."
+    ],
+    "failureModes": [
+      "AI theater: lots of prompts, no shipped value.",
+      "Delegating ambiguous strategy to a model instead of doing founder thinking.",
+      "Ignoring morale and skill formation because AI appears faster."
+    ]
+  },
+  {
+    "slug": "solo-founder-product-distribution",
+    "title": "Solo Founder Product And Distribution",
+    "confidence": "High",
+    "tags": [
+      "founder",
+      "distribution",
+      "customers"
+    ],
+    "sourceIds": [
+      "levelsio-blog",
+      "theo-site",
+      "theo-github"
+    ],
+    "people": [
+      "pieter-levels",
+      "theo-browne"
+    ],
+    "why": "The one-person company fails if it only gets good at building. Distribution and customer proof must be part of the work.",
+    "principles": [
+      "Pick small products with visible buyers and direct feedback.",
+      "Ship before the architecture feels complete.",
+      "Use public artifacts as proof of taste, not empty content marketing.",
+      "Revenue, retention, and repeated user pain beat vanity metrics."
+    ],
+    "practices": [
+      "Write landing copy before building.",
+      "Run a weekly distribution experiment.",
+      "Build in public around useful lessons, not vague hype.",
+      "Keep a customer-question bank and turn answers into product changes."
+    ],
+    "failureModes": [
+      "Building infrastructure for an audience that does not exist.",
+      "Confusing social engagement with demand.",
+      "Letting agents make it too easy to add non-essential features."
+    ]
+  },
+  {
+    "slug": "engineering-taste-code-quality",
+    "title": "Engineering Taste And Code Quality",
+    "confidence": "High",
+    "tags": [
+      "quality",
+      "taste",
+      "maintenance"
+    ],
+    "sourceIds": [
+      "matt-typescript-ai-era",
+      "mitchell-large-projects",
+      "simon-vibe-coding"
+    ],
+    "people": [
+      "matt-pocock",
+      "mitchell-hashimoto",
+      "simon-willison"
+    ],
+    "why": "When code is cheap, taste, maintainability, and ownership become stronger differentiators.",
+    "principles": [
+      "The person shipping code owns it, even if an agent wrote it.",
+      "Types, tests, and small modules are communication tools for future agents and humans.",
+      "Frequent demos and reviewable changes beat massive hidden rewrites.",
+      "Refactoring is a normal part of the agent loop."
+    ],
+    "practices": [
+      "Ask agents to explain changed code before acceptance.",
+      "Run typed, linted, tested checks where available.",
+      "Schedule maintenance passes for duplication, dead code, and oversized files.",
+      "Use comments only for tricky intent, not obvious narration."
+    ],
+    "failureModes": [
+      "Agents pile abstractions on top of unclear requirements.",
+      "Type casts hide real uncertainty.",
+      "Review time grows faster than generation speed."
+    ]
+  },
+  {
+    "slug": "evals-observability-feedback-loops",
+    "title": "Evals, Observability, And Feedback Loops",
+    "confidence": "High",
+    "tags": [
+      "evals",
+      "observability",
+      "testing"
+    ],
+    "sourceIds": [
+      "hamel-evals",
+      "shreya-hamel-evals",
+      "eugene-yan",
+      "mitchell-ai-adoption",
+      "simon-agentic-patterns"
+    ],
+    "people": [
+      "andrew-ng",
+      "mitchell-hashimoto",
+      "simon-willison",
+      "hamel-husain",
+      "shreya-shankar",
+      "eugene-yan",
+      "chip-huyen"
+    ],
+    "why": "AI-native products and agent workflows need proof loops. Without evals, you are managing vibes.",
+    "principles": [
+      "Start evals with observed failures and user value.",
+      "Use small golden sets before complex dashboards.",
+      "Evaluate every meaningful change in model, prompt, retrieval, or tool access.",
+      "Prefer task-specific acceptance criteria over generic benchmark scores."
+    ],
+    "practices": [
+      "Keep a failure log with input, expected behavior, actual behavior, and fix.",
+      "Turn repeated failures into eval cases.",
+      "Use LLM-as-judge only with calibration and spot checks.",
+      "Run browser/manual QA for human-facing behavior."
+    ],
+    "failureModes": [
+      "Using generic evals that do not map to user value.",
+      "Measuring judge agreement instead of product usefulness.",
+      "Skipping observability until users report silent failures."
+    ]
+  },
+  {
+    "slug": "security-risk-ai-agents",
+    "title": "Security And Risk For AI Agents",
+    "confidence": "High",
+    "tags": [
+      "security",
+      "prompt-injection",
+      "risk"
+    ],
+    "sourceIds": [
+      "simon-vibe-coding",
+      "simon-agentic-patterns",
+      "anthropic-effective-agents"
+    ],
+    "people": [
+      "simon-willison"
+    ],
+    "why": "Agents can read, write, browse, call tools, and manipulate data. The blast radius has to be designed deliberately.",
+    "principles": [
+      "Instructions and untrusted data can collide in LLM contexts.",
+      "Tool permissions should match task risk.",
+      "Use least privilege for files, secrets, network, and external systems.",
+      "Review generated changes before they touch customers or data."
+    ],
+    "practices": [
+      "Mark untrusted input in prompts and never let it override system/task instructions.",
+      "Keep secrets out of source notes and screenshots.",
+      "Run agents in scoped folders when possible.",
+      "Require human approval for destructive or external side effects."
+    ],
+    "failureModes": [
+      "Prompt injection through web pages, docs, tickets, or emails.",
+      "Agents exfiltrate secrets through logs or generated files.",
+      "Over-broad filesystem or API permissions turn a small mistake into a large incident."
+    ]
+  },
+  {
+    "slug": "context-engineering",
+    "title": "Context Engineering",
+    "confidence": "Medium",
+    "tags": [
+      "context",
+      "prompts",
+      "files"
+    ],
+    "sourceIds": [
+      "karpathy-software-changing",
+      "thariq-agent-design",
+      "simon-agentic-patterns"
+    ],
+    "people": [
+      "andrej-karpathy",
+      "thariq-shihipar",
+      "simon-willison",
+      "chip-huyen"
+    ],
+    "why": "The agent's output quality is shaped by the context it can see, the examples it receives, and the constraints it must satisfy.",
+    "principles": [
+      "Context should include goals, constraints, examples, acceptance criteria, and relevant files.",
+      "More context is not always better; progressive discovery reduces noise.",
+      "Use markdown and JSON indexes to make a folder legible to agents."
+    ],
+    "practices": [
+      "Use AGENTS.md for durable operating rules.",
+      "Use source notes to preserve citations and confidence.",
+      "Keep raw uncertain material in Inbox until promoted."
+    ],
+    "failureModes": [
+      "Context poisoning from irrelevant or low-quality instructions.",
+      "Agents miss important constraints because they are buried in long prose.",
+      "Stale docs mislead future sessions."
+    ]
+  },
+  {
+    "slug": "prompt-to-product",
+    "title": "Prompt To Product",
+    "confidence": "Medium",
+    "tags": [
+      "product",
+      "prototyping",
+      "agents"
+    ],
+    "sourceIds": [
+      "karpathy-software-changing",
+      "levelsio-blog",
+      "openai-codex-app"
+    ],
+    "people": [
+      "andrej-karpathy",
+      "pieter-levels",
+      "theo-browne"
+    ],
+    "why": "AI makes prototypes cheap, so the founder bottleneck becomes choosing, validating, finishing, and distributing the right thing.",
+    "principles": [
+      "Use AI to compress prototype time, then spend saved time on customer proof.",
+      "Prompts are not products; products require distribution, support, reliability, and payment.",
+      "The best prompt-to-product loop includes demo, feedback, eval, and launch."
+    ],
+    "practices": [
+      "Create a one-day prototype and a one-day customer test.",
+      "Ask agents to generate multiple implementation paths before choosing.",
+      "Use Browser QA to verify human-facing output."
+    ],
+    "failureModes": [
+      "Infinite prototypes with no customer exposure.",
+      "Shipping generated UX that is not actually usable.",
+      "Ignoring support and ops because the build felt easy."
+    ]
+  }
+]

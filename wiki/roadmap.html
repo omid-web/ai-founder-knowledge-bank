@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ambitious Roadmap - AI Founder Knowledge Bank</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231f6f5b'/%3E%3Cpath d='M8 21h16M8 16h16M8 11h16' stroke='white' stroke-width='2.5' stroke-linecap='round'/%3E%3C/svg%3E">
+  <style>
+    :root { --bg:#f7f8f5; --panel:#fff; --ink:#18211c; --muted:#667169; --line:#d8ded7; --accent:#1f6f5b; --radius:8px; --sans:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; --mono:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans); line-height:1.55; }
+    main { max-width:980px; margin:0 auto; padding:28px 18px 56px; }
+    .top { display:flex; justify-content:space-between; gap:14px; align-items:center; margin-bottom:20px; border-bottom:1px solid var(--line); padding-bottom:14px; }
+    .top a { font-weight:700; }
+    .path { color:var(--muted); font:12px var(--mono); overflow-wrap:anywhere; }
+    h1 { font-size:34px; line-height:1.1; letter-spacing:0; margin:18px 0; }
+    h2 { font-size:22px; margin:28px 0 10px; border-top:1px solid var(--line); padding-top:18px; }
+    h3 { font-size:16px; margin:20px 0 8px; }
+    p, li, td, th { font-size:15px; }
+    a { color:var(--accent); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    code { font-family:var(--mono); font-size:.9em; background:#eef3ef; padding:1px 4px; border-radius:4px; }
+    pre { overflow:auto; background:#18211c; color:#f7f8f5; border-radius:var(--radius); padding:14px; }
+    ul, ol { padding-left:22px; }
+    li { margin:5px 0; }
+    .table-wrap { overflow:auto; border:1px solid var(--line); border-radius:var(--radius); margin:12px 0; }
+    table { width:100%; border-collapse:collapse; min-width:620px; background:var(--panel); }
+    th, td { border-bottom:1px solid var(--line); padding:9px 10px; text-align:left; vertical-align:top; }
+    th { background:#eef3ef; }
+    @media (max-width:640px) { main { padding:18px 12px 40px; } h1 { font-size:28px; } .top { align-items:flex-start; flex-direction:column; } table { min-width:560px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="top">
+      <a href="../index.html">AI Founder Knowledge Bank</a>
+      <div class="path">roadmap.md</div>
+    </div>
+    <h1>Ambitious Roadmap</h1>
+<p>This is a review draft for turning the knowledge bank from a static reference into a working AI-native founder operating system.</p>
+<h2>North Star</h2>
+<p>By the end of this roadmap, the knowledge bank should help produce shipped products, better agent delegation, measurable eval habits, and a compounding source graph. It should not become a passive note archive.</p>
+<h2>12-Month Outcomes</h2>
+<div class="table-wrap"><table><thead><tr><th>Outcome</th><th>Target</th></tr></thead><tbody><tr><td>Shipped products</td><td>3 public or customer-facing product experiments</td></tr><tr><td>Customer proof</td><td>30 direct conversations, 10 strong problem confirmations, 3 paid or pilot asks</td></tr><tr><td>Agent leverage</td><td>20 reusable agent workflows with acceptance criteria and verification</td></tr><tr><td>Evals discipline</td><td>10 lightweight eval sets tied to real workflows or rejected outputs</td></tr><tr><td>Knowledge graph</td><td>200 high-quality source notes, 30 promoted people/tools/topics, no unsourced major claims</td></tr><tr><td>Public artifact</td><td>A polished public-safe version of the knowledge bank or a derived field guide</td></tr></tbody></table></div>
+<h2>Phase 1: Operating Baseline</h2>
+<p>Timebox: 2 weeks</p>
+<div class="table-wrap"><table><thead><tr><th>Goal</th><th>Deliverable</th><th>Acceptance Criteria</th></tr></thead><tbody><tr><td>Make maintenance repeatable</td><td>Generator, checks, seeds, link checks</td><td><code>npm run check</code> passes and generation is idempotent</td></tr><tr><td>Define founder scorecard</td><td>Weekly metrics page</td><td>Tracks shipped work, customer proof, agent leverage, evals, and learning</td></tr><tr><td>Build failure logs</td><td>Agent failure and product failure templates</td><td>Every rejected agent task creates a reusable lesson</td></tr></tbody></table></div>
+<h2>Phase 2: Evals And Production AI Spine</h2>
+<p>Timebox: 4 weeks</p>
+<div class="table-wrap"><table><thead><tr><th>Goal</th><th>Deliverable</th><th>Acceptance Criteria</th></tr></thead><tbody><tr><td>Promote evals mentors</td><td>Full pages for evals and AI engineering candidates</td><td>Each page has source evidence, practices, exercises, and prompts</td></tr><tr><td>Create eval playbook</td><td>Practical eval lifecycle</td><td>Covers failure collection, rubric design, regression cases, and review cadence</td></tr><tr><td>Build first eval harness</td><td>One real workflow eval set</td><td>At least 20 cases from real or plausible failures</td></tr><tr><td>Add observability checklist</td><td>Production AI readiness checklist</td><td>Covers inputs, outputs, reviewer action, cost, latency, drift, and fallback</td></tr></tbody></table></div>
+<h2>Phase 3: Product Discovery Engine</h2>
+<p>Timebox: 6 weeks</p>
+<div class="table-wrap"><table><thead><tr><th>Goal</th><th>Deliverable</th><th>Acceptance Criteria</th></tr></thead><tbody><tr><td>Map problem inventory</td><td>25 business workflow pains</td><td>Each has buyer, pain, current workaround, urgency, and AI fit</td></tr><tr><td>Run customer discovery</td><td>15 conversations or async interviews</td><td>Every conversation produces structured notes and next action</td></tr><tr><td>Select product wedge</td><td>One narrow paid workflow</td><td>Has target user, manual process, AI leverage point, and proof metric</td></tr><tr><td>Publish positioning</td><td>Landing page or explainer</td><td>Promise is concrete enough to reject or buy</td></tr></tbody></table></div>
+<h2>Phase 4: Agentic Product Factory</h2>
+<p>Timebox: 8 weeks</p>
+<div class="table-wrap"><table><thead><tr><th>Goal</th><th>Deliverable</th><th>Acceptance Criteria</th></tr></thead><tbody><tr><td>Standardize agent delegation</td><td>Reusable task specs</td><td>Specs include goal, context, constraints, files, risks, and verification</td></tr><tr><td>Build parallel review loops</td><td>Multi-agent review playbook</td><td>At least 5 tasks use independent builder/reviewer passes</td></tr><tr><td>Create product template</td><td>Static/demo/app starter workflow</td><td>Can go from idea to demo with QA checklist in one focused sprint</td></tr><tr><td>Add Browser QA habit</td><td>Rendered QA checklist</td><td>Every frontend change has smoke, search/navigation, console, and responsive checks</td></tr></tbody></table></div>
+<h2>Phase 5: Public-Safe Distribution Layer</h2>
+<p>Timebox: 6 weeks</p>
+<div class="table-wrap"><table><thead><tr><th>Goal</th><th>Deliverable</th><th>Acceptance Criteria</th></tr></thead><tbody><tr><td>Public-safe redaction path</td><td>Redaction checklist and scanner</td><td>No personal paths, private notes, credentials, or employer/client detail</td></tr><tr><td>Derived field guide</td><td>Public-facing lessons from the private bank</td><td>Useful without exposing private operating notes</td></tr><tr><td>Build-in-public cadence</td><td>Weekly artifact</td><td>Each post ties to shipped work, customer learning, or evaluation insight</td></tr><tr><td>Source graph credibility</td><td>Source quality dashboard</td><td>Highlights primary sources, weak claims, stale tool snapshots, and review queue</td></tr></tbody></table></div>
+<h2>Phase 6: One-Person Company System</h2>
+<p>Timebox: 12 weeks</p>
+<div class="table-wrap"><table><thead><tr><th>Goal</th><th>Deliverable</th><th>Acceptance Criteria</th></tr></thead><tbody><tr><td>Launch product experiment 1</td><td>Narrow AI workflow product</td><td>User can try it; at least 5 target users see it</td></tr><tr><td>Launch product experiment 2</td><td>Second wedge or iteration</td><td>Decision is based on customer proof, not builder excitement</td></tr><tr><td>Ask for money</td><td>Paid pilot, preorder, or explicit rejection</td><td>At least 3 direct paid asks</td></tr><tr><td>Consolidate operating system</td><td>Founder OS dashboard</td><td>Weekly review, roadmap, evals, source graph, and product ledger connect</td></tr></tbody></table></div>
+<h2>Monthly Review Questions</h2>
+<ul><li>What shipped that a real user could inspect, use, reject, or pay for?</li><li>Which agent workflows now compound instead of staying ad hoc?</li><li>Which evals changed a product or engineering decision?</li><li>Which sources changed behavior rather than adding trivia?</li><li>What should be killed, simplified, or made public-safe?</li></ul>
+<h2>Immediate Next Bets</h2>
+<ol><li>Build a product-opportunity ledger from recurring business workflows.</li><li>Add an eval lifecycle playbook connected to the newly promoted evals mentors.</li><li>Create a founder scorecard page that pulls weekly actions into measurable outcomes.</li><li>Add public-safe review as a default pre-publish gate.</li><li>Pick one small product wedge and force it through customer discovery before implementation.</li></ol>
+  </main>
+</body>
+</html>

@@ -22,6 +22,18 @@
     "last_updated": "2026-05-23"
   },
   {
+    "slug": "roadmap",
+    "title": "Ambitious Roadmap",
+    "type": "roadmap",
+    "path": "roadmap.md",
+    "tags": [
+      "roadmap",
+      "ambitious"
+    ],
+    "human_path": "wiki/roadmap.html",
+    "last_updated": "2026-05-23"
+  },
+  {
     "slug": "agents",
     "title": "AGENTS",
     "type": "instructions",
@@ -255,6 +267,62 @@
     ],
     "confidence": "High",
     "human_path": "wiki/01-people-simon-willison.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "hamel-husain",
+    "title": "Hamel Husain",
+    "type": "person",
+    "path": "01_People/hamel-husain.md",
+    "tags": [
+      "evals",
+      "llm-quality",
+      "debugging"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-hamel-husain.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "shreya-shankar",
+    "title": "Shreya Shankar",
+    "type": "person",
+    "path": "01_People/shreya-shankar.md",
+    "tags": [
+      "evals",
+      "data-quality",
+      "observability"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-shreya-shankar.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "eugene-yan",
+    "title": "Eugene Yan",
+    "type": "person",
+    "path": "01_People/eugene-yan.md",
+    "tags": [
+      "production-ai",
+      "systems",
+      "evals"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-eugene-yan.html",
+    "last_updated": "2026-05-23"
+  },
+  {
+    "slug": "chip-huyen",
+    "title": "Chip Huyen",
+    "type": "person",
+    "path": "01_People/chip-huyen.md",
+    "tags": [
+      "ai-engineering",
+      "systems",
+      "fundamentals"
+    ],
+    "confidence": "High",
+    "human_path": "wiki/01-people-chip-huyen.html",
     "last_updated": "2026-05-23"
   },
   {

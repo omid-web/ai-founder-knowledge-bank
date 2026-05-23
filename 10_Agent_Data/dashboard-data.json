@@ -280,6 +280,90 @@
         "simon-llm-docs",
         "simon-lethal-trifecta"
       ]
+    },
+    {
+      "slug": "hamel-husain",
+      "name": "Hamel Husain",
+      "handle": "@HamelHusain",
+      "role": "AI evals, product debugging, and LLM quality mentor",
+      "confidence": "High",
+      "tags": [
+        "evals",
+        "llm-quality",
+        "debugging"
+      ],
+      "path": "wiki/01-people-hamel-husain.html",
+      "agent_path": "01_People/hamel-husain.md",
+      "topics": [
+        "evals-observability-feedback-loops",
+        "agentic-engineering"
+      ],
+      "sourceIds": [
+        "hamel-evals",
+        "shreya-hamel-evals"
+      ]
+    },
+    {
+      "slug": "shreya-shankar",
+      "name": "Shreya Shankar",
+      "handle": "@sh_reya",
+      "role": "LLM evaluation, data quality, and production AI observability mentor",
+      "confidence": "High",
+      "tags": [
+        "evals",
+        "data-quality",
+        "observability"
+      ],
+      "path": "wiki/01-people-shreya-shankar.html",
+      "agent_path": "01_People/shreya-shankar.md",
+      "topics": [
+        "evals-observability-feedback-loops"
+      ],
+      "sourceIds": [
+        "shreya-hamel-evals"
+      ]
+    },
+    {
+      "slug": "eugene-yan",
+      "name": "Eugene Yan",
+      "handle": "@eugeneyan",
+      "role": "Production AI systems, recommendation, and applied ML engineering mentor",
+      "confidence": "High",
+      "tags": [
+        "production-ai",
+        "systems",
+        "evals"
+      ],
+      "path": "wiki/01-people-eugene-yan.html",
+      "agent_path": "01_People/eugene-yan.md",
+      "topics": [
+        "evals-observability-feedback-loops",
+        "ai-native-ceo-operating-system"
+      ],
+      "sourceIds": [
+        "eugene-yan"
+      ]
+    },
+    {
+      "slug": "chip-huyen",
+      "name": "Chip Huyen",
+      "handle": "@chipro",
+      "role": "AI engineering fundamentals, systems, and applied ML product mentor",
+      "confidence": "High",
+      "tags": [
+        "ai-engineering",
+        "systems",
+        "fundamentals"
+      ],
+      "path": "wiki/01-people-chip-huyen.html",
+      "agent_path": "01_People/chip-huyen.md",
+      "topics": [
+        "evals-observability-feedback-loops",
+        "context-engineering"
+      ],
+      "sourceIds": [
+        "chip-huyen-ai-engineering"
+      ]
     }
   ],
   "topics": [
@@ -321,7 +405,8 @@
       "agent_path": "02_Topics/ai-native-ceo-operating-system.md",
       "people": [
         "tobias-lutke",
-        "andrew-ng"
+        "andrew-ng",
+        "eugene-yan"
       ],
       "sourceIds": [
         "shopify-ai-playground",
@@ -386,7 +471,11 @@
       "people": [
         "andrew-ng",
         "mitchell-hashimoto",
-        "simon-willison"
+        "simon-willison",
+        "hamel-husain",
+        "shreya-shankar",
+        "eugene-yan",
+        "chip-huyen"
       ],
       "sourceIds": [
         "hamel-evals",
@@ -430,7 +519,8 @@
       "people": [
         "andrej-karpathy",
         "thariq-shihipar",
-        "simon-willison"
+        "simon-willison",
+        "chip-huyen"
       ],
       "sourceIds": [
         "karpathy-software-changing",
@@ -682,64 +772,6 @@
     }
   ],
   "candidates": [
-    {
-      "slug": "hamel-husain",
-      "name": "Hamel Husain",
-      "type": "person",
-      "status": "candidate",
-      "confidence": "High",
-      "reason": "Strong gap-fill candidate for evals and AI product debugging. Mentioned in eval sources, but not yet repeatedly referenced by core mentors in this first pass.",
-      "evidence": [
-        "hamel-evals",
-        "shreya-hamel-evals"
-      ],
-      "relatedTopics": [
-        "evals-observability-feedback-loops"
-      ]
-    },
-    {
-      "slug": "shreya-shankar",
-      "name": "Shreya Shankar",
-      "type": "person",
-      "status": "candidate",
-      "confidence": "High",
-      "reason": "Strong candidate for evals, data quality, and production ML/AI observability. Needs a dedicated promotion review before full mentor page.",
-      "evidence": [
-        "shreya-hamel-evals"
-      ],
-      "relatedTopics": [
-        "evals-observability-feedback-loops"
-      ]
-    },
-    {
-      "slug": "eugene-yan",
-      "name": "Eugene Yan",
-      "type": "person",
-      "status": "candidate",
-      "confidence": "High",
-      "reason": "Strong production AI/evals candidate. Useful gap-fill if production LLM systems become a major branch.",
-      "evidence": [
-        "eugene-yan"
-      ],
-      "relatedTopics": [
-        "evals-observability-feedback-loops",
-        "ai-native-ceo-operating-system"
-      ]
-    },
-    {
-      "slug": "chip-huyen",
-      "name": "Chip Huyen",
-      "type": "person",
-      "status": "candidate",
-      "confidence": "High",
-      "reason": "Strong AI engineering fundamentals candidate. Keep as candidate until the knowledge bank adds a dedicated AI engineering learning track.",
-      "evidence": [
-        "chip-huyen-ai-engineering"
-      ],
-      "relatedTopics": [
-        "evals-observability-feedback-loops"
-      ]
-    },
     {
       "slug": "boris-cherny",
       "name": "Boris Cherny",
@@ -1702,7 +1734,9 @@
       "confidence": "High",
       "path": "wiki/07-sources-hamel-evals.html",
       "agent_path": "07_Sources/hamel-evals.md",
-      "relatedPeople": [],
+      "relatedPeople": [
+        "hamel-husain"
+      ],
       "relatedTopics": [
         "evals-observability-feedback-loops"
       ]
@@ -1717,7 +1751,10 @@
       "confidence": "High",
       "path": "wiki/07-sources-shreya-hamel-evals-course.html",
       "agent_path": "07_Sources/shreya-hamel-evals-course.md",
-      "relatedPeople": [],
+      "relatedPeople": [
+        "hamel-husain",
+        "shreya-shankar"
+      ],
       "relatedTopics": [
         "evals-observability-feedback-loops"
       ]
@@ -1732,7 +1769,9 @@
       "confidence": "High",
       "path": "wiki/07-sources-eugene-yan.html",
       "agent_path": "07_Sources/eugene-yan.md",
-      "relatedPeople": [],
+      "relatedPeople": [
+        "eugene-yan"
+      ],
       "relatedTopics": [
         "evals-observability-feedback-loops",
         "ai-native-ceo-operating-system"
@@ -1748,7 +1787,9 @@
       "confidence": "High",
       "path": "wiki/07-sources-chip-huyen-ai-engineering.html",
       "agent_path": "07_Sources/chip-huyen-ai-engineering.md",
-      "relatedPeople": [],
+      "relatedPeople": [
+        "chip-huyen"
+      ],
       "relatedTopics": [
         "evals-observability-feedback-loops",
         "mcp-and-agent-tools"

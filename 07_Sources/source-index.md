@@ -64,7 +64,7 @@ sources: []
 | [Jiayuan Zhang GitHub profile](jiayuan-github.md) | repo | High | Jiayuan Zhang | Parallel Agent Workflow, Agentic Engineering |
 | [Multica GitHub repository](multica-github.md) | repo | Medium | Jiayuan Zhang | Parallel Agent Workflow, MCP And Agent Tools |
 | [Multica documentation](multica-docs.md) | docs | Medium | Jiayuan Zhang | Parallel Agent Workflow, MCP And Agent Tools |
-| [Hamel Husain blog](hamel-evals.md) | site | High | Candidate / topic source | Evals, Observability, And Feedback Loops |
-| [AI Evals for Engineers and PMs](shreya-hamel-evals-course.md) | course | High | Candidate / topic source | Evals, Observability, And Feedback Loops |
-| [Eugene Yan writing](eugene-yan.md) | site | High | Candidate / topic source | Evals, Observability, And Feedback Loops, AI-Native CEO Operating System |
-| [AI Engineering](chip-huyen-ai-engineering.md) | book | High | Candidate / topic source | Evals, Observability, And Feedback Loops, MCP And Agent Tools |
+| [Hamel Husain blog](hamel-evals.md) | site | High | Hamel Husain | Evals, Observability, And Feedback Loops |
+| [AI Evals for Engineers and PMs](shreya-hamel-evals-course.md) | course | High | Hamel Husain, Shreya Shankar | Evals, Observability, And Feedback Loops |
+| [Eugene Yan writing](eugene-yan.md) | site | High | Eugene Yan | Evals, Observability, And Feedback Loops, AI-Native CEO Operating System |
+| [AI Engineering](chip-huyen-ai-engineering.md) | book | High | Chip Huyen | Evals, Observability, And Feedback Loops, MCP And Agent Tools |

@@ -1,0 +1,1715 @@
+[
+  {
+    "id": "shopify-ai-playground",
+    "slug": "shopify-ai-playground",
+    "title": "Serious results, unserious methods: Shopify AI playground",
+    "type": "article",
+    "author": "Shopify / Tobias Lutke memo excerpt",
+    "url": "https://www.shopify.com/news/unserious-exploration",
+    "published": "2025-11",
+    "confidence": "High",
+    "relatedPeople": [
+      "tobias-lutke"
+    ],
+    "relatedTopics": [
+      "ai-native-ceo-operating-system",
+      "agentic-engineering"
+    ],
+    "mentions": [
+      "Shopify",
+      "AI usage baseline",
+      "prototyping"
+    ],
+    "summary": "Shopify describes internal AI usage and references Tobi Lutke's April 2025 memo that made reflexive AI usage a baseline expectation.",
+    "takeaways": [
+      "AI use should become a baseline operating assumption, not an optional side project.",
+      "Leaders can make AI adoption concrete by attaching it to resource allocation and review rituals.",
+      "The risk is performative usage: adoption has to be tied to working demos and measurable leverage."
+    ],
+    "claims": [
+      "Use AI proof-of-work before asking for more people or more process.",
+      "Treat AI leverage as a management expectation that still needs human judgment."
+    ]
+  },
+  {
+    "id": "tobi-compass-metric",
+    "slug": "tobi-compass-metric",
+    "title": "Pick your compass metric",
+    "type": "article",
+    "author": "Tobias Lutke",
+    "url": "https://tobi.lutke.com/blogs/news/11280913-pick-your-compass-metric",
+    "published": "2013",
+    "confidence": "High",
+    "relatedPeople": [
+      "tobias-lutke"
+    ],
+    "relatedTopics": [
+      "ai-native-ceo-operating-system",
+      "solo-founder-product-distribution"
+    ],
+    "mentions": [
+      "CMRR",
+      "weekly cadence",
+      "Bessemer metrics",
+      "focus"
+    ],
+    "summary": "Lutke argues for choosing one compass metric and building a tight weekly operating cadence around learning and next actions.",
+    "takeaways": [
+      "A founder dashboard should have a small number of decisive metrics.",
+      "Weekly cadence matters: what happened, what was learned, what changes next week.",
+      "A one-person AI company should measure leverage and market proof, not activity."
+    ],
+    "claims": [
+      "Use a weekly compass metric to keep AI experimentation tied to business outcomes."
+    ]
+  },
+  {
+    "id": "tobi-human-excellence",
+    "slug": "tobi-human-excellence",
+    "title": "The Future Role of Human Excellence",
+    "type": "article",
+    "author": "Tobias Lutke",
+    "url": "https://tobi.lutke.com/blogs/news/the-future-role-of-human-excellence",
+    "published": "2024",
+    "confidence": "High",
+    "relatedPeople": [
+      "tobias-lutke"
+    ],
+    "relatedTopics": [
+      "ai-native-ceo-operating-system",
+      "agentic-engineering"
+    ],
+    "mentions": [
+      "human plus machine",
+      "Kasparov",
+      "Deep Blue",
+      "judgment"
+    ],
+    "summary": "Lutke frames human-plus-machine systems as a better model than pure replacement narratives.",
+    "takeaways": [
+      "The useful unit is human judgment plus machine capability.",
+      "AI operating systems should amplify excellence rather than remove ownership."
+    ],
+    "claims": [
+      "Treat agents as leverage for judgment, not replacements for judgment."
+    ]
+  },
+  {
+    "id": "tobi-apprentice-programmer",
+    "slug": "tobi-apprentice-programmer",
+    "title": "The Apprentice Programmer",
+    "type": "article",
+    "author": "Tobias Lutke",
+    "url": "https://tobi.lutke.com/blogs/news/11280301-the-apprentice-programmer",
+    "published": "2013",
+    "confidence": "High",
+    "relatedPeople": [
+      "tobias-lutke"
+    ],
+    "relatedTopics": [
+      "engineering-taste-code-quality"
+    ],
+    "mentions": [
+      "apprenticeship",
+      "code review",
+      "fast feedback"
+    ],
+    "summary": "Lutke reflects on programmer apprenticeship and learning through direct feedback.",
+    "takeaways": [
+      "AI delegation should not eliminate apprenticeship-style feedback.",
+      "Fast code feedback is still central to skill formation."
+    ],
+    "claims": [
+      "Keep learning loops close even when agents accelerate output."
+    ]
+  },
+  {
+    "id": "levelsio-blog",
+    "slug": "levelsio-blog",
+    "title": "Pieter Levels personal site and project archive",
+    "type": "site",
+    "author": "Pieter Levels",
+    "url": "https://levels.io/",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "pieter-levels"
+    ],
+    "relatedTopics": [
+      "solo-founder-product-distribution",
+      "shipping-small-products"
+    ],
+    "mentions": [
+      "Nomad List",
+      "Remote OK",
+      "build in public",
+      "12 startups in 12 months"
+    ],
+    "summary": "Pieter Levels documents projects, indie-company building, public launch stories, and operational constraints of tiny profitable internet businesses.",
+    "takeaways": [
+      "Distribution and speed matter as much as implementation.",
+      "Small products can become meaningful businesses when scope, audience, and monetization stay concrete.",
+      "Public learning loops can compound when the builder keeps shipping."
+    ],
+    "claims": [
+      "Prefer shipping small, revenue-aware products over vague platform dreams.",
+      "Use public feedback and direct market signals as a forcing function."
+    ]
+  },
+  {
+    "id": "levels-projects",
+    "slug": "levels-projects",
+    "title": "List of all my projects ever",
+    "type": "article",
+    "author": "Pieter Levels",
+    "url": "https://levels.io/projects/",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "pieter-levels"
+    ],
+    "relatedTopics": [
+      "solo-founder-product-distribution",
+      "shipping-small-products"
+    ],
+    "mentions": [
+      "project ledger",
+      "failure rate",
+      "Nomad List",
+      "Remote OK",
+      "Photo AI"
+    ],
+    "summary": "Levels maintains a public ledger of projects, outcomes, and failures.",
+    "takeaways": [
+      "A public or private project ledger makes shipping and failure rates visible.",
+      "Many attempts are expected; the system matters more than any single idea."
+    ],
+    "claims": [
+      "Maintain a project ledger with launch dates, status, revenue signal, and lessons."
+    ]
+  },
+  {
+    "id": "levels-mvp",
+    "slug": "levels-mvp",
+    "title": "How I build my minimum viable products",
+    "type": "article",
+    "author": "Pieter Levels",
+    "url": "https://levels.io/how-i-build-my-minimum-viable-products/",
+    "published": "2014",
+    "confidence": "High",
+    "relatedPeople": [
+      "pieter-levels"
+    ],
+    "relatedTopics": [
+      "solo-founder-product-distribution",
+      "shipping-small-products"
+    ],
+    "mentions": [
+      "MVP",
+      "simple stack",
+      "raw JS",
+      "PHP",
+      "Nginx",
+      "Linode"
+    ],
+    "summary": "Levels describes a deliberately simple MVP stack optimized for speed and direct control.",
+    "takeaways": [
+      "The right solo-founder stack is often the one you can debug quickly.",
+      "Avoid architecture that delays market contact."
+    ],
+    "claims": [
+      "Use boring, familiar tools when the goal is fast validation."
+    ]
+  },
+  {
+    "id": "levels-validation",
+    "slug": "levels-validation",
+    "title": "The only real validation is people paying",
+    "type": "article",
+    "author": "Pieter Levels",
+    "url": "https://levels.io/idea-validation/",
+    "published": "2014",
+    "confidence": "High",
+    "relatedPeople": [
+      "pieter-levels"
+    ],
+    "relatedTopics": [
+      "solo-founder-product-distribution"
+    ],
+    "mentions": [
+      "paid validation",
+      "Stripe",
+      "preorders"
+    ],
+    "summary": "Levels argues that payment behavior is stronger validation than compliments or stated intent.",
+    "takeaways": [
+      "Push toward payment or a strong proxy for payment as early as feasible.",
+      "For enterprise workflows, pilots can be a staged proxy when immediate self-serve payment is unrealistic."
+    ],
+    "claims": [
+      "Treat willingness to pay as the strongest validation signal."
+    ]
+  },
+  {
+    "id": "levels-diy",
+    "slug": "levels-diy",
+    "title": "Instead of hiring people, do things yourself",
+    "type": "article",
+    "author": "Pieter Levels",
+    "url": "https://levels.io/diy/",
+    "published": "2019",
+    "confidence": "High",
+    "relatedPeople": [
+      "pieter-levels"
+    ],
+    "relatedTopics": [
+      "solo-founder-product-distribution",
+      "ai-native-ceo-operating-system"
+    ],
+    "mentions": [
+      "DIY",
+      "automation",
+      "John Carmack",
+      "support",
+      "operations"
+    ],
+    "summary": "Levels argues for staying close to the work and using automation rather than premature hiring.",
+    "takeaways": [
+      "Doing work yourself teaches the system well enough to automate it.",
+      "Agents should preserve closeness to the work, not hide it."
+    ],
+    "claims": [
+      "Automate after understanding the workflow by doing it manually."
+    ]
+  },
+  {
+    "id": "andrew-ng-official",
+    "slug": "andrew-ng-official",
+    "title": "Andrew Ng official site",
+    "type": "site",
+    "author": "Andrew Ng",
+    "url": "https://www.andrewng.org/",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "andrew-ng"
+    ],
+    "relatedTopics": [
+      "ai-native-ceo-operating-system",
+      "evals-observability-feedback-loops"
+    ],
+    "mentions": [
+      "DeepLearning.AI",
+      "AI Fund",
+      "LandingAI",
+      "Coursera"
+    ],
+    "summary": "Andrew Ng's official site summarizes his work across AI education, AI company creation, enterprise AI, and applied AI strategy.",
+    "takeaways": [
+      "AI leverage requires both education and application selection.",
+      "Durable AI strategy starts from workflows and data, not from model hype.",
+      "Founders should learn enough AI fundamentals to make better product and build/buy decisions."
+    ],
+    "claims": [
+      "Learn AI fundamentals while staying application-first.",
+      "Look for repeated workflows where AI can improve cycle time or quality."
+    ]
+  },
+  {
+    "id": "deeplearning-ai-about",
+    "slug": "deeplearning-ai-about",
+    "title": "DeepLearning.AI about page",
+    "type": "site",
+    "author": "DeepLearning.AI",
+    "url": "https://www.deeplearning.ai/about",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "andrew-ng"
+    ],
+    "relatedTopics": [
+      "ai-native-ceo-operating-system"
+    ],
+    "mentions": [
+      "AI education",
+      "courses",
+      "applied AI"
+    ],
+    "summary": "DeepLearning.AI describes its mission around world-class AI education and practical skill development.",
+    "takeaways": [
+      "Build a learning loop: concepts, exercises, project application, review.",
+      "Treat education as operational leverage when the field is moving quickly."
+    ],
+    "claims": [
+      "A one-person company needs a deliberate learning system, not random tool chasing."
+    ]
+  },
+  {
+    "id": "andrew-ai-transformation-playbook",
+    "slug": "andrew-ai-transformation-playbook",
+    "title": "Introducing the AI Transformation Playbook",
+    "type": "article",
+    "author": "Andrew Ng",
+    "url": "https://medium.com/@andrewng/introducing-the-ai-transformation-playbook-58ccad4393e9",
+    "published": "2018",
+    "confidence": "High",
+    "relatedPeople": [
+      "andrew-ng"
+    ],
+    "relatedTopics": [
+      "ai-native-ceo-operating-system",
+      "evals-observability-feedback-loops"
+    ],
+    "mentions": [
+      "AI transformation",
+      "pilot projects",
+      "training",
+      "strategy",
+      "communication"
+    ],
+    "summary": "Ng describes a playbook for organizational AI transformation built around pilot projects, training, strategy, and communication.",
+    "takeaways": [
+      "Start with feasible pilots that build momentum.",
+      "AI transformation requires capability-building, not just tool access.",
+      "A solo founder can compress the enterprise playbook into personal operating rituals."
+    ],
+    "claims": [
+      "Use pilot projects and training loops to become AI-native deliberately."
+    ]
+  },
+  {
+    "id": "deeplearning-agentic-ai",
+    "slug": "deeplearning-agentic-ai",
+    "title": "Agentic AI course",
+    "type": "course",
+    "author": "DeepLearning.AI",
+    "url": "https://www.deeplearning.ai/courses/agentic-ai",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "andrew-ng"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "evals-observability-feedback-loops"
+    ],
+    "mentions": [
+      "reflection",
+      "tool use",
+      "planning",
+      "multi-agent workflows",
+      "evals"
+    ],
+    "summary": "DeepLearning.AI's Agentic AI course covers patterns such as reflection, tool use, planning, and multi-agent collaboration.",
+    "takeaways": [
+      "Agent workflows have repeatable patterns that can be studied and evaluated.",
+      "Multi-agent systems require design and evals, not only enthusiasm."
+    ],
+    "claims": [
+      "Learn agent patterns as engineering primitives."
+    ]
+  },
+  {
+    "id": "karpathy-software-2",
+    "slug": "karpathy-software-2",
+    "title": "Software 2.0",
+    "type": "article",
+    "author": "Andrej Karpathy",
+    "url": "https://karpathy.medium.com/software-2-0-a64152b37c35",
+    "published": "2017-11-11",
+    "confidence": "High",
+    "relatedPeople": [
+      "andrej-karpathy"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "context-engineering"
+    ],
+    "mentions": [
+      "neural networks",
+      "datasets",
+      "programming paradigms"
+    ],
+    "summary": "Karpathy frames trained neural networks as a new kind of software where behavior is specified through data and optimization rather than hand-written code.",
+    "takeaways": [
+      "Programming paradigms change the bottleneck: data, feedback, and evaluation become part of software design.",
+      "AI-native builders need to understand both code and learned behavior.",
+      "The useful question is not whether AI writes code, but what new interface to computation is emerging."
+    ],
+    "claims": [
+      "Software practice shifts when behavior is specified through data, prompts, and examples."
+    ]
+  },
+  {
+    "id": "karpathy-software-changing",
+    "slug": "karpathy-software-changing-again",
+    "title": "Software Is Changing Again",
+    "type": "talk",
+    "author": "Andrej Karpathy",
+    "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+    "published": "2025-06",
+    "confidence": "Medium",
+    "relatedPeople": [
+      "andrej-karpathy"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "prompt-to-product"
+    ],
+    "mentions": [
+      "Software 3.0",
+      "LLMs",
+      "natural language programming",
+      "agents"
+    ],
+    "summary": "Karpathy describes a new software era where LLMs act as programmable computers controlled through natural language and context.",
+    "takeaways": [
+      "Prompts and context become programming interfaces.",
+      "The developer role shifts toward specifying, supervising, testing, and integrating.",
+      "Agent hype should be balanced with realistic expectations about reliability and human-in-the-loop work."
+    ],
+    "claims": [
+      "The main bottleneck moves from typing code to specifying intent and verifying output."
+    ]
+  },
+  {
+    "id": "karpathy-zero-to-hero",
+    "slug": "karpathy-zero-to-hero",
+    "title": "Neural Networks: Zero to Hero",
+    "type": "course",
+    "author": "Andrej Karpathy",
+    "url": "https://karpathy.ai/zero-to-hero.html",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "andrej-karpathy"
+    ],
+    "relatedTopics": [
+      "context-engineering",
+      "engineering-taste-code-quality"
+    ],
+    "mentions": [
+      "neural networks",
+      "from scratch",
+      "micrograd",
+      "nanoGPT"
+    ],
+    "summary": "Karpathy teaches neural networks from first principles through small, readable implementations.",
+    "takeaways": [
+      "Rebuilding fundamentals improves model intuition.",
+      "Small reference implementations can make complex systems legible."
+    ],
+    "claims": [
+      "Use tiny teaching implementations for understanding, not as production templates."
+    ]
+  },
+  {
+    "id": "karpathy-micrograd",
+    "slug": "karpathy-micrograd",
+    "title": "micrograd",
+    "type": "repo",
+    "author": "Andrej Karpathy",
+    "url": "https://github.com/karpathy/micrograd",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "andrej-karpathy"
+    ],
+    "relatedTopics": [
+      "engineering-taste-code-quality"
+    ],
+    "mentions": [
+      "autograd",
+      "neural networks",
+      "small implementation"
+    ],
+    "summary": "A tiny scalar-valued autograd engine used for teaching neural network fundamentals.",
+    "takeaways": [
+      "Small, inspectable code is an educational superpower.",
+      "Agents should be asked for understandable reference implementations when learning."
+    ],
+    "claims": [
+      "Prefer small explanatory code when the goal is learning."
+    ]
+  },
+  {
+    "id": "karpathy-nanogpt",
+    "slug": "karpathy-nanogpt",
+    "title": "nanoGPT",
+    "type": "repo",
+    "author": "Andrej Karpathy",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "andrej-karpathy"
+    ],
+    "relatedTopics": [
+      "context-engineering"
+    ],
+    "mentions": [
+      "GPT",
+      "training",
+      "PyTorch",
+      "TinyShakespeare"
+    ],
+    "summary": "A compact GPT training repository designed for clarity and hackability.",
+    "takeaways": [
+      "Understand model training and inference through compact, runnable systems.",
+      "Clarity-focused repos make better learning material than large production stacks."
+    ],
+    "claims": [
+      "Study compact systems before relying on abstractions."
+    ]
+  },
+  {
+    "id": "karpathy-llm-c",
+    "slug": "karpathy-llm-c",
+    "title": "llm.c",
+    "type": "repo",
+    "author": "Andrej Karpathy",
+    "url": "https://github.com/karpathy/llm.c",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "andrej-karpathy"
+    ],
+    "relatedTopics": [
+      "engineering-taste-code-quality"
+    ],
+    "mentions": [
+      "C",
+      "CUDA",
+      "LLM training",
+      "performance"
+    ],
+    "summary": "A lower-level LLM training project for understanding implementation and performance details.",
+    "takeaways": [
+      "AI systems still bottom out in systems engineering and performance tradeoffs.",
+      "A solo founder does not need to master every layer, but should know enough to reason about cost and capability."
+    ],
+    "claims": [
+      "Keep some low-level literacy even when using high-level AI tools."
+    ]
+  },
+  {
+    "id": "simon-agentic-patterns",
+    "slug": "simon-agentic-engineering-patterns",
+    "title": "Agentic Engineering Patterns",
+    "type": "guide",
+    "author": "Simon Willison",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+    "published": "2026-02",
+    "confidence": "High",
+    "relatedPeople": [
+      "simon-willison"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "evals-observability-feedback-loops"
+    ],
+    "mentions": [
+      "Claude Code",
+      "OpenAI Codex",
+      "Red/green TDD",
+      "subagents",
+      "manual testing"
+    ],
+    "summary": "Willison is building a guide to engineering practices for coding agents such as Claude Code and Codex.",
+    "takeaways": [
+      "Writing code is cheaper; verification and judgment become more important.",
+      "Red/green TDD and manual testing are agent multipliers.",
+      "Professional agentic engineering is distinct from ignoring the code."
+    ],
+    "claims": [
+      "Use coding agents to amplify existing engineering skill.",
+      "Require tests, review, and explainability before accepting generated code."
+    ]
+  },
+  {
+    "id": "simon-vibe-coding",
+    "slug": "simon-not-all-ai-assisted-programming-is-vibe-coding",
+    "title": "Not all AI-assisted programming is vibe coding",
+    "type": "article",
+    "author": "Simon Willison",
+    "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
+    "published": "2025-03-19",
+    "confidence": "High",
+    "relatedPeople": [
+      "simon-willison",
+      "andrej-karpathy"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "engineering-taste-code-quality"
+    ],
+    "mentions": [
+      "vibe coding",
+      "responsible AI-assisted programming",
+      "accountability"
+    ],
+    "summary": "Willison argues that professional AI-assisted programming still requires reading, testing, understanding, and owning the code.",
+    "takeaways": [
+      "Vibe coding is useful for experiments and personal tools, but production work requires accountability.",
+      "Generated code should be explainable by the person shipping it.",
+      "The boundary between prototype and production must be explicit."
+    ],
+    "claims": [
+      "Never ship AI-generated code you cannot explain and support."
+    ]
+  },
+  {
+    "id": "simon-llm-cli",
+    "slug": "simon-llm-cli",
+    "title": "LLM command-line tool and ecosystem",
+    "type": "repo",
+    "author": "Simon Willison",
+    "url": "https://github.com/simonw/llm",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "simon-willison"
+    ],
+    "relatedTopics": [
+      "llm-cli-tools",
+      "agentic-engineering"
+    ],
+    "mentions": [
+      "LLM CLI",
+      "plugins",
+      "local models",
+      "model experimentation"
+    ],
+    "summary": "Simon Willison's LLM CLI provides a practical command-line interface and plugin ecosystem for working with multiple language models.",
+    "takeaways": [
+      "CLI-first AI workflows are scriptable, inspectable, and easy to compose.",
+      "A model lab belongs in a developer workflow, not only in web chat tabs."
+    ],
+    "claims": [
+      "Use CLI tools to make AI work repeatable and auditable."
+    ]
+  },
+  {
+    "id": "simon-llm-docs",
+    "slug": "simon-llm-docs",
+    "title": "LLM CLI documentation",
+    "type": "docs",
+    "author": "Simon Willison",
+    "url": "https://llm.datasette.io/",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "simon-willison"
+    ],
+    "relatedTopics": [
+      "llm-cli-tools",
+      "evals-observability-feedback-loops"
+    ],
+    "mentions": [
+      "LLM CLI",
+      "plugins",
+      "templates",
+      "models"
+    ],
+    "summary": "Documentation for Simon Willison's LLM command-line tool and plugin system.",
+    "takeaways": [
+      "AI workflows become more reliable when they are scriptable and logged.",
+      "Model experimentation should be easy to reproduce."
+    ],
+    "claims": [
+      "Use CLI workflows to turn AI experiments into repeatable tools."
+    ]
+  },
+  {
+    "id": "simon-lethal-trifecta",
+    "slug": "simon-lethal-trifecta",
+    "title": "The lethal trifecta for AI agents",
+    "type": "article",
+    "author": "Simon Willison",
+    "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+    "published": "2025-06-16",
+    "confidence": "High",
+    "relatedPeople": [
+      "simon-willison"
+    ],
+    "relatedTopics": [
+      "security-risk-ai-agents",
+      "agentic-engineering"
+    ],
+    "mentions": [
+      "prompt injection",
+      "private data",
+      "untrusted content",
+      "external communication"
+    ],
+    "summary": "Willison identifies a dangerous combination for agents: access to private data, exposure to untrusted content, and ability to communicate externally.",
+    "takeaways": [
+      "Agent risk depends on the combination of data access, untrusted instructions, and output channels.",
+      "Security design must be part of the workflow, not a later patch."
+    ],
+    "claims": [
+      "Never grant broad tool access to agents that also consume untrusted content without controls."
+    ]
+  },
+  {
+    "id": "mitchell-ai-adoption",
+    "slug": "mitchell-my-ai-adoption-journey",
+    "title": "My AI Adoption Journey",
+    "type": "article",
+    "author": "Mitchell Hashimoto",
+    "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+    "published": "2026-02-05",
+    "confidence": "High",
+    "relatedPeople": [
+      "mitchell-hashimoto"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "evals-observability-feedback-loops"
+    ],
+    "mentions": [
+      "Claude Code",
+      "Codex",
+      "end-of-day agents",
+      "harness",
+      "slam dunks"
+    ],
+    "summary": "Hashimoto describes a staged path from skepticism to useful agentic workflows, including reproducing manual work, end-of-day agents, and engineering harnesses.",
+    "takeaways": [
+      "Learn agents by forcing them to reproduce your own high-quality work.",
+      "Use agents first on slam-dunk tasks while preserving your own deep-work skill formation.",
+      "Build harnesses so agents can verify their own work."
+    ],
+    "claims": [
+      "Agent adoption should be empirical: compare output against your own standard."
+    ]
+  },
+  {
+    "id": "mitchell-large-projects",
+    "slug": "mitchell-building-large-technical-projects",
+    "title": "My Approach to Building Large Technical Projects",
+    "type": "article",
+    "author": "Mitchell Hashimoto",
+    "url": "https://mitchellh.com/writing/building-large-technical-projects",
+    "published": "2023-06-01",
+    "confidence": "High",
+    "relatedPeople": [
+      "mitchell-hashimoto"
+    ],
+    "relatedTopics": [
+      "engineering-taste-code-quality",
+      "shipping-small-products"
+    ],
+    "mentions": [
+      "demos",
+      "tests",
+      "technical projects",
+      "Ghostty"
+    ],
+    "summary": "Hashimoto advocates decomposing large technical work into visible, testable chunks that produce frequent demos.",
+    "takeaways": [
+      "Pick slices that produce visible progress.",
+      "Use tests as early feedback when the work is not yet graphical.",
+      "Do enough to reach the next demo, then iterate."
+    ],
+    "claims": [
+      "For agentic work, assign demo-shaped tasks with clear verification loops."
+    ]
+  },
+  {
+    "id": "mitchell-non-trivial-vibing",
+    "slug": "mitchell-non-trivial-vibing",
+    "title": "Vibing a Non-Trivial Ghostty Feature",
+    "type": "article",
+    "author": "Mitchell Hashimoto",
+    "url": "https://mitchellh.com/writing/non-trivial-vibing",
+    "published": "2025-10-11",
+    "confidence": "High",
+    "relatedPeople": [
+      "mitchell-hashimoto"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "engineering-taste-code-quality"
+    ],
+    "mentions": [
+      "Ghostty",
+      "non-trivial feature",
+      "AI-assisted development"
+    ],
+    "summary": "Hashimoto walks through using AI on a real, non-trivial Ghostty feature rather than a toy example.",
+    "takeaways": [
+      "Use scoped, real features to evaluate AI workflows.",
+      "The useful benchmark is integration into a serious codebase, not a toy demo."
+    ],
+    "claims": [
+      "Agentic engineering has to be judged on shipped work in real systems."
+    ]
+  },
+  {
+    "id": "steipete-just-talk",
+    "slug": "steipete-just-talk-to-it",
+    "title": "Just Talk To It - the no-bs Way of Agentic Engineering",
+    "type": "article",
+    "author": "Peter Steinberger",
+    "url": "https://steipete.me/posts/just-talk-to-it",
+    "published": "2025-10-14",
+    "confidence": "High",
+    "relatedPeople": [
+      "peter-steinberger"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "parallel-agent-workflow"
+    ],
+    "mentions": [
+      "Codex",
+      "Claude Code",
+      "tmux",
+      "MCP",
+      "parallel agents",
+      "blast radius"
+    ],
+    "summary": "Steinberger gives a practical account of parallel Codex/Claude workflows, blast-radius thinking, CLI preference, and iterative agent supervision.",
+    "takeaways": [
+      "Parallel agents work best when changes are small enough to review and isolate.",
+      "Use blast radius as a gut-check for whether a task is agent-safe.",
+      "Prefer simple, visible tools and strong feedback loops over elaborate agent theater."
+    ],
+    "claims": [
+      "Run more agents only if you can still review and steer their work.",
+      "CLIs often beat MCPs when they are cheaper in context and easier to inspect."
+    ]
+  },
+  {
+    "id": "steipete-workflow",
+    "slug": "steipete-current-ai-dev-workflow",
+    "title": "My Current AI Dev Workflow",
+    "type": "article",
+    "author": "Peter Steinberger",
+    "url": "https://steipete.me/posts/2025/optimal-ai-development-workflow",
+    "published": "2025-08-25",
+    "confidence": "High",
+    "relatedPeople": [
+      "peter-steinberger"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "claude-code-and-codex-workflows"
+    ],
+    "mentions": [
+      "Ghostty",
+      "Claude Code",
+      "VS Code",
+      "agent workflows"
+    ],
+    "summary": "Steinberger documents an AI development setup centered on terminal workflows and iterative experimentation.",
+    "takeaways": [
+      "Keep the loop visible: terminal, browser, tests, and source control.",
+      "Make the agent work in the same feedback environment you use."
+    ],
+    "claims": [
+      "Workflow taste matters as much as model choice."
+    ]
+  },
+  {
+    "id": "steipete-openclaw",
+    "slug": "steipete-openclaw-openai",
+    "title": "OpenClaw, OpenAI and the future",
+    "type": "article",
+    "author": "Peter Steinberger",
+    "url": "https://steipete.me/posts/2026/openclaw",
+    "published": "2026-02-14",
+    "confidence": "High",
+    "relatedPeople": [
+      "peter-steinberger"
+    ],
+    "relatedTopics": [
+      "mcp-and-agent-tools",
+      "agentic-engineering"
+    ],
+    "mentions": [
+      "OpenAI",
+      "OpenClaw",
+      "agents"
+    ],
+    "summary": "Steinberger describes joining OpenAI and moving OpenClaw to an independent foundation.",
+    "takeaways": [
+      "Agent tooling is becoming infrastructure, not just personal setup.",
+      "Open ecosystems matter when workflows depend on tool portability."
+    ],
+    "claims": [
+      "Track agent tools as an ecosystem, but keep your own workflow simple."
+    ]
+  },
+  {
+    "id": "steipete-agent-rules",
+    "slug": "steipete-agent-rules",
+    "title": "agent-rules",
+    "type": "repo",
+    "author": "Peter Steinberger",
+    "url": "https://github.com/steipete/agent-rules",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "peter-steinberger"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "context-engineering"
+    ],
+    "mentions": [
+      "agent rules",
+      "Claude Code",
+      "Codex",
+      "workflow docs"
+    ],
+    "summary": "Steinberger's public repository of agent rules and workflow guidance.",
+    "takeaways": [
+      "Durable agent instructions deserve versioned files.",
+      "Rules should evolve from actual workflow pain."
+    ],
+    "claims": [
+      "Codify repeated successful agent patterns into reusable rules."
+    ]
+  },
+  {
+    "id": "matt-typescript-ai-era",
+    "slug": "matt-typescript-ai-era",
+    "title": "The Case for TypeScript In The AI Coding Era",
+    "type": "article",
+    "author": "Matt Pocock",
+    "url": "https://www.totaltypescript.com/the-case-for-typescript-in-the-ai-coding-era",
+    "published": "2026",
+    "confidence": "High",
+    "relatedPeople": [
+      "matt-pocock"
+    ],
+    "relatedTopics": [
+      "engineering-taste-code-quality",
+      "typescript-ai-stack"
+    ],
+    "mentions": [
+      "TypeScript",
+      "AI coding",
+      "types",
+      "contracts"
+    ],
+    "summary": "Pocock argues that TypeScript remains highly valuable in the AI coding era because types constrain and clarify generated code.",
+    "takeaways": [
+      "Types become guardrails for agents.",
+      "Strong contracts improve generated code review and refactoring safety.",
+      "Type errors are feedback that agents can use."
+    ],
+    "claims": [
+      "Use TypeScript as an executable communication layer between you, agents, and future maintainers."
+    ]
+  },
+  {
+    "id": "matt-total-typescript",
+    "slug": "matt-total-typescript",
+    "title": "Total TypeScript",
+    "type": "site",
+    "author": "Matt Pocock",
+    "url": "https://www.totaltypescript.com/",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "matt-pocock"
+    ],
+    "relatedTopics": [
+      "typescript-ai-stack",
+      "engineering-taste-code-quality"
+    ],
+    "mentions": [
+      "TypeScript education",
+      "exercises",
+      "patterns"
+    ],
+    "summary": "Total TypeScript is Pocock's educational platform for TypeScript fundamentals, exercises, and patterns.",
+    "takeaways": [
+      "Develop type-system fluency to supervise agents in TypeScript codebases.",
+      "Exercises make abstract type patterns operational."
+    ],
+    "claims": [
+      "A solo AI builder should strengthen TypeScript fundamentals instead of outsourcing all code understanding."
+    ]
+  },
+  {
+    "id": "matt-github",
+    "slug": "matt-github",
+    "title": "Matt Pocock GitHub profile",
+    "type": "repo",
+    "author": "Matt Pocock",
+    "url": "https://github.com/mattpocock",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "matt-pocock"
+    ],
+    "relatedTopics": [
+      "typescript-ai-stack",
+      "engineering-taste-code-quality"
+    ],
+    "mentions": [
+      "TypeScript",
+      "ts-reset",
+      "education",
+      "examples"
+    ],
+    "summary": "Matt Pocock's GitHub profile links TypeScript education and utility projects.",
+    "takeaways": [
+      "Public examples and small utilities are useful teaching surfaces.",
+      "TypeScript practice improves with concrete exercises and repos."
+    ],
+    "claims": [
+      "Use public TypeScript examples to build review taste for agent-generated code."
+    ]
+  },
+  {
+    "id": "matt-ts-reset",
+    "slug": "matt-ts-reset",
+    "title": "ts-reset",
+    "type": "repo",
+    "author": "Matt Pocock",
+    "url": "https://github.com/mattpocock/ts-reset",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "matt-pocock"
+    ],
+    "relatedTopics": [
+      "typescript-ai-stack"
+    ],
+    "mentions": [
+      "TypeScript",
+      "standard library types",
+      "type safety"
+    ],
+    "summary": "A TypeScript utility project that improves some default typings.",
+    "takeaways": [
+      "Default platform types can be sharpened to reduce ambiguity.",
+      "Type-level guardrails can make agents safer when used judiciously."
+    ],
+    "claims": [
+      "Improve type defaults where it reduces real bugs and review burden."
+    ]
+  },
+  {
+    "id": "theo-site",
+    "slug": "theo-t3-site",
+    "title": "Theo Browne / t3.gg",
+    "type": "site",
+    "author": "Theo Browne",
+    "url": "https://t3.gg/",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "theo-browne"
+    ],
+    "relatedTopics": [
+      "typescript-ai-stack",
+      "solo-founder-product-distribution"
+    ],
+    "mentions": [
+      "T3 Chat",
+      "T3 Code",
+      "create-t3-app",
+      "TypeScript"
+    ],
+    "summary": "Theo's site links his products and ecosystem work around T3 Chat, T3 Code, create-t3-app, and content.",
+    "takeaways": [
+      "Tooling, content, and product can reinforce each other.",
+      "Modern full-stack defaults matter when building quickly."
+    ],
+    "claims": [
+      "Use a small, known stack and avoid novelty unless it buys clear leverage."
+    ]
+  },
+  {
+    "id": "theo-github",
+    "slug": "theo-github",
+    "title": "Theo Browne GitHub profile",
+    "type": "repo",
+    "author": "Theo Browne",
+    "url": "https://github.com/t3dotgg",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "theo-browne"
+    ],
+    "relatedTopics": [
+      "typescript-ai-stack",
+      "shipping-small-products"
+    ],
+    "mentions": [
+      "create-t3-app",
+      "uploadthing",
+      "unduck",
+      "TypeScript"
+    ],
+    "summary": "Theo's GitHub profile shows open-source projects around TypeScript, Next.js, file upload infrastructure, and small utilities.",
+    "takeaways": [
+      "Open-source artifacts can act as distribution and proof of taste.",
+      "Reusable building blocks can become product wedges."
+    ],
+    "claims": [
+      "For a one-person company, public tools can double as marketing and infrastructure."
+    ]
+  },
+  {
+    "id": "create-t3-app",
+    "slug": "create-t3-app",
+    "title": "create-t3-app",
+    "type": "repo",
+    "author": "T3 OSS",
+    "url": "https://github.com/t3-oss/create-t3-app",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "theo-browne"
+    ],
+    "relatedTopics": [
+      "typescript-ai-stack",
+      "shipping-small-products"
+    ],
+    "mentions": [
+      "Next.js",
+      "TypeScript",
+      "tRPC",
+      "Prisma",
+      "Tailwind"
+    ],
+    "summary": "A modular full-stack TypeScript starter associated with the T3 ecosystem.",
+    "takeaways": [
+      "Opinionated starter paths can reduce setup drag.",
+      "Optional modules are useful when different products need different stack choices."
+    ],
+    "claims": [
+      "Use starter stacks when they reduce decisions without hiding core tradeoffs."
+    ]
+  },
+  {
+    "id": "thariq-site",
+    "slug": "thariq-site",
+    "title": "Thariq Shihipar personal site",
+    "type": "site",
+    "author": "Thariq Shihipar",
+    "url": "https://www.thariq.io/",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "thariq-shihipar"
+    ],
+    "relatedTopics": [
+      "agentic-engineering"
+    ],
+    "mentions": [
+      "research",
+      "design",
+      "AI systems"
+    ],
+    "summary": "Thariq Shihipar's personal site, useful as a canonical identity/source anchor.",
+    "takeaways": [
+      "Use primary identity pages to anchor social-source-heavy mentor profiles."
+    ],
+    "claims": [
+      "Keep Thariq claims grounded in primary or official sources where possible."
+    ]
+  },
+  {
+    "id": "thariq-agent-design",
+    "slug": "thariq-agent-design-space",
+    "title": "Think like an agent / Claude Code agent design notes",
+    "type": "thread",
+    "author": "Thariq Shihipar",
+    "url": "https://x.com/trq212/article/2027463795355095314",
+    "published": "2026-02-28",
+    "confidence": "Medium",
+    "relatedPeople": [
+      "thariq-shihipar"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "mcp-and-agent-tools"
+    ],
+    "mentions": [
+      "Claude Code",
+      "agent action space",
+      "tools",
+      "progressive discovery"
+    ],
+    "summary": "Thariq discusses agent tool/action-space design lessons from Claude Code. The source is an X article and mirrors, so keep claims tied to the URL.",
+    "takeaways": [
+      "Design an agent's action space based on what the model can actually use well.",
+      "Observe model behavior and iterate; agent tooling is empirical.",
+      "Progressive discovery can beat exposing too many tools up front."
+    ],
+    "claims": [
+      "Agent tools should match model capability and feedback loops, not a theoretical taxonomy."
+    ]
+  },
+  {
+    "id": "thariq-workshop-recap",
+    "slug": "thariq-workshop-recap",
+    "title": "How We Claude Code - Thariq workshop recap",
+    "type": "workshop-recap",
+    "author": "Thariq Shihipar / community recap",
+    "url": "https://howborisusesclaudecode.com/recap",
+    "published": "2026-05",
+    "confidence": "Medium",
+    "relatedPeople": [
+      "thariq-shihipar"
+    ],
+    "relatedTopics": [
+      "claude-code-and-codex-workflows",
+      "parallel-agent-workflow"
+    ],
+    "mentions": [
+      "Claude Code",
+      "parallel sessions",
+      "Boris Cherny",
+      "context management"
+    ],
+    "summary": "A recap of Thariq Shihipar's Claude Code workshop. Useful for workflow signals, but treat as secondary unless backed by primary links.",
+    "takeaways": [
+      "Parallel agent sessions are a recurring workflow pattern among Claude Code power users.",
+      "Session/context management is a practical skill, not a side issue."
+    ],
+    "claims": [
+      "Keep Thariq-derived workflow claims marked medium confidence unless primary Anthropic sources support them."
+    ]
+  },
+  {
+    "id": "thariq-code-with-claude",
+    "slug": "thariq-code-with-claude",
+    "title": "Code with Claude session: How we Claude Code",
+    "type": "talk",
+    "author": "Anthropic / Thariq Shihipar",
+    "url": "https://claude.com/code-with-claude/session/sf-ext-how-we-claude-code",
+    "published": "2025",
+    "confidence": "High",
+    "relatedPeople": [
+      "thariq-shihipar"
+    ],
+    "relatedTopics": [
+      "claude-code-and-codex-workflows",
+      "parallel-agent-workflow"
+    ],
+    "mentions": [
+      "Claude Code",
+      "workflow",
+      "verification",
+      "context"
+    ],
+    "summary": "Official Claude event session page associated with Thariq and Claude Code workflow practice.",
+    "takeaways": [
+      "Use official event/session pages to validate community workflow recaps.",
+      "Claude Code practice is best learned through concrete workflow examples."
+    ],
+    "claims": [
+      "Prefer official Claude sources when encoding Claude Code workflow rules."
+    ]
+  },
+  {
+    "id": "anthropic-teams-claude-code",
+    "slug": "anthropic-teams-claude-code",
+    "title": "How teams use Claude Code",
+    "type": "pdf",
+    "author": "Anthropic",
+    "url": "https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf",
+    "published": "2025",
+    "confidence": "High",
+    "relatedPeople": [
+      "thariq-shihipar"
+    ],
+    "relatedTopics": [
+      "claude-code-and-codex-workflows",
+      "parallel-agent-workflow"
+    ],
+    "mentions": [
+      "Claude Code",
+      "team workflows",
+      "context",
+      "verification"
+    ],
+    "summary": "Anthropic PDF describing team workflows around Claude Code.",
+    "takeaways": [
+      "Team usage patterns can inform a solo agent-manager routine.",
+      "Context, review, and workflow integration are recurring themes."
+    ],
+    "claims": [
+      "Adapt team Claude Code practices into a lightweight solo operating cadence."
+    ]
+  },
+  {
+    "id": "claude-code-docs",
+    "slug": "anthropic-claude-code-overview",
+    "title": "Claude Code overview",
+    "type": "docs",
+    "author": "Anthropic",
+    "url": "https://docs.anthropic.com/en/docs/claude-code/overview",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "thariq-shihipar"
+    ],
+    "relatedTopics": [
+      "claude-code-and-codex-workflows",
+      "mcp-and-agent-tools"
+    ],
+    "mentions": [
+      "Claude Code",
+      "terminal",
+      "MCP",
+      "GitHub"
+    ],
+    "summary": "Anthropic's official overview of Claude Code, including terminal-native coding assistance and tool integrations.",
+    "takeaways": [
+      "Official docs are the authority for tool behavior.",
+      "Treat community workflow advice as overlays on top of official capabilities."
+    ],
+    "claims": [
+      "Use official docs to verify tool features before encoding workflow assumptions."
+    ]
+  },
+  {
+    "id": "claude-subagents-docs",
+    "slug": "anthropic-claude-subagents",
+    "title": "Claude Code subagents",
+    "type": "docs",
+    "author": "Anthropic",
+    "url": "https://docs.anthropic.com/en/docs/claude-code/sub-agents",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "thariq-shihipar"
+    ],
+    "relatedTopics": [
+      "parallel-agent-workflow",
+      "mcp-and-agent-tools"
+    ],
+    "mentions": [
+      "subagents",
+      "context management",
+      "specialized assistants"
+    ],
+    "summary": "Anthropic explains custom subagents for task-specific workflows and context management in Claude Code.",
+    "takeaways": [
+      "Use subagents for bounded side tasks that would otherwise clutter the main context.",
+      "Reusable specialist agents deserve written definitions and narrow scope."
+    ],
+    "claims": [
+      "Parallelization is useful only when task boundaries are clear."
+    ]
+  },
+  {
+    "id": "anthropic-effective-agents",
+    "slug": "anthropic-building-effective-agents",
+    "title": "Building Effective Agents",
+    "type": "article",
+    "author": "Anthropic",
+    "url": "https://www.anthropic.com/research/building-effective-agents/",
+    "published": "2024-12",
+    "confidence": "High",
+    "relatedPeople": [
+      "thariq-shihipar"
+    ],
+    "relatedTopics": [
+      "agentic-engineering",
+      "mcp-and-agent-tools"
+    ],
+    "mentions": [
+      "workflows",
+      "agents",
+      "tools",
+      "routing",
+      "evaluator-optimizer"
+    ],
+    "summary": "Anthropic distinguishes workflows from agents and provides practical patterns for building agentic systems.",
+    "takeaways": [
+      "Prefer simple workflows when they solve the problem.",
+      "Add autonomy only where it buys flexibility and the risk is bounded.",
+      "Tool design and evaluation are central to useful agent systems."
+    ],
+    "claims": [
+      "Do not build agent swarms when a deterministic workflow is enough."
+    ]
+  },
+  {
+    "id": "openai-codex",
+    "slug": "openai-codex",
+    "title": "Codex",
+    "type": "product-page",
+    "author": "OpenAI",
+    "url": "https://openai.com/codex/",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "peter-steinberger"
+    ],
+    "relatedTopics": [
+      "claude-code-and-codex-workflows",
+      "agentic-engineering"
+    ],
+    "mentions": [
+      "Codex",
+      "coding agent",
+      "pull requests",
+      "refactors"
+    ],
+    "summary": "OpenAI describes Codex as a coding agent for building, reviewing, refactoring, and shipping software.",
+    "takeaways": [
+      "Treat Codex as an execution partner that still needs task design and review.",
+      "Use Codex for end-to-end slices with testable acceptance criteria."
+    ],
+    "claims": [
+      "The human role is task framing, supervision, and acceptance, not blind approval."
+    ]
+  },
+  {
+    "id": "openai-codex-app",
+    "slug": "openai-codex-app",
+    "title": "Introducing the Codex app",
+    "type": "article",
+    "author": "OpenAI",
+    "url": "https://openai.com/index/introducing-the-codex-app",
+    "published": "2026-02",
+    "confidence": "High",
+    "relatedPeople": [
+      "peter-steinberger"
+    ],
+    "relatedTopics": [
+      "parallel-agent-workflow",
+      "claude-code-and-codex-workflows"
+    ],
+    "mentions": [
+      "Codex app",
+      "coordinated teams of agents",
+      "skills",
+      "desktop"
+    ],
+    "summary": "OpenAI positions the Codex app as a way to supervise one or many coding agents across the software lifecycle.",
+    "takeaways": [
+      "Multi-agent supervision is becoming a first-class product interface.",
+      "Skills and local environment setup are part of agent reliability."
+    ],
+    "claims": [
+      "Agent management is becoming a developer role, not a novelty."
+    ]
+  },
+  {
+    "id": "jiayuan-github",
+    "slug": "jiayuan-github",
+    "title": "Jiayuan Zhang GitHub profile",
+    "type": "repo",
+    "author": "Jiayuan Zhang",
+    "url": "https://github.com/forrestchang",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "jiayuan-zhang"
+    ],
+    "relatedTopics": [
+      "parallel-agent-workflow",
+      "agentic-engineering"
+    ],
+    "mentions": [
+      "Multica",
+      "AI-native builder",
+      "human-agent engineering teams",
+      "Andrej Karpathy skills"
+    ],
+    "summary": "Jiayuan's GitHub profile describes Multica and open-source work around managing AI coding agents as team members.",
+    "takeaways": [
+      "Agent management can become product infrastructure.",
+      "A one-person company may need lightweight team-management patterns even when teammates are agents."
+    ],
+    "claims": [
+      "Track Jiayuan as a high-signal but still emerging source; verify claims through repos and primary writing."
+    ]
+  },
+  {
+    "id": "multica-github",
+    "slug": "multica-github",
+    "title": "Multica GitHub repository",
+    "type": "repo",
+    "author": "Jiayuan Zhang / Multica",
+    "url": "https://github.com/multica-ai/multica",
+    "published": "ongoing",
+    "confidence": "Medium",
+    "relatedPeople": [
+      "jiayuan-zhang"
+    ],
+    "relatedTopics": [
+      "parallel-agent-workflow",
+      "mcp-and-agent-tools"
+    ],
+    "mentions": [
+      "managed agents",
+      "human-agent teams",
+      "coding agents"
+    ],
+    "summary": "Multica is presented as an open-source platform for assigning work to coding agents and tracking progress.",
+    "takeaways": [
+      "The agent-manager metaphor benefits from task assignment, progress reporting, and memory.",
+      "Open-source agent orchestration tools are worth watching but should be evaluated through actual workflow fit."
+    ],
+    "claims": [
+      "Do not adopt orchestration because it looks powerful; test whether it improves your own cycle time."
+    ]
+  },
+  {
+    "id": "multica-docs",
+    "slug": "multica-docs",
+    "title": "Multica documentation",
+    "type": "docs",
+    "author": "Multica",
+    "url": "https://multica.ai/docs",
+    "published": "ongoing",
+    "confidence": "Medium",
+    "relatedPeople": [
+      "jiayuan-zhang"
+    ],
+    "relatedTopics": [
+      "parallel-agent-workflow",
+      "mcp-and-agent-tools"
+    ],
+    "mentions": [
+      "managed agents",
+      "tasks",
+      "status",
+      "human-agent engineering teams"
+    ],
+    "summary": "Documentation for Multica, a tool for managing AI coding agents.",
+    "takeaways": [
+      "Agent management benefits from explicit task state, comments, and progress reporting.",
+      "Product-positioning claims still need real workflow evaluation."
+    ],
+    "claims": [
+      "Use Multica as a signal for emerging agent-management patterns, not proof that any orchestration layer is required."
+    ]
+  },
+  {
+    "id": "hamel-evals",
+    "slug": "hamel-evals",
+    "title": "Hamel Husain blog",
+    "type": "site",
+    "author": "Hamel Husain",
+    "url": "https://hamel.dev/",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "hamel-husain"
+    ],
+    "relatedTopics": [
+      "evals-observability-feedback-loops"
+    ],
+    "mentions": [
+      "evals",
+      "AI product debugging",
+      "Shreya Shankar",
+      "Inspect AI"
+    ],
+    "summary": "Hamel Husain writes extensively about LLM evals, AI product debugging, and applied AI engineering.",
+    "takeaways": [
+      "Evals should come from product-specific failure analysis, not generic benchmark worship.",
+      "Error analysis is the starting point for useful evals."
+    ],
+    "claims": [
+      "Candidate for future promotion if evals become a dedicated learning branch."
+    ]
+  },
+  {
+    "id": "shreya-hamel-evals",
+    "slug": "shreya-hamel-evals-course",
+    "title": "AI Evals for Engineers and PMs",
+    "type": "course",
+    "author": "Hamel Husain and Shreya Shankar",
+    "url": "https://maven.com/parlance-labs/evals",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "hamel-husain",
+      "shreya-shankar"
+    ],
+    "relatedTopics": [
+      "evals-observability-feedback-loops"
+    ],
+    "mentions": [
+      "Shreya Shankar",
+      "Hamel Husain",
+      "product-specific evals"
+    ],
+    "summary": "Course page for practical AI evals by Hamel Husain and Shreya Shankar.",
+    "takeaways": [
+      "Evals are a product practice, not just a research artifact.",
+      "PM and engineering perspectives both matter for deciding what to measure."
+    ],
+    "claims": [
+      "Hamel and Shreya are strong candidates for the candidate queue, not automatic full mentor pages yet."
+    ]
+  },
+  {
+    "id": "eugene-yan",
+    "slug": "eugene-yan",
+    "title": "Eugene Yan writing",
+    "type": "site",
+    "author": "Eugene Yan",
+    "url": "https://eugeneyan.com/",
+    "published": "ongoing",
+    "confidence": "High",
+    "relatedPeople": [
+      "eugene-yan"
+    ],
+    "relatedTopics": [
+      "evals-observability-feedback-loops",
+      "ai-native-ceo-operating-system"
+    ],
+    "mentions": [
+      "LLM evals",
+      "production AI",
+      "product evals",
+      "AI workflows"
+    ],
+    "summary": "Eugene Yan writes production-shaped essays about ML, LLMs, evals, leadership, and engineering practice.",
+    "takeaways": [
+      "Production AI needs process, evaluation, and product-fit thinking.",
+      "LLM-as-judge does not replace product judgment."
+    ],
+    "claims": [
+      "Candidate for future promotion if production LLM systems become a major branch."
+    ]
+  },
+  {
+    "id": "chip-huyen-ai-engineering",
+    "slug": "chip-huyen-ai-engineering",
+    "title": "AI Engineering",
+    "type": "book",
+    "author": "Chip Huyen",
+    "url": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/",
+    "published": "2024-12",
+    "confidence": "High",
+    "relatedPeople": [
+      "chip-huyen"
+    ],
+    "relatedTopics": [
+      "evals-observability-feedback-loops",
+      "mcp-and-agent-tools"
+    ],
+    "mentions": [
+      "AI engineering",
+      "foundation models",
+      "evaluation",
+      "AI stack"
+    ],
+    "summary": "Chip Huyen's book covers building applications with foundation models, including evaluation and the AI engineering stack.",
+    "takeaways": [
+      "A solo founder using AI should understand the AI app stack, not just prompting.",
+      "Evaluation and maintenance are first-class parts of AI applications."
+    ],
+    "claims": [
+      "Candidate for future promotion if AI engineering fundamentals become a learning track."
+    ]
+  }
+]

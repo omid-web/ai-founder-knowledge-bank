@@ -1601,7 +1601,9 @@
       "url": "https://hamel.dev/",
       "published": "ongoing",
       "confidence": "High",
-      "relatedPeople": [],
+      "relatedPeople": [
+        "hamel-husain"
+      ],
       "relatedTopics": [
         "evals-observability-feedback-loops"
       ],
@@ -1629,7 +1631,10 @@
       "url": "https://maven.com/parlance-labs/evals",
       "published": "ongoing",
       "confidence": "High",
-      "relatedPeople": [],
+      "relatedPeople": [
+        "hamel-husain",
+        "shreya-shankar"
+      ],
       "relatedTopics": [
         "evals-observability-feedback-loops"
       ],
@@ -1656,7 +1661,9 @@
       "url": "https://eugeneyan.com/",
       "published": "ongoing",
       "confidence": "High",
-      "relatedPeople": [],
+      "relatedPeople": [
+        "eugene-yan"
+      ],
       "relatedTopics": [
         "evals-observability-feedback-loops",
         "ai-native-ceo-operating-system"
@@ -1685,7 +1692,9 @@
       "url": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/",
       "published": "2024-12",
       "confidence": "High",
-      "relatedPeople": [],
+      "relatedPeople": [
+        "chip-huyen"
+      ],
       "relatedTopics": [
         "evals-observability-feedback-loops",
         "mcp-and-agent-tools"

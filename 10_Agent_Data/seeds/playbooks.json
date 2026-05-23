@@ -1,0 +1,289 @@
+[
+  {
+    "slug": "daily-agent-manager-routine",
+    "title": "Daily Agent Manager Routine",
+    "confidence": "High",
+    "tags": [
+      "daily",
+      "agents",
+      "management"
+    ],
+    "sourceIds": [
+      "mitchell-ai-adoption",
+      "steipete-just-talk",
+      "simon-agentic-patterns"
+    ],
+    "steps": [
+      "Pick one human deep-work task and one to three agent-safe tasks.",
+      "For each agent task, write goal, context, acceptance criteria, files, risks, and verification.",
+      "Start agents only when their work does not block your immediate next step.",
+      "Check agents at planned breaks, not every notification.",
+      "Accept, revise, or reject work based on evidence: diff, tests, browser, source links, or demo.",
+      "End the day by creating one warm-start agent task for tomorrow."
+    ],
+    "checklist": [
+      "Task has an owner: human or agent.",
+      "Blast radius is known.",
+      "Verification command or manual check is defined.",
+      "Result is logged in weekly dashboard."
+    ]
+  },
+  {
+    "slug": "weekly-founder-review",
+    "title": "Weekly Founder Review",
+    "confidence": "High",
+    "tags": [
+      "weekly",
+      "ceo",
+      "review"
+    ],
+    "sourceIds": [
+      "shopify-ai-playground",
+      "levelsio-blog",
+      "andrew-ng-official"
+    ],
+    "steps": [
+      "Review shipped artifacts, not intentions.",
+      "Measure agent leverage: accepted changes, rejected changes, lessons learned, time saved.",
+      "Review customer/distribution work: conversations, launches, posts, revenue signals.",
+      "Review engineering quality: tests, refactors, incidents, slow points.",
+      "Pick next week's one product bet, one learning bet, and one system improvement."
+    ],
+    "checklist": [
+      "What shipped?",
+      "What did customers or users do?",
+      "Where did agents help?",
+      "Where did agents create cleanup work?",
+      "What gets cut next week?"
+    ]
+  },
+  {
+    "slug": "planning-before-coding",
+    "title": "Planning Before Coding",
+    "confidence": "High",
+    "tags": [
+      "planning",
+      "scope",
+      "agents"
+    ],
+    "sourceIds": [
+      "mitchell-large-projects",
+      "simon-agentic-patterns",
+      "steipete-just-talk"
+    ],
+    "steps": [
+      "Describe the outcome in user-visible terms.",
+      "Define constraints and non-goals.",
+      "Break work into demo-shaped slices.",
+      "Ask for options when the blast radius is unclear.",
+      "Choose verification before implementation.",
+      "Only then start coding or delegation."
+    ],
+    "checklist": [
+      "Outcome is concrete.",
+      "Dependencies are known.",
+      "Files likely touched are listed.",
+      "Tests or Browser checks are defined.",
+      "Rollback path exists."
+    ]
+  },
+  {
+    "slug": "parallel-agent-workflow",
+    "title": "Parallel Agent Workflow",
+    "confidence": "High",
+    "tags": [
+      "parallel",
+      "agents",
+      "delegation"
+    ],
+    "sourceIds": [
+      "steipete-just-talk",
+      "claude-subagents-docs",
+      "openai-codex-app",
+      "jiayuan-github"
+    ],
+    "steps": [
+      "Split work by disjoint files or independent research questions.",
+      "Give each agent a narrow scope and explicit output format.",
+      "Avoid delegating the immediate blocking task.",
+      "Keep a visible board of active, waiting, review, and done.",
+      "Integrate one result at a time.",
+      "Record collisions and improve future scoping."
+    ],
+    "checklist": [
+      "No overlapping write sets unless intentional.",
+      "Each task has verification.",
+      "Agent reports are short and source-backed.",
+      "Human reviews all external effects."
+    ]
+  },
+  {
+    "slug": "ai-code-review-checklist",
+    "title": "AI Code Review Checklist",
+    "confidence": "High",
+    "tags": [
+      "review",
+      "quality",
+      "agents"
+    ],
+    "sourceIds": [
+      "simon-vibe-coding",
+      "matt-typescript-ai-era",
+      "mitchell-ai-adoption"
+    ],
+    "steps": [
+      "Read the diff before trusting the summary.",
+      "Confirm the change matches the original goal.",
+      "Run relevant tests and type checks.",
+      "Look for broad casts, deleted tests, skipped errors, and hidden TODOs.",
+      "Check security, data exposure, permissions, and user-visible regressions.",
+      "Ask the agent to explain tricky code; reject what you cannot explain."
+    ],
+    "checklist": [
+      "Can I explain this?",
+      "Did tests prove the requested behavior?",
+      "Did the agent remove constraints?",
+      "Is the blast radius acceptable?",
+      "Does the user-facing workflow still work?"
+    ]
+  },
+  {
+    "slug": "shipping-small-products",
+    "title": "Shipping Small Products",
+    "confidence": "High",
+    "tags": [
+      "shipping",
+      "product",
+      "solo"
+    ],
+    "sourceIds": [
+      "levelsio-blog",
+      "mitchell-large-projects",
+      "theo-github"
+    ],
+    "steps": [
+      "Pick a narrow pain with a reachable buyer.",
+      "Write the landing page and distribution plan before coding.",
+      "Build the smallest demo that proves the promise.",
+      "Use agents to create variants, tests, and polish.",
+      "Launch to a specific channel.",
+      "Record user response and decide: kill, iterate, or double down."
+    ],
+    "checklist": [
+      "Buyer is named.",
+      "Problem is specific.",
+      "Demo is usable.",
+      "Distribution channel is chosen.",
+      "Success metric is defined."
+    ]
+  },
+  {
+    "slug": "customer-discovery-with-ai",
+    "title": "Customer Discovery With AI",
+    "confidence": "Medium",
+    "tags": [
+      "customers",
+      "research",
+      "crm"
+    ],
+    "sourceIds": [
+      "andrew-ng-official",
+      "levelsio-blog",
+      "eugene-yan"
+    ],
+    "steps": [
+      "Write the target customer and workflow.",
+      "Use AI to draft interview questions, but do real conversations.",
+      "Summarize calls into pains, current workaround, frequency, and willingness to pay.",
+      "Extract repeated language into landing copy.",
+      "Turn objections into product experiments."
+    ],
+    "checklist": [
+      "Did they describe a recent real event?",
+      "What do they do today?",
+      "What does the problem cost?",
+      "Did they ask for a follow-up?"
+    ]
+  },
+  {
+    "slug": "build-in-public-system",
+    "title": "Build In Public System",
+    "confidence": "Medium",
+    "tags": [
+      "distribution",
+      "content",
+      "public"
+    ],
+    "sourceIds": [
+      "levelsio-blog",
+      "theo-site"
+    ],
+    "steps": [
+      "Post specific artifacts: demos, numbers, lessons, mistakes.",
+      "Avoid vague inspiration or tool hype.",
+      "Link public posts to product pages, repos, or waitlists.",
+      "Reuse one build note into short post, long note, and docs improvement.",
+      "Measure replies, signups, sales, and useful criticism."
+    ],
+    "checklist": [
+      "Artifact shown?",
+      "Lesson concrete?",
+      "Audience clear?",
+      "Next action linked?"
+    ]
+  },
+  {
+    "slug": "support-sales-ops-agents",
+    "title": "Support, Sales, And Ops Agents",
+    "confidence": "Medium",
+    "tags": [
+      "ops",
+      "support",
+      "sales"
+    ],
+    "sourceIds": [
+      "andrew-ng-official",
+      "anthropic-effective-agents"
+    ],
+    "steps": [
+      "Map the workflow and failure cost.",
+      "Start with draft assistance before autonomous action.",
+      "Log inputs, outputs, edits, and customer impact.",
+      "Create eval cases from real support/sales failures.",
+      "Add tool access only after the draft loop is reliable."
+    ],
+    "checklist": [
+      "Human approval where needed.",
+      "PII and secrets handled.",
+      "Escalation path exists.",
+      "Customer-facing tone reviewed."
+    ]
+  },
+  {
+    "slug": "candidate-promotion-workflow",
+    "title": "Candidate Promotion Workflow",
+    "confidence": "High",
+    "tags": [
+      "knowledge-bank",
+      "candidates",
+      "sources"
+    ],
+    "sourceIds": [
+      "simon-agentic-patterns"
+    ],
+    "steps": [
+      "Track every notable mention in mention-graph.json.",
+      "If a person/tool/topic appears in at least two high-quality sources, consider promotion.",
+      "If the evidence is thin, keep it in candidates-to-review.",
+      "Promoted pages must include \"Why this was added\" and mention evidence.",
+      "Update index.html so the promoted node is visible to a human."
+    ],
+    "checklist": [
+      "Mention evidence exists.",
+      "Sources are linked.",
+      "Confidence is marked.",
+      "Dashboard updated.",
+      "Browser verification passed."
+    ]
+  }
+]

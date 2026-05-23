@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "research-prompts",
+    "title": "Research Prompts",
+    "prompts": [
+      "Research [person/topic] using primary sources first. Return durable lessons, source links, confidence, candidate mentions, and what not to over-copy.",
+      "Find where [mentor] references other people, tools, repos, books, or papers. Update the mention graph and candidate queue without promoting weak evidence.",
+      "Compare these three sources and extract only claims that are supported by at least two of them."
+    ]
+  },
+  {
+    "slug": "planning-prompts",
+    "title": "Planning Prompts",
+    "prompts": [
+      "Before coding, turn this request into goal, constraints, non-goals, likely files, risks, acceptance criteria, and verification.",
+      "Give me three implementation options with different blast-radius profiles and recommend one.",
+      "Break this feature into demo-shaped slices that can each be verified."
+    ]
+  },
+  {
+    "slug": "code-review-prompts",
+    "title": "Code Review Prompts",
+    "prompts": [
+      "Review this diff for correctness, scope creep, security risk, missing tests, and places where the code is harder to explain than necessary.",
+      "Pretend this code was written by an AI agent. What would you verify before accepting it?",
+      "Find hidden broad casts, swallowed errors, deleted constraints, and test weakening."
+    ]
+  },
+  {
+    "slug": "product-strategy-prompts",
+    "title": "Product Strategy Prompts",
+    "prompts": [
+      "Cut this idea to a one-person MVP with one buyer, one painful workflow, one distribution channel, and one success metric.",
+      "List the riskiest assumptions in this product and design the fastest evidence-gathering experiments.",
+      "Write landing copy for this product before implementation; make the promise concrete and testable."
+    ]
+  },
+  {
+    "slug": "eval-prompts",
+    "title": "Eval Prompts",
+    "prompts": [
+      "Build a small eval set for this AI workflow from observed failures and expected outputs.",
+      "Turn these bug reports into regression evals with input, expected behavior, actual failure, and scoring rubric.",
+      "Design a human review rubric for this LLM output that maps to user value, not generic quality."
+    ]
+  },
+  {
+    "slug": "debugging-prompts",
+    "title": "Debugging Prompts",
+    "prompts": [
+      "Investigate this bug systematically. Produce hypotheses, evidence, experiments, and the smallest fix.",
+      "Do not edit yet. Read the relevant files and tell me what must be true for this failure to happen.",
+      "Create a reproduction path and verification command before fixing."
+    ]
+  },
+  {
+    "slug": "refactoring-prompts",
+    "title": "Refactoring Prompts",
+    "prompts": [
+      "Run a refactor pass for duplication, dead code, oversized files, unclear names, and missing tests. Propose changes before editing.",
+      "Split this file only where it reduces real complexity. Preserve behavior and add verification.",
+      "Make this TypeScript safer without cleverness: improve types, remove casts, and keep API behavior stable."
+    ]
+  },
+  {
+    "slug": "weekly-review-prompts",
+    "title": "Weekly Review Prompts",
+    "prompts": [
+      "Act as my AI-native CEO coach. Review this week across shipped work, customer proof, agent leverage, code quality, and next bets.",
+      "Find the highest-leverage workflow I should turn into a reusable agent prompt next week.",
+      "Review my rejected agent work and identify patterns in bad delegation."
+    ]
+  },
+  {
+    "slug": "knowledge-bank-maintenance-prompts",
+    "title": "Knowledge Bank Maintenance Prompts",
+    "prompts": [
+      "In AI-Founder-Knowledge-Bank, add a new person page for [PERSON]. Follow AGENTS.md and 08_Templates/person-template.md. Research primary sources where possible. Update source notes, source-index.md, mention-graph.json, candidates-to-review.md if needed, related pages, index.html, and CHANGELOG.md. Use Browser to verify index.html remains human-friendly.",
+      "In AI-Founder-Knowledge-Bank, ingest this reference: [URL or pasted text]. Create a source note, extract durable lessons into relevant pages, update mention graph/candidates/source index/index.html/changelog, and use Browser to verify the dashboard.",
+      "In AI-Founder-Knowledge-Bank, review candidate [PERSON/TOPIC/TOOL] for promotion. Promote only if repeated references, a clear gap, or explicit maintainer direction justify it. Include why it was added and mention evidence."
+    ]
+  }
+]

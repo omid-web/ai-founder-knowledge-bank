@@ -1,0 +1,872 @@
+[
+  {
+    "slug": "tobias-lutke",
+    "name": "Tobias Lutke",
+    "handle": "@tobi",
+    "role": "AI-native CEO and operating-system mentor",
+    "confidence": "High",
+    "tags": [
+      "ceo",
+      "ai-adoption",
+      "operations"
+    ],
+    "sourceIds": [
+      "shopify-ai-playground",
+      "tobi-compass-metric",
+      "tobi-human-excellence",
+      "tobi-apprentice-programmer"
+    ],
+    "topics": [
+      "ai-native-ceo-operating-system",
+      "agentic-engineering"
+    ],
+    "playbooks": [
+      "weekly-founder-review",
+      "daily-agent-manager-routine"
+    ],
+    "tools": [
+      "automation-stack"
+    ],
+    "whyAdded": "Core mentor named by the builder. Useful for the CEO/operator expectation that AI leverage becomes normal work, not a side experiment.",
+    "referredBy": "User-curated seed list.",
+    "matters": "Tobi is a useful lens for company-level pressure: if AI changes the production function, leadership has to update expectations, hiring assumptions, and review rituals.",
+    "lessons": [
+      "Make AI usage a baseline expectation, then inspect the actual work product.",
+      "Resource requests should include evidence that an AI-first workflow was tried first.",
+      "The CEO job is to change default behavior, not just endorse tools."
+    ],
+    "practices": [
+      "Before asking for help or headcount, run an AI-assisted attempt and capture what failed.",
+      "Add an AI leverage section to weekly reviews: tasks delegated, time saved, errors caught, workflows improved.",
+      "Maintain a personal \"AI can/cannot do this yet\" ledger."
+    ],
+    "avoid": [
+      "Do not turn AI adoption into theater; require demos and measured outcomes.",
+      "Do not use AI as an excuse to skip mentoring, product judgment, or quality control."
+    ],
+    "exercises": [
+      "Take one recurring business-workflow task and produce an AI-first attempt, failure notes, and a better reusable prompt.",
+      "Write a one-page AI usage policy for yourself as a solo company.",
+      "Create a weekly metric for agent leverage that measures accepted work, not generated tokens."
+    ],
+    "prompts": [
+      "Act as my COO. Audit this week's work and identify where I failed to try an AI-first workflow before spending human time.",
+      "Given this task list, rank items by AI-delegability, blast radius, expected review burden, and business value.",
+      "Draft a resource request that proves what I tried with agents, what failed, and what human help is still needed."
+    ],
+    "confidenceNotes": "Strong source for Shopify AI expectations; broader CEO lessons are inferred and should stay tied to operating rituals."
+  },
+  {
+    "slug": "pieter-levels",
+    "name": "Pieter Levels",
+    "handle": "@levelsio",
+    "role": "Solo product, distribution, and shipping mentor",
+    "confidence": "High",
+    "tags": [
+      "indie",
+      "shipping",
+      "distribution"
+    ],
+    "sourceIds": [
+      "levelsio-blog",
+      "levels-projects",
+      "levels-mvp",
+      "levels-validation",
+      "levels-diy"
+    ],
+    "topics": [
+      "solo-founder-product-distribution",
+      "shipping-small-products"
+    ],
+    "playbooks": [
+      "shipping-small-products",
+      "build-in-public-system"
+    ],
+    "tools": [
+      "automation-stack"
+    ],
+    "whyAdded": "Core mentor named by the builder. Useful for the one-person company pattern: small scope, public learning, revenue, and direct distribution.",
+    "referredBy": "User-curated seed list.",
+    "matters": "Levels is a counterweight to over-engineering: the product has to reach customers and make money.",
+    "lessons": [
+      "A small product with a clear buyer beats a polished platform with no distribution.",
+      "Public momentum can be a distribution channel if the work is concrete.",
+      "Use constraints: one person, few dependencies, fast shipping, direct revenue."
+    ],
+    "practices": [
+      "Keep a shipped-products list with URL, customer, revenue hypothesis, and next experiment.",
+      "Build one small product around a repeated pain you personally understand.",
+      "Publish concise build notes when they teach something real."
+    ],
+    "avoid": [
+      "Do not copy the lifestyle aesthetics without the distribution discipline.",
+      "Do not confuse public posting with customer development."
+    ],
+    "exercises": [
+      "List 10 business-workflow micro-products you could ship in one weekend.",
+      "Pick one and write the landing copy before coding.",
+      "Ask an agent to find the shortest path to a paid test, not the best architecture."
+    ],
+    "prompts": [
+      "Act as a skeptical indie founder. Cut this idea to a weekend MVP with a specific buyer and distribution path.",
+      "Turn this product idea into 5 small launch experiments I can run without a team.",
+      "Review this feature list and remove anything that does not help me get a user, proof, or payment."
+    ],
+    "confidenceNotes": "Good source for public project history; specific current tactics should be checked against recent posts before relying on them."
+  },
+  {
+    "slug": "andrew-ng",
+    "name": "Andrew Ng",
+    "handle": "@AndrewYNg",
+    "role": "Applied AI fundamentals and opportunity-selection mentor",
+    "confidence": "High",
+    "tags": [
+      "ai-fundamentals",
+      "education",
+      "applied-ai"
+    ],
+    "sourceIds": [
+      "andrew-ng-official",
+      "deeplearning-ai-about",
+      "andrew-ai-transformation-playbook",
+      "deeplearning-agentic-ai"
+    ],
+    "topics": [
+      "ai-native-ceo-operating-system",
+      "evals-observability-feedback-loops"
+    ],
+    "playbooks": [
+      "customer-discovery-with-ai",
+      "weekly-founder-review"
+    ],
+    "tools": [
+      "evals-and-test-harnesses"
+    ],
+    "whyAdded": "Core mentor named by the builder. Useful for grounding AI ambition in fundamentals, education loops, and applied use cases.",
+    "referredBy": "User-curated seed list.",
+    "matters": "Andrew Ng is a lens for disciplined applied AI: learn the fundamentals, pick valuable workflows, and build around data and feedback.",
+    "lessons": [
+      "AI value comes from applying capabilities to specific workflows.",
+      "Education compounds when it is tied to practical projects.",
+      "Strong AI builders understand enough of the stack to evaluate claims and failures."
+    ],
+    "practices": [
+      "Maintain a fundamentals backlog: evals, retrieval, prompting, tool use, data quality, model limits.",
+      "For each AI product idea, define the workflow, user, data, risk, and evaluation signal.",
+      "Turn every AI concept into a small applied prototype."
+    ],
+    "avoid": [
+      "Do not collect courses without shipping projects.",
+      "Do not overfit to model hype instead of user workflow value."
+    ],
+    "exercises": [
+      "Pick one business workflow and write the AI transformation map: input, output, user, failure cost, evaluation.",
+      "Build a toy eval set for an AI assistant task you delegate often.",
+      "Explain one AI concept in your own words and connect it to a product decision."
+    ],
+    "prompts": [
+      "Act as an applied AI advisor. Identify which parts of this workflow are good AI candidates and which are not.",
+      "Turn this AI idea into an evaluation plan with examples, failure modes, and acceptance criteria.",
+      "Teach me the minimum AI concept I need to understand before building this feature."
+    ],
+    "confidenceNotes": "Primary sources establish his institutions and applied AI focus; specific product advice should cite the exact article/course used."
+  },
+  {
+    "slug": "matt-pocock",
+    "name": "Matt Pocock",
+    "handle": "@mattpocockuk",
+    "role": "TypeScript clarity, contracts, and code-quality mentor",
+    "confidence": "High",
+    "tags": [
+      "typescript",
+      "code-quality",
+      "contracts"
+    ],
+    "sourceIds": [
+      "matt-typescript-ai-era",
+      "matt-total-typescript",
+      "matt-github",
+      "matt-ts-reset"
+    ],
+    "topics": [
+      "typescript-ai-stack",
+      "engineering-taste-code-quality"
+    ],
+    "playbooks": [
+      "ai-code-review-checklist",
+      "refactoring-prompts"
+    ],
+    "tools": [
+      "typescript-ai-stack"
+    ],
+    "whyAdded": "Core mentor named by the builder and GitHub user requested. Useful for making TypeScript an agent guardrail.",
+    "referredBy": "User-curated seed list.",
+    "matters": "Matt is a practical mentor for making TypeScript readable, teachable, and strict enough to guide agents.",
+    "lessons": [
+      "Types are executable specifications for agents and humans.",
+      "Good TypeScript narrows ambiguity before the model writes code.",
+      "Readable contracts reduce review burden."
+    ],
+    "practices": [
+      "Require agents to preserve or improve type coverage when changing TS code.",
+      "Use branded types, discriminated unions, and explicit interfaces where domain mistakes are expensive.",
+      "Treat type errors as agent feedback, not busywork."
+    ],
+    "avoid": [
+      "Do not write clever type puzzles that future agents and teammates cannot understand.",
+      "Do not let agents silence TypeScript with broad casts."
+    ],
+    "exercises": [
+      "Refactor one loose business-domain object into explicit TypeScript types.",
+      "Ask an agent to explain every `any`, assertion, and broad cast in a file.",
+      "Create a TS review checklist for AI-generated pull requests."
+    ],
+    "prompts": [
+      "Review this TypeScript for places where stronger types would prevent AI-generated bugs.",
+      "Refactor this API boundary into explicit types without adding cleverness.",
+      "Explain the type-level intent of this file and flag casts that hide real uncertainty."
+    ],
+    "confidenceNotes": "Strong primary source for TypeScript-in-AI-era claim; use article-specific claims rather than generalized TypeScript ideology."
+  },
+  {
+    "slug": "peter-steinberger",
+    "name": "Peter Steinberger",
+    "handle": "@steipete",
+    "role": "Agentic engineering workflow and high-throughput supervision mentor",
+    "confidence": "High",
+    "tags": [
+      "codex",
+      "claude-code",
+      "parallel-agents",
+      "workflow"
+    ],
+    "sourceIds": [
+      "steipete-just-talk",
+      "steipete-workflow",
+      "steipete-openclaw",
+      "steipete-agent-rules"
+    ],
+    "topics": [
+      "agentic-engineering",
+      "parallel-agent-workflow",
+      "mcp-and-agent-tools"
+    ],
+    "playbooks": [
+      "parallel-agent-workflow",
+      "daily-agent-manager-routine",
+      "ai-code-review-checklist"
+    ],
+    "tools": [
+      "claude-code-and-codex-workflows",
+      "mcp-and-agent-tools",
+      "llm-cli-tools"
+    ],
+    "whyAdded": "Core mentor named by the builder and GitHub user requested. Useful for practical high-throughput AI coding workflows.",
+    "referredBy": "User-curated seed list.",
+    "matters": "Steipete is a high-signal field report for running many agents, keeping blast radius visible, and avoiding overbuilt harnesses.",
+    "lessons": [
+      "Parallelism is valuable only when each task has a manageable blast radius.",
+      "Visible terminals, CLIs, tests, and browser loops can beat opaque orchestration.",
+      "Refactoring and maintenance are part of the agent workflow, not afterthoughts."
+    ],
+    "practices": [
+      "Tag each delegated task with expected file count, risk, and verification command.",
+      "Run refactor passes for duplication, dead code, large files, slow tests, and stale docs.",
+      "Use screenshots and browser feedback when UI context matters."
+    ],
+    "avoid": [
+      "Do not copy extreme parallelism before your review discipline can handle it.",
+      "Do not let agent output volume become a substitute for product judgment."
+    ],
+    "exercises": [
+      "Run two small agents on disjoint tasks and review whether parallelism helped or hurt.",
+      "Create a blast-radius rubric for your current repo.",
+      "Have an agent produce a refactor-only PR with tests and a tight file list."
+    ],
+    "prompts": [
+      "Estimate the blast radius of this change before editing: files touched, risk, tests, rollback plan.",
+      "Run a maintenance pass for duplication, dead code, oversized files, and missing tests. Propose edits before changing files.",
+      "Give me three implementation options with different blast-radius profiles."
+    ],
+    "confidenceNotes": "Primary blog posts are strong but opinionated. Treat tool preferences as time-sensitive snapshots."
+  },
+  {
+    "slug": "thariq-shihipar",
+    "name": "Thariq Shihipar",
+    "handle": "@trq212",
+    "role": "Claude Code and agent action-space mentor",
+    "confidence": "Medium",
+    "tags": [
+      "claude-code",
+      "agent-tools",
+      "context"
+    ],
+    "sourceIds": [
+      "thariq-site",
+      "thariq-agent-design",
+      "thariq-workshop-recap",
+      "thariq-code-with-claude",
+      "anthropic-teams-claude-code",
+      "claude-code-docs",
+      "claude-subagents-docs"
+    ],
+    "topics": [
+      "agentic-engineering",
+      "parallel-agent-workflow",
+      "mcp-and-agent-tools"
+    ],
+    "playbooks": [
+      "parallel-agent-workflow",
+      "planning-before-coding"
+    ],
+    "tools": [
+      "claude-code-and-codex-workflows",
+      "mcp-and-agent-tools"
+    ],
+    "whyAdded": "Core mentor named by the builder. Useful for understanding Claude Code from someone associated with its design and public workflow guidance.",
+    "referredBy": "User-curated seed list.",
+    "matters": "Thariq is a mentor for thinking like an agent designer: action space, context, tools, and feedback loops.",
+    "lessons": [
+      "Agent capability is shaped by the action space you expose.",
+      "Tool design should be discovered empirically through model behavior.",
+      "Context management is a real engineering discipline."
+    ],
+    "practices": [
+      "When an agent fails, inspect whether the tool/action space was wrong before blaming the model.",
+      "Prefer progressive discovery over dumping every tool and doc into context.",
+      "Use subagents for bounded research or log-heavy side work."
+    ],
+    "avoid": [
+      "Do not assume every X thread is stable documentation.",
+      "Do not create too many tools before observing what the model needs."
+    ],
+    "exercises": [
+      "Take one failed agent task and classify the failure: context, tool, instruction, model, or verification.",
+      "Design a minimal tool/action set for a business support-agent workflow.",
+      "Compare one subagent workflow against a single-context workflow."
+    ],
+    "prompts": [
+      "Analyze this failed agent run as an action-space design problem.",
+      "Given this task, what tools and context should the agent see initially, and what should be discovered later?",
+      "Design a subagent for this bounded side task with narrow inputs and a compact report format."
+    ],
+    "confidenceNotes": "Some sources are X/community recaps. Keep Thariq-specific claims medium confidence unless backed by official Anthropic docs."
+  },
+  {
+    "slug": "andrej-karpathy",
+    "name": "Andrej Karpathy",
+    "handle": "@karpathy",
+    "role": "Software paradigm and AI-native programming mentor",
+    "confidence": "High",
+    "tags": [
+      "software-2",
+      "software-3",
+      "llms",
+      "programming-models"
+    ],
+    "sourceIds": [
+      "karpathy-software-2",
+      "karpathy-software-changing",
+      "karpathy-zero-to-hero",
+      "karpathy-micrograd",
+      "karpathy-nanogpt",
+      "karpathy-llm-c"
+    ],
+    "topics": [
+      "agentic-engineering",
+      "context-engineering",
+      "prompt-to-product"
+    ],
+    "playbooks": [
+      "planning-before-coding",
+      "eval-prompts"
+    ],
+    "tools": [
+      "coding-agents",
+      "evals-and-test-harnesses"
+    ],
+    "whyAdded": "Core mentor named by the builder. Useful for reframing what programming means when models, data, prompts, and agents become part of the system.",
+    "referredBy": "User-curated seed list.",
+    "matters": "Karpathy gives the highest-level mental model: AI changes the substrate and interface of software, not just the autocomplete tool.",
+    "lessons": [
+      "Software is increasingly specified through data, prompts, examples, and context.",
+      "Natural language is becoming an interface to computation, but verification remains hard.",
+      "The builder role shifts toward intent, context, taste, and evaluation."
+    ],
+    "practices": [
+      "Write task specs as executable context: examples, constraints, tests, and failure modes.",
+      "Separate prototype vibe coding from production agentic engineering.",
+      "Study model limitations through experiments, not only commentary."
+    ],
+    "avoid": [
+      "Do not treat broad paradigm language as a substitute for concrete workflow design.",
+      "Do not believe agent autonomy is solved just because demos are impressive."
+    ],
+    "exercises": [
+      "Rewrite one coding task as Software 3.0 context: goal, examples, tests, constraints, review rubric.",
+      "Build a throwaway prototype with AI, then write what would be required for production.",
+      "Create a model-failure notebook for patterns you personally observe."
+    ],
+    "prompts": [
+      "Turn this vague product idea into agent-readable context with examples, constraints, and tests.",
+      "Analyze this workflow as Software 1.0, 2.0, and 3.0 components.",
+      "List the human judgment bottlenecks that remain after agents write the code."
+    ],
+    "confidenceNotes": "Software 2.0 source is primary. Software 3.0 talk source should be rechecked if relying on exact phrasing."
+  },
+  {
+    "slug": "jiayuan-zhang",
+    "name": "Jiayuan Zhang",
+    "handle": "@jiayuan_jy",
+    "role": "Human-agent team and agency mentor",
+    "confidence": "Medium",
+    "tags": [
+      "agent-management",
+      "human-agent-teams",
+      "agency"
+    ],
+    "sourceIds": [
+      "jiayuan-github",
+      "multica-github",
+      "multica-docs"
+    ],
+    "topics": [
+      "parallel-agent-workflow",
+      "agentic-engineering"
+    ],
+    "playbooks": [
+      "parallel-agent-workflow",
+      "daily-agent-manager-routine"
+    ],
+    "tools": [
+      "coding-agents",
+      "automation-stack"
+    ],
+    "whyAdded": "Core mentor named by the builder. Useful for the emerging idea that agents can be managed like teammates with assignment, reporting, and compounding skills.",
+    "referredBy": "User-curated seed list.",
+    "matters": "Jiayuan is a lens for turning agent delegation into a durable management system rather than ad hoc prompting.",
+    "lessons": [
+      "Agent work needs assignment, progress visibility, and review.",
+      "Agency is a personal moat: the ability to turn intent into shipped artifacts quickly.",
+      "Human-agent teams need operating rituals, not only chat windows."
+    ],
+    "practices": [
+      "Maintain a queue of agent-ready tasks with owner, context, acceptance criteria, and review status.",
+      "Track which agents/prompts compound over time.",
+      "Use the candidate queue to separate promising tools from adopted tools."
+    ],
+    "avoid": [
+      "Do not assume an orchestration platform improves output before measuring your own workflow.",
+      "Do not let management abstractions hide code quality and product value."
+    ],
+    "exercises": [
+      "Turn your current task list into an agent-team board with statuses.",
+      "Run one task through assign, execute, report, review, and learn loops.",
+      "Write a postmortem for an agent task that failed."
+    ],
+    "prompts": [
+      "Act as my agent-team chief of staff. Convert this backlog into agent-ready tasks with acceptance criteria.",
+      "Review these agent reports and identify which work is ready, risky, or needs human intervention.",
+      "Create a reusable operating ritual for managing three coding agents without losing quality."
+    ],
+    "confidenceNotes": "Primary GitHub profile and repo are strong for project claims; broader philosophy should be sourced from primary writing when available."
+  },
+  {
+    "slug": "mitchell-hashimoto",
+    "name": "Mitchell Hashimoto",
+    "handle": "@mitchellh",
+    "role": "Engineering craft, harness, and adoption-discipline mentor",
+    "confidence": "High",
+    "tags": [
+      "engineering-craft",
+      "harnesses",
+      "ghostty",
+      "agents"
+    ],
+    "sourceIds": [
+      "mitchell-ai-adoption",
+      "mitchell-large-projects",
+      "mitchell-non-trivial-vibing"
+    ],
+    "topics": [
+      "engineering-taste-code-quality",
+      "agentic-engineering",
+      "evals-observability-feedback-loops"
+    ],
+    "playbooks": [
+      "planning-before-coding",
+      "ai-code-review-checklist",
+      "weekly-founder-review"
+    ],
+    "tools": [
+      "evals-and-test-harnesses",
+      "coding-agents"
+    ],
+    "whyAdded": "Core mentor named by the builder. Useful as the rigorous engineer who adopts AI through measured, real-codebase experiments.",
+    "referredBy": "User-curated seed list.",
+    "matters": "Mitchell is the antidote to sloppy AI adoption: reproduce your own standard, build harnesses, and keep demos/test feedback close.",
+    "lessons": [
+      "Do the work manually, then force an agent to reproduce it to learn the workflow.",
+      "Use end-of-day agents and slam-dunk tasks to build leverage without destroying focus.",
+      "Large technical projects need visible progress and frequent demos."
+    ],
+    "practices": [
+      "For each delegated task, define the harness that proves correctness.",
+      "Turn off distracting agent notifications; check agents at natural breaks.",
+      "Use tests and demos as motivation and verification."
+    ],
+    "avoid": [
+      "Do not delegate tasks that would atrophy skills you still need to develop.",
+      "Do not count generated code as progress until it passes a serious harness."
+    ],
+    "exercises": [
+      "Reproduce one of your own recent commits with an agent and compare quality.",
+      "Create an end-of-day agent task that gives you a warm start tomorrow.",
+      "Design a tiny demo slice for a bigger product idea."
+    ],
+    "prompts": [
+      "Recreate this manual change without seeing my solution. Match behavior and quality, then explain differences.",
+      "Design a verification harness for this agent task before implementation.",
+      "Break this large feature into demo-shaped slices with tests or visible proof for each slice."
+    ],
+    "confidenceNotes": "Strong primary writing. His workflow is intentionally personal; adapt the principles, not every setup detail."
+  },
+  {
+    "slug": "theo-browne",
+    "name": "Theo Browne",
+    "handle": "@theo",
+    "role": "Modern full-stack, productized tooling, and developer-audience mentor",
+    "confidence": "High",
+    "tags": [
+      "typescript",
+      "full-stack",
+      "content",
+      "ai-products"
+    ],
+    "sourceIds": [
+      "theo-site",
+      "theo-github",
+      "create-t3-app"
+    ],
+    "topics": [
+      "typescript-ai-stack",
+      "solo-founder-product-distribution",
+      "shipping-small-products"
+    ],
+    "playbooks": [
+      "shipping-small-products",
+      "build-in-public-system"
+    ],
+    "tools": [
+      "typescript-ai-stack",
+      "coding-agents"
+    ],
+    "whyAdded": "Core mentor named by the builder. Useful for combining web stack taste, open source, audience, and productized AI tooling.",
+    "referredBy": "User-curated seed list.",
+    "matters": "Theo is a lens for modern TypeScript defaults, fast product loops, and using public technical taste as distribution.",
+    "lessons": [
+      "Pick a stack that lets you ship fast without fighting the platform.",
+      "Open source and content can create trust before a product asks for money.",
+      "AI products still need strong UX and engineering defaults."
+    ],
+    "practices": [
+      "Default to a known TypeScript stack unless a different tool is clearly better.",
+      "Make small utilities public when they demonstrate taste or solve repeated problems.",
+      "Use content to explain decisions, not just announce launches."
+    ],
+    "avoid": [
+      "Do not copy hot-take cadence or tool hype without your own evidence.",
+      "Do not chase every full-stack trend while trying to build a business."
+    ],
+    "exercises": [
+      "Create a one-page stack decision record for your next solo product.",
+      "Turn one internal utility into a public GitHub repo with a clear README.",
+      "Write a technical post explaining a product tradeoff you made."
+    ],
+    "prompts": [
+      "Act as a pragmatic TypeScript founder. Choose the simplest stack for this product and justify every moving part.",
+      "Review this open-source README for whether it builds trust and helps adoption.",
+      "Find where my web app is over-engineered for a solo founder."
+    ],
+    "confidenceNotes": "Primary site and GitHub are strong; claims about specific video opinions should be sourced separately."
+  },
+  {
+    "slug": "simon-willison",
+    "name": "Simon Willison",
+    "handle": "GitHub: simonw",
+    "role": "LLM pragmatism, security, tools, and responsible agentic engineering mentor",
+    "confidence": "High",
+    "tags": [
+      "llms",
+      "agentic-engineering",
+      "security",
+      "cli"
+    ],
+    "sourceIds": [
+      "simon-agentic-patterns",
+      "simon-vibe-coding",
+      "simon-llm-cli",
+      "simon-llm-docs",
+      "simon-lethal-trifecta"
+    ],
+    "topics": [
+      "agentic-engineering",
+      "security-risk-ai-agents",
+      "llm-cli-tools",
+      "evals-observability-feedback-loops"
+    ],
+    "playbooks": [
+      "ai-code-review-checklist",
+      "daily-agent-manager-routine"
+    ],
+    "tools": [
+      "llm-cli-tools",
+      "evals-and-test-harnesses"
+    ],
+    "whyAdded": "Core mentor named by the builder and GitHub user requested. Useful for sober LLM practice, prompt injection awareness, and practical tools.",
+    "referredBy": "User-curated seed list.",
+    "matters": "Simon is a mentor for practical skepticism: build tools, test claims, own generated code, and treat security seriously.",
+    "lessons": [
+      "Agentic engineering is professional software engineering with agents, not abdication.",
+      "Generated code must be reviewed, tested, understood, and explainable.",
+      "CLI tools and small experiments make model behavior observable."
+    ],
+    "practices": [
+      "Never commit AI code you cannot explain.",
+      "Use red/green tests and manual browser checks to guide coding agents.",
+      "Keep prompt injection and tool risk in scope for any LLM-connected workflow."
+    ],
+    "avoid": [
+      "Do not call every AI-assisted workflow vibe coding.",
+      "Do not let prototypes silently become production systems."
+    ],
+    "exercises": [
+      "Write a code-review checklist specifically for AI-generated changes.",
+      "Build one tiny LLM CLI experiment and write down what failed.",
+      "Add a prompt-injection risk note to one AI feature idea."
+    ],
+    "prompts": [
+      "Review this AI-generated code and tell me whether I can explain, test, and safely own it.",
+      "Design red/green tests that will help a coding agent converge on this behavior.",
+      "Audit this LLM feature for prompt injection, tool misuse, and data exposure risks."
+    ],
+    "confidenceNotes": "Strong primary sources. Simon updates his views frequently, so current agentic-engineering guidance should be refreshed periodically."
+  },
+  {
+    "slug": "hamel-husain",
+    "name": "Hamel Husain",
+    "handle": "@HamelHusain",
+    "role": "AI evals, product debugging, and LLM quality mentor",
+    "confidence": "High",
+    "tags": [
+      "evals",
+      "llm-quality",
+      "debugging"
+    ],
+    "sourceIds": [
+      "hamel-evals",
+      "shreya-hamel-evals"
+    ],
+    "topics": [
+      "evals-observability-feedback-loops",
+      "agentic-engineering"
+    ],
+    "playbooks": [
+      "ai-code-review-checklist",
+      "daily-agent-manager-routine"
+    ],
+    "tools": [
+      "evals-and-test-harnesses"
+    ],
+    "whyAdded": "Promoted from the candidate queue because the knowledge bank needs a stronger production-evals branch, and existing source notes already cite Hamel directly.",
+    "referredBy": "Candidate queue evidence: Hamel Husain blog and AI Evals for Engineers and PMs.",
+    "matters": "Hamel is a practical lens for turning vague AI quality concerns into observed failures, review loops, and task-specific evals.",
+    "lessons": [
+      "Start evals from real mistakes and user-visible failures, not generic benchmarks.",
+      "Use small, inspectable eval sets before building complex evaluation platforms.",
+      "Treat evals as product debugging: failures should change prompts, data, UX, or workflow design."
+    ],
+    "practices": [
+      "Keep a failure log for every serious agent or LLM workflow.",
+      "Turn recurring review comments into eval cases with expected behavior and acceptance criteria.",
+      "Review eval examples manually before trusting aggregate scores."
+    ],
+    "avoid": [
+      "Do not optimize for benchmark theater when the product workflow is still unclear.",
+      "Do not let eval dashboards hide the actual examples that failed."
+    ],
+    "exercises": [
+      "Convert five rejected agent outputs into regression eval cases.",
+      "Write a one-page rubric for an AI workflow you would actually trust in production.",
+      "Run before/after evals around one prompt, retrieval, or tool change."
+    ],
+    "prompts": [
+      "Build an eval set from these failure examples. Include input, expected behavior, scoring rubric, and likely fixes.",
+      "Review this AI workflow like a product debugger: where would evals expose hidden failure modes?",
+      "Turn this human QA checklist into a lightweight eval harness."
+    ],
+    "confidenceNotes": "High confidence as an evals mentor from direct source material already in the source graph; individual tactical details should still be tied to primary notes."
+  },
+  {
+    "slug": "shreya-shankar",
+    "name": "Shreya Shankar",
+    "handle": "@sh_reya",
+    "role": "LLM evaluation, data quality, and production AI observability mentor",
+    "confidence": "High",
+    "tags": [
+      "evals",
+      "data-quality",
+      "observability"
+    ],
+    "sourceIds": [
+      "shreya-hamel-evals"
+    ],
+    "topics": [
+      "evals-observability-feedback-loops"
+    ],
+    "playbooks": [
+      "ai-code-review-checklist",
+      "planning-before-coding"
+    ],
+    "tools": [
+      "evals-and-test-harnesses"
+    ],
+    "whyAdded": "Promoted from the candidate queue to strengthen the production AI quality branch alongside Hamel Husain.",
+    "referredBy": "Candidate queue evidence: AI Evals for Engineers and PMs.",
+    "matters": "Shreya is useful for connecting eval design to data quality, observability, and the messy operational realities of AI systems.",
+    "lessons": [
+      "Evaluation quality depends on the examples, labels, rubric, and review process behind the metric.",
+      "Production AI systems need observability into inputs, outputs, reviewer judgments, and drift.",
+      "Good evals are socio-technical: humans define usefulness, edge cases, and acceptable tradeoffs."
+    ],
+    "practices": [
+      "Store representative examples with reviewer notes, not just pass/fail counts.",
+      "Separate model failures from data, product, prompt, retrieval, and workflow failures.",
+      "Track which eval cases matter most to user trust and business outcomes."
+    ],
+    "avoid": [
+      "Do not treat one score as a complete product-quality signal.",
+      "Do not build evaluation machinery before naming the user-facing failure modes."
+    ],
+    "exercises": [
+      "Design an eval dataset schema for a support or sales assistant.",
+      "Write a review rubric that separates factuality, helpfulness, policy fit, and business usefulness.",
+      "Audit a workflow for missing observability: inputs, decisions, reviewer action, final outcome."
+    ],
+    "prompts": [
+      "Design an eval and observability plan for this LLM workflow, including what humans must review.",
+      "Separate these AI failures into data, prompt, retrieval, model, and product categories.",
+      "Create a rubric that maps LLM output quality to actual user trust."
+    ],
+    "confidenceNotes": "High confidence for the evals branch based on the existing course source; expand with more primary writing before adding broader claims."
+  },
+  {
+    "slug": "eugene-yan",
+    "name": "Eugene Yan",
+    "handle": "@eugeneyan",
+    "role": "Production AI systems, recommendation, and applied ML engineering mentor",
+    "confidence": "High",
+    "tags": [
+      "production-ai",
+      "systems",
+      "evals"
+    ],
+    "sourceIds": [
+      "eugene-yan"
+    ],
+    "topics": [
+      "evals-observability-feedback-loops",
+      "ai-native-ceo-operating-system"
+    ],
+    "playbooks": [
+      "planning-before-coding",
+      "ai-code-review-checklist"
+    ],
+    "tools": [
+      "evals-and-test-harnesses",
+      "automation-stack"
+    ],
+    "whyAdded": "Promoted from the candidate queue because production AI systems are a clear gap in the current mentor map.",
+    "referredBy": "Candidate queue evidence: Eugene Yan writing.",
+    "matters": "Eugene is a useful bridge from prototypes to production systems: measurement, iteration, data, and operational tradeoffs.",
+    "lessons": [
+      "Production AI quality is built through system design, feedback loops, and monitoring, not model choice alone.",
+      "A useful AI system needs clear task framing, data pipelines, evaluation, and maintenance habits.",
+      "Documenting tradeoffs makes repeated system decisions easier for a solo operator."
+    ],
+    "practices": [
+      "Write design notes for AI features before implementation: task, data, metrics, failure modes, monitoring.",
+      "Keep offline evaluation, online feedback, and human review connected.",
+      "Prefer simple baselines before complex model-driven architectures."
+    ],
+    "avoid": [
+      "Do not ship opaque AI flows without observability or fallback.",
+      "Do not overfit the system to a demo path that never sees production variation."
+    ],
+    "exercises": [
+      "Write a production-readiness checklist for one AI workflow.",
+      "Define online and offline metrics for a small AI assistant.",
+      "Compare a rule-based baseline with an LLM approach for the same workflow."
+    ],
+    "prompts": [
+      "Review this AI feature for production readiness: data, monitoring, evals, fallback, and maintenance.",
+      "Design a simple baseline and measurement loop before adding model complexity.",
+      "Turn this prototype into a production plan with risks and observability."
+    ],
+    "confidenceNotes": "High confidence for production AI/evals positioning from existing source note; add more specific article notes before importing narrow claims."
+  },
+  {
+    "slug": "chip-huyen",
+    "name": "Chip Huyen",
+    "handle": "@chipro",
+    "role": "AI engineering fundamentals, systems, and applied ML product mentor",
+    "confidence": "High",
+    "tags": [
+      "ai-engineering",
+      "systems",
+      "fundamentals"
+    ],
+    "sourceIds": [
+      "chip-huyen-ai-engineering"
+    ],
+    "topics": [
+      "evals-observability-feedback-loops",
+      "context-engineering"
+    ],
+    "playbooks": [
+      "planning-before-coding"
+    ],
+    "tools": [
+      "evals-and-test-harnesses",
+      "mcp-and-agent-tools"
+    ],
+    "whyAdded": "Promoted from the candidate queue because the knowledge bank needs a stronger AI engineering fundamentals track.",
+    "referredBy": "Candidate queue evidence: AI Engineering.",
+    "matters": "Chip is useful for grounding agent and LLM enthusiasm in system design, data, evaluation, and deployment fundamentals.",
+    "lessons": [
+      "AI engineering is an application discipline: data, context, evaluation, latency, cost, and reliability shape outcomes.",
+      "A builder should understand enough of the stack to make good product and architecture decisions.",
+      "Fast iteration still needs rigorous measurement and failure analysis."
+    ],
+    "practices": [
+      "Maintain an AI engineering learning backlog: evals, retrieval, data quality, latency, cost, deployment, monitoring.",
+      "Before adding an AI capability, write the system constraints and acceptance criteria.",
+      "Track cost, latency, and failure modes alongside output quality."
+    ],
+    "avoid": [
+      "Do not confuse model access with system competence.",
+      "Do not skip fundamentals because tools make demos easy."
+    ],
+    "exercises": [
+      "Create a study plan that connects one AI concept to one shipped workflow each week.",
+      "Audit an AI prototype for latency, cost, data quality, and evaluation gaps.",
+      "Write a system card for a small LLM feature."
+    ],
+    "prompts": [
+      "Use AI engineering fundamentals to review this product idea: data, evals, reliability, cost, latency, and deployment.",
+      "Turn this demo into a real system design with constraints and acceptance criteria.",
+      "Create a learning loop that connects AI engineering concepts to shipped work."
+    ],
+    "confidenceNotes": "High confidence for fundamentals positioning from the book source; keep tool-specific claims dated and source-backed."
+  }
+]

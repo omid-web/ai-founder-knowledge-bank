@@ -5,7 +5,7 @@ status: active
 confidence: High
 last_updated: 2026-05-23
 tags: [site, evals-observability-feedback-loops, ai-native-ceo-operating-system]
-related: [../02_Topics/evals-observability-feedback-loops.md, ../02_Topics/ai-native-ceo-operating-system.md]
+related: [../01_People/eugene-yan.md, ../02_Topics/evals-observability-feedback-loops.md, ../02_Topics/ai-native-ceo-operating-system.md]
 sources: [eugene-yan]
 ---
 
@@ -43,7 +43,7 @@ Eugene Yan writes production-shaped essays about ML, LLMs, evals, leadership, an
 
 ## Related People
 
-- None promoted yet
+- [Eugene Yan](../01_People/eugene-yan.md)
 
 ## Related Topics
 

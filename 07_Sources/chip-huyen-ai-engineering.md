@@ -5,7 +5,7 @@ status: active
 confidence: High
 last_updated: 2026-05-23
 tags: [book, evals-observability-feedback-loops, mcp-and-agent-tools]
-related: [../02_Topics/evals-observability-feedback-loops.md, ../04_Tooling/mcp-and-agent-tools.md]
+related: [../01_People/chip-huyen.md, ../02_Topics/evals-observability-feedback-loops.md, ../04_Tooling/mcp-and-agent-tools.md]
 sources: [chip-huyen-ai-engineering]
 ---
 
@@ -43,7 +43,7 @@ Chip Huyen's book covers building applications with foundation models, including
 
 ## Related People
 
-- None promoted yet
+- [Chip Huyen](../01_People/chip-huyen.md)
 
 ## Related Topics
 

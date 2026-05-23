@@ -5,7 +5,7 @@ status: active
 confidence: High
 last_updated: 2026-05-23
 tags: [ceo, operations, leverage]
-related: [../01_People/tobias-lutke.md, ../01_People/andrew-ng.md]
+related: [../01_People/tobias-lutke.md, ../01_People/andrew-ng.md, ../01_People/eugene-yan.md]
 sources: [shopify-ai-playground, andrew-ng-official, deeplearning-ai-about]
 ---
 
@@ -26,6 +26,7 @@ A one-person company needs operating rituals that convert AI capability into bet
 
 - [Tobias Lutke](../01_People/tobias-lutke.md)
 - [Andrew Ng](../01_People/andrew-ng.md)
+- [Eugene Yan](../01_People/eugene-yan.md)
 
 ## Tools And Practices
 
@@ -59,3 +60,4 @@ A one-person company needs operating rituals that convert AI capability into bet
 
 - [Tobias Lutke](../01_People/tobias-lutke.md)
 - [Andrew Ng](../01_People/andrew-ng.md)
+- [Eugene Yan](../01_People/eugene-yan.md)

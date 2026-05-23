@@ -1,0 +1,13 @@
+{
+  "name": "ai-founder-knowledge-bank",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A local-first static knowledge bank for AI-native founder learning and agent workflow maintenance.",
+  "type": "module",
+  "scripts": {
+    "generate": "node 10_Agent_Data/generate-knowledge-bank.mjs",
+    "check": "node scripts/check-knowledge-bank.mjs",
+    "scan:redaction": "node scripts/redaction-scan.mjs",
+    "check:external-links": "node scripts/check-external-links.mjs"
+  }
+}

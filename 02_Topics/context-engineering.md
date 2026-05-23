@@ -5,7 +5,7 @@ status: active
 confidence: Medium
 last_updated: 2026-05-23
 tags: [context, prompts, files]
-related: [../01_People/andrej-karpathy.md, ../01_People/thariq-shihipar.md, ../01_People/simon-willison.md]
+related: [../01_People/andrej-karpathy.md, ../01_People/thariq-shihipar.md, ../01_People/simon-willison.md, ../01_People/chip-huyen.md]
 sources: [karpathy-software-changing, thariq-agent-design, simon-agentic-patterns]
 ---
 
@@ -26,6 +26,7 @@ The agent's output quality is shaped by the context it can see, the examples it 
 - [Andrej Karpathy](../01_People/andrej-karpathy.md)
 - [Thariq Shihipar](../01_People/thariq-shihipar.md)
 - [Simon Willison](../01_People/simon-willison.md)
+- [Chip Huyen](../01_People/chip-huyen.md)
 
 ## Tools And Practices
 
@@ -60,3 +61,4 @@ The agent's output quality is shaped by the context it can see, the examples it 
 - [Andrej Karpathy](../01_People/andrej-karpathy.md)
 - [Thariq Shihipar](../01_People/thariq-shihipar.md)
 - [Simon Willison](../01_People/simon-willison.md)
+- [Chip Huyen](../01_People/chip-huyen.md)

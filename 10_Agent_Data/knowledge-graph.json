@@ -68,6 +68,30 @@
       "confidence": "High"
     },
     {
+      "id": "hamel-husain",
+      "label": "Hamel Husain",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "shreya-shankar",
+      "label": "Shreya Shankar",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "eugene-yan",
+      "label": "Eugene Yan",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
+      "id": "chip-huyen",
+      "label": "Chip Huyen",
+      "type": "person",
+      "confidence": "High"
+    },
+    {
       "id": "agentic-engineering",
       "label": "Agentic Engineering",
       "type": "topic",
@@ -221,6 +245,60 @@
       "id": "browser-qa-workflow",
       "label": "Browser QA Workflow",
       "type": "tooling",
+      "confidence": "High"
+    },
+    {
+      "id": "research-prompts",
+      "label": "Research Prompts",
+      "type": "prompts",
+      "confidence": "High"
+    },
+    {
+      "id": "planning-prompts",
+      "label": "Planning Prompts",
+      "type": "prompts",
+      "confidence": "High"
+    },
+    {
+      "id": "code-review-prompts",
+      "label": "Code Review Prompts",
+      "type": "prompts",
+      "confidence": "High"
+    },
+    {
+      "id": "product-strategy-prompts",
+      "label": "Product Strategy Prompts",
+      "type": "prompts",
+      "confidence": "High"
+    },
+    {
+      "id": "eval-prompts",
+      "label": "Eval Prompts",
+      "type": "prompts",
+      "confidence": "High"
+    },
+    {
+      "id": "debugging-prompts",
+      "label": "Debugging Prompts",
+      "type": "prompts",
+      "confidence": "High"
+    },
+    {
+      "id": "refactoring-prompts",
+      "label": "Refactoring Prompts",
+      "type": "prompts",
+      "confidence": "High"
+    },
+    {
+      "id": "weekly-review-prompts",
+      "label": "Weekly Review Prompts",
+      "type": "prompts",
+      "confidence": "High"
+    },
+    {
+      "id": "knowledge-bank-maintenance-prompts",
+      "label": "Knowledge Bank Maintenance Prompts",
+      "type": "prompts",
       "confidence": "High"
     },
     {
@@ -551,30 +629,6 @@
       "id": "chip-huyen-ai-engineering",
       "label": "AI Engineering",
       "type": "source",
-      "confidence": "High"
-    },
-    {
-      "id": "hamel-husain",
-      "label": "Hamel Husain",
-      "type": "candidate",
-      "confidence": "High"
-    },
-    {
-      "id": "shreya-shankar",
-      "label": "Shreya Shankar",
-      "type": "candidate",
-      "confidence": "High"
-    },
-    {
-      "id": "eugene-yan",
-      "label": "Eugene Yan",
-      "type": "candidate",
-      "confidence": "High"
-    },
-    {
-      "id": "chip-huyen",
-      "label": "Chip Huyen",
-      "type": "candidate",
       "confidence": "High"
     },
     {
@@ -1198,6 +1252,131 @@
       "relation": "supported-by"
     },
     {
+      "from": "hamel-husain",
+      "to": "evals-observability-feedback-loops",
+      "relation": "teaches"
+    },
+    {
+      "from": "hamel-husain",
+      "to": "agentic-engineering",
+      "relation": "teaches"
+    },
+    {
+      "from": "hamel-husain",
+      "to": "ai-code-review-checklist",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "hamel-husain",
+      "to": "daily-agent-manager-routine",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "hamel-husain",
+      "to": "evals-and-test-harnesses",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "hamel-husain",
+      "to": "hamel-evals",
+      "relation": "supported-by"
+    },
+    {
+      "from": "hamel-husain",
+      "to": "shreya-hamel-evals",
+      "relation": "supported-by"
+    },
+    {
+      "from": "shreya-shankar",
+      "to": "evals-observability-feedback-loops",
+      "relation": "teaches"
+    },
+    {
+      "from": "shreya-shankar",
+      "to": "ai-code-review-checklist",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "shreya-shankar",
+      "to": "planning-before-coding",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "shreya-shankar",
+      "to": "evals-and-test-harnesses",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "shreya-shankar",
+      "to": "shreya-hamel-evals",
+      "relation": "supported-by"
+    },
+    {
+      "from": "eugene-yan",
+      "to": "evals-observability-feedback-loops",
+      "relation": "teaches"
+    },
+    {
+      "from": "eugene-yan",
+      "to": "ai-native-ceo-operating-system",
+      "relation": "teaches"
+    },
+    {
+      "from": "eugene-yan",
+      "to": "planning-before-coding",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "eugene-yan",
+      "to": "ai-code-review-checklist",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "eugene-yan",
+      "to": "evals-and-test-harnesses",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "eugene-yan",
+      "to": "automation-stack",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "eugene-yan",
+      "to": "eugene-yan",
+      "relation": "supported-by"
+    },
+    {
+      "from": "chip-huyen",
+      "to": "evals-observability-feedback-loops",
+      "relation": "teaches"
+    },
+    {
+      "from": "chip-huyen",
+      "to": "context-engineering",
+      "relation": "teaches"
+    },
+    {
+      "from": "chip-huyen",
+      "to": "planning-before-coding",
+      "relation": "informs-playbook"
+    },
+    {
+      "from": "chip-huyen",
+      "to": "evals-and-test-harnesses",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "chip-huyen",
+      "to": "mcp-and-agent-tools",
+      "relation": "informs-tooling"
+    },
+    {
+      "from": "chip-huyen",
+      "to": "chip-huyen-ai-engineering",
+      "relation": "supported-by"
+    },
+    {
       "from": "agentic-engineering",
       "to": "simon-agentic-patterns",
       "relation": "supported-by"
@@ -1331,31 +1510,6 @@
       "from": "prompt-to-product",
       "to": "openai-codex-app",
       "relation": "supported-by"
-    },
-    {
-      "from": "hamel-husain",
-      "to": "hamel-evals",
-      "relation": "candidate-evidence"
-    },
-    {
-      "from": "hamel-husain",
-      "to": "shreya-hamel-evals",
-      "relation": "candidate-evidence"
-    },
-    {
-      "from": "shreya-shankar",
-      "to": "shreya-hamel-evals",
-      "relation": "candidate-evidence"
-    },
-    {
-      "from": "eugene-yan",
-      "to": "eugene-yan",
-      "relation": "candidate-evidence"
-    },
-    {
-      "from": "chip-huyen",
-      "to": "chip-huyen-ai-engineering",
-      "relation": "candidate-evidence"
     },
     {
       "from": "boris-cherny",

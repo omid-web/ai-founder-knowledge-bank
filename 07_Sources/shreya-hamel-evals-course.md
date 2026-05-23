@@ -5,7 +5,7 @@ status: active
 confidence: High
 last_updated: 2026-05-23
 tags: [course, evals-observability-feedback-loops]
-related: [../02_Topics/evals-observability-feedback-loops.md]
+related: [../01_People/hamel-husain.md, ../01_People/shreya-shankar.md, ../02_Topics/evals-observability-feedback-loops.md]
 sources: [shreya-hamel-evals]
 ---
 
@@ -42,7 +42,8 @@ Course page for practical AI evals by Hamel Husain and Shreya Shankar.
 
 ## Related People
 
-- None promoted yet
+- [Hamel Husain](../01_People/hamel-husain.md)
+- [Shreya Shankar](../01_People/shreya-shankar.md)
 
 ## Related Topics
 

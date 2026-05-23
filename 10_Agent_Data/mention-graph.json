@@ -129,18 +129,6 @@
       "promotion_status": "tracked"
     },
     {
-      "slug": "hamel-husain",
-      "label": "Hamel Husain",
-      "mentioned_by_sources": [
-        "hamel-evals",
-        "shreya-hamel-evals"
-      ],
-      "mention_count": 2,
-      "confidence": "High",
-      "promotion_status": "candidate",
-      "reason": "Strong gap-fill candidate for evals and AI product debugging. Mentioned in eval sources, but not yet repeatedly referenced by core mentors in this first pass."
-    },
-    {
       "slug": "human-agent-engineering-teams",
       "label": "human-agent engineering teams",
       "mentioned_by_sources": [
@@ -212,6 +200,17 @@
       "mentioned_by_sources": [
         "levelsio-blog",
         "levels-projects"
+      ],
+      "mention_count": 2,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "shreya-shankar",
+      "label": "Shreya Shankar",
+      "mentioned_by_sources": [
+        "hamel-evals",
+        "shreya-hamel-evals"
       ],
       "mention_count": 2,
       "confidence": "Medium",
@@ -533,17 +532,6 @@
       "promotion_status": "tracked"
     },
     {
-      "slug": "chip-huyen",
-      "label": "Chip Huyen",
-      "mentioned_by_sources": [
-        "chip-huyen-ai-engineering"
-      ],
-      "mention_count": 1,
-      "confidence": "High",
-      "promotion_status": "candidate",
-      "reason": "Strong AI engineering fundamentals candidate. Keep as candidate until the knowledge bank adds a dedicated AI engineering learning track."
-    },
-    {
       "slug": "cmrr",
       "label": "CMRR",
       "mentioned_by_sources": [
@@ -744,17 +732,6 @@
       "promotion_status": "tracked"
     },
     {
-      "slug": "eugene-yan",
-      "label": "Eugene Yan",
-      "mentioned_by_sources": [
-        "eugene-yan"
-      ],
-      "mention_count": 1,
-      "confidence": "High",
-      "promotion_status": "candidate",
-      "reason": "Strong production AI/evals candidate. Useful gap-fill if production LLM systems become a major branch."
-    },
-    {
       "slug": "evaluation",
       "label": "evaluation",
       "mentioned_by_sources": [
@@ -869,6 +846,16 @@
       "label": "GPT",
       "mentioned_by_sources": [
         "karpathy-nanogpt"
+      ],
+      "mention_count": 1,
+      "confidence": "Medium",
+      "promotion_status": "tracked"
+    },
+    {
+      "slug": "hamel-husain",
+      "label": "Hamel Husain",
+      "mentioned_by_sources": [
+        "shreya-hamel-evals"
       ],
       "mention_count": 1,
       "confidence": "Medium",
@@ -1463,17 +1450,6 @@
       "mention_count": 1,
       "confidence": "Medium",
       "promotion_status": "tracked"
-    },
-    {
-      "slug": "shreya-shankar",
-      "label": "Shreya Shankar",
-      "mentioned_by_sources": [
-        "shreya-hamel-evals"
-      ],
-      "mention_count": 1,
-      "confidence": "High",
-      "promotion_status": "candidate",
-      "reason": "Strong candidate for evals, data quality, and production ML/AI observability. Needs a dedicated promotion review before full mentor page."
     },
     {
       "slug": "simple-stack",

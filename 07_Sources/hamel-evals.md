@@ -5,7 +5,7 @@ status: active
 confidence: High
 last_updated: 2026-05-23
 tags: [site, evals-observability-feedback-loops]
-related: [../02_Topics/evals-observability-feedback-loops.md]
+related: [../01_People/hamel-husain.md, ../02_Topics/evals-observability-feedback-loops.md]
 sources: [hamel-evals]
 ---
 
@@ -43,7 +43,7 @@ Hamel Husain writes extensively about LLM evals, AI product debugging, and appli
 
 ## Related People
 
-- None promoted yet
+- [Hamel Husain](../01_People/hamel-husain.md)
 
 ## Related Topics
 

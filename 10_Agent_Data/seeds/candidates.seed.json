@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "boris-cherny",
+    "name": "Boris Cherny",
+    "type": "person",
+    "status": "candidate",
+    "confidence": "Medium",
+    "reason": "Appears in Claude Code workflow ecosystem and Thariq-related recaps. Needs primary-source review before promotion.",
+    "evidence": [
+      "thariq-workshop-recap"
+    ],
+    "relatedTopics": [
+      "claude-code-and-codex-workflows",
+      "parallel-agent-workflow"
+    ]
+  },
+  {
+    "slug": "addy-osmani",
+    "name": "Addy Osmani",
+    "type": "person",
+    "status": "candidate",
+    "confidence": "Medium",
+    "reason": "Potential gap-fill for frontend/product quality and AI-assisted engineering. Not enough evidence from core mentor graph in this pass.",
+    "evidence": [],
+    "relatedTopics": [
+      "engineering-taste-code-quality"
+    ]
+  },
+  {
+    "slug": "lenny-rachitsky",
+    "name": "Lenny Rachitsky",
+    "type": "person",
+    "status": "candidate",
+    "confidence": "Medium",
+    "reason": "Potential gap-fill for product and growth. Not enough evidence from core mentor graph in this pass.",
+    "evidence": [],
+    "relatedTopics": [
+      "solo-founder-product-distribution"
+    ]
+  }
+]
